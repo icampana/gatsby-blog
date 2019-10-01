@@ -1,0 +1,15 @@
+---
+author: ivan
+comments: true
+date: 2009-06-07 00:43:00+00:00
+layout: post
+path: /2009/06/mi-iphone-con-beatmania
+slug: mi-iphone-con-beatmania
+title: Mi iPhone, con Beatmanía
+wordpress_id: 758
+categories:
+  - Sin categoría
+---
+
+[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/06/photo-722745.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SirG7pSn2HI/AAAAAAAABiI/PqYFv73zE7o/s1600-h/photo-722745.jpg)Tan solo un ligero cambio de look a mi telefono, colorido y con los  
+idolos, The Beatles
