@@ -54,11 +54,14 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+        Escrito por <strong>{author}</strong> Informático, Emprendedor, Desarrollador y Curioso a tiempo completo.
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+        <a href={`https://twitter.com/${social.twitter}`} className="fa fa-twitter">
+          Twitter.
+        </a>
+        &nbsp;
+        <a href={`https://github.com/${social.github}`} className="fa fa-github">
+          Github.
         </a>
       </p>
     </div>

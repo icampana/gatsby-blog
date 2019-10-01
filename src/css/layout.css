@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.text-title {
+  @apply text-blue-500 font-bold;
+}
+
+.blog-post-box {
+  @apply inline-block align-top max-w-sm rounded-sm mx-5;
+}
+
+a.link {
+  @apply no-underline text-blue-500;
+
+  &:hover {
+    @apply text-blue-900;
+  }
+}
