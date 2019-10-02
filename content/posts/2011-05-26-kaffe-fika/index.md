@@ -44,10 +44,10 @@ Para los más curiosos, acá unas cuantas fotos del lugar y finalmente cómo lle
 </td>  
 <td >[![](./IMG_4804-1.jpg)](http://1.bp.blogspot.com/-Q2a7ybuShLA/TdC77gs7_BI/AAAAAAAACOQ/8aLXgVN0Ze8/s1600/IMG_4804.jpg)
 </td>
-<td >![](http://ivan.campananaranjo.com/wp-content/uploads/2011/05/IMG_4811-1.jpg)
+<td >![](./IMG_4811-1.jpg)
 </td>  </tr>
 <tr >
-<td >![](http://ivan.campananaranjo.com/wp-content/uploads/2011/05/IMG_4805-1.jpg)
+<td >![](./IMG_4805-1.jpg)
 </td>  
 <td >[![](./IMG_4809-1.jpg)](http://1.bp.blogspot.com/-Durwt_gD1Ng/TdC7-kI160I/AAAAAAAACOc/25o0mjBnKUw/s1600/IMG_4809.jpg)
 </td>  

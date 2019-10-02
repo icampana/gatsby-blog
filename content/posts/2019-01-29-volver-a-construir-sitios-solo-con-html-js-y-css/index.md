@@ -20,7 +20,9 @@ tags:
 
 Cuando comencé a crear sitios webs (mi primer encuentro con el HTML fue en 1996 mientras hacía prácticas del colegio) lo único con lo que contábamos era HTML y algo mínimo de Javascript o VBScript (Sí, eso existió alguna vez), los resultados eran bastante rudimentarios, pero solucionaba la necesidad básica, toda la información era estática y necesitábamos actualizar archivo por archivo si había algún cambio. En 1997 apareció el CSS y fue en ese momento la mayor mejora para comenzar a darle una apariencia agradable a un sitio web.
 
-![](http://ivan.campananaranjo.com/wp-content/uploads/2019/01/Captura-de-pantalla-2019-01-28-a-las-19.03.16.png)El ejemplo del diseño de una web [bastante conocida](http://www.eluniverso.com) en 1997 con los elementos básicos que había. (gracias a [The Internet Archive Wayback Machine](https://web.archive.org/web/19970430004359/http://www.eluniverso.com/)).
+![](./Captura-de-pantalla-2019-01-28-a-las-19.03.16.png)
+
+El ejemplo del diseño de una web [bastante conocida](http://www.eluniverso.com) en 1997 con los elementos básicos que había. (gracias a [The Internet Archive Wayback Machine](https://web.archive.org/web/19970430004359/http://www.eluniverso.com/)).
 
 Pero fuera de la apariencia el proceso era bastante sencillo, había que crear un documento de texto con las etiquetas para dar algo de formato, enlazar los contenidos, cargar unas cuantas imágenes en el servidor y listo, teníamos una página web que podía ser visitada por quien quisiera en cualquier parte del mundo. Hoy en día tenemos páginas sumamente vistosas, que requieren componentes del lado del servidor para procesar nuestros datos y pueden demandar mucho de la máquina cliente.
 
@@ -28,13 +30,15 @@ Sin embargo, hay algo que conecta estas dos épocas y es la escasez de recursos,
 
 En la actualidad el dispositivo que más se utiliza para acceder al Internet no es una computadora de escritorio, sino un teléfono celular que si bien supera en capacidad a un computador del 97, sigue teniendo procesador lento (en comparación a una de escritorio), tiene poco espacio en disco, poca memoria y si te descuidas **"te quedas sin megas"**.
 
-![](http://ivan.campananaranjo.com/wp-content/uploads/2019/01/Aptiva-complete-1.jpg)No es la foto real, pero era el mismo modelo (IBM Aptiva 2144) con el que sobreviví durante esos años.
+![](./Aptiva-complete-1.jpg)
+
+No es la foto real, pero era el mismo modelo (IBM Aptiva 2144) con el que sobreviví durante esos años.
 
 Estamos en 2019, alguno probablemente dirá: nah' ahora no hay que pensar en eso, las máquinas son mucho más rápidas y Google se hace cargo de todo. Pues justamente por eso han aparecido propuestas como **[Google AMP (Accelerated Mobile Pages)](https://www.ampproject.org/es/)** que buscan simplificar y pre-cargar la información para poder entregar resultados más rápidos y sin consumir muchos recursos. Especialmente enfocándose en los dispositivos móviles pues a la fecha representan entre el 50 y el 60% del tráfico de los sitios webs, es decir, se utilizan tanto o más que una computadora para acceder a los contenidos.
 
 Otro factor importante es que no todos tienen un teléfono celular de gama alta (de los costosos), gracias a Android hay teléfonos que se pueden conectar a Internet y navegar teniendo costos tan bajos como $30 o $40 dólares, obviamente con capacidades bastante limitadas. Sin embargo, si vemos el siguiente gráfico se entiende de manera más clara por qué es importante pensar en los dispositivos de menos recursos.
 
-![](http://ivan.campananaranjo.com/wp-content/uploads/2019/01/Captura-de-pantalla-2019-01-28-a-las-19.27.24.png)Tiempo necesario para cargar la web de [CNN.com](https://edition.cnn.com/) dependiendo del tipo de celular que tenemos.
+![](./Captura-de-pantalla-2019-01-28-a-las-19.27.24.png)Tiempo necesario para cargar la web de [CNN.com](https://edition.cnn.com/) dependiendo del tipo de celular que tenemos.
 
 Un iPhone 8 puede cargar este sitio web de muestra en menos de 10 segundos, mientras que un celular de menos de \$100 va a tardarse aproximadamente 42 segundos, tiempo suficiente para que el usuario se aburra, cierre la página y siga adelante o si le estábamos tratando de vender algo, se vaya con el competidor.
 
@@ -52,7 +56,7 @@ Lo mejor es que al final lo que genera son archivos estáticos (HTML, JS y CSS) 
 
 Todo el sitio se optimiza dependiendo del dispositivo y consume la menor cantidad de recursos, en las pruebas con [Lighthouse](https://developers.google.com/web/tools/lighthouse/) (la herramienta de pruebas de rendimiento de Google), casi todos los sitios hechos con Gatsby tienen una calificación que llega al 100/100 o muy cercana.
 
-![](http://ivan.campananaranjo.com/wp-content/uploads/2019/01/lighthouse-audit-results.png)Resultado de una prueba básica con Lighthouse a un sitio de ejemplo con Gatsby.
+![](./lighthouse-audit-results.png)Resultado de una prueba básica con Lighthouse a un sitio de ejemplo con Gatsby.
 
 Para los más técnicos si quieren saber qué hay por detrás, lo que hace Gatsby es generar una **Single Page Application (SPA)** que una vez realizada la carga inicial se convierte en una aplicación de React completa, con lo cual tenemos todas las herramientas modernas (Lazy loading, optimización de imágenes, Pre-carga, historial de navegación, etc...) para construir un sitio web, pero sin la sobrecarga de un sitio pesado.
 

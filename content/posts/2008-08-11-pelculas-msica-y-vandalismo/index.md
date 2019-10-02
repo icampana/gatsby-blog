@@ -19,13 +19,13 @@ Un fin de semana tranquilo hace necesario darle un poco de animación, así que 
 
 Mi selección de fin de semana:
 
-![](http://ivan.campananaranjo.com/wp-content/uploads/2008/08/Lolita.jpg)
+![](./Lolita.jpg)
 Lolita (la versión de Kubrick)
 
-![](http://ivan.campananaranjo.com/wp-content/uploads/2008/08/FourRooms.jpg)
+![](./FourRooms.jpg)
 Four Rooms (4 directores, 4 historias, 4 guionistas, entre ellos Robert Rodríguez y Quentin Tarantino)
 
-![](http://ivan.campananaranjo.com/wp-content/uploads/2008/08/Rocky_horror.jpg)
+![](./Rocky_horror.jpg)
 y finalmente una película de culto, Rocky Horror Picture Show (Una comedia con parte de ciencia ficción que es más loca que mandada a hacer).
 
 Si alguien se anima a verlas, tiene que hacerlo con mucho criterio, porque todas, completamente todas las de esta selección son bastante... humm.. como lo podría decir, espesas, no cualquiera entiende la idea que va detrás sin que pierda un tornillo.

@@ -14,7 +14,7 @@ tags:
   - Personal
 ---
 
-<blockquote>![](http://ivan.campananaranjo.com/wp-content/uploads/2008/07/guayaquil1.jpg)Rockeros, con ritmo japonés  
+<blockquote>![](./guayaquil1.jpg)Rockeros, con ritmo japonés  
   
 La banda musical Niji es parte de una tendencia que atrae a cientos de jóvenes, entre colegiales y universitarios</blockquote>
 

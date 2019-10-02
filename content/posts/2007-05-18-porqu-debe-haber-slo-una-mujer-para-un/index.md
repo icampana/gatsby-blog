@@ -16,7 +16,7 @@ tags:
   - Personal
 ---
 
-![](http://ivan.campananaranjo.com/wp-content/uploads/2007/05/women.gif)Para las mujeres que lean esto, les sugiero que tengan un poco de paciencia y lleguen hasta el final, antes de explotar en cólera o decir este tipo es un idiota, no se queden simplemente en el título, espero poder llegar a explicar mi idea hasta ese punto.
+![](./women.gif)Para las mujeres que lean esto, les sugiero que tengan un poco de paciencia y lleguen hasta el final, antes de explotar en cólera o decir este tipo es un idiota, no se queden simplemente en el título, espero poder llegar a explicar mi idea hasta ese punto.
 
 Asumo que el primer pensamiento que cruzará por sus cabezas será: "Esto es tan típico de los hombres, son todos iguales". En especial si quien lee esto es una mujer.
 
