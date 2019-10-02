@@ -20,7 +20,7 @@ Laptop Tuning!
 [![](http://farm1.static.flickr.com/175/465836267_a877d86a9a_m.jpg)](http://www.flickr.com/photos/76321258@N00/465836267/)  
  [Finalizando la capa de pinturaa](http://www.flickr.com/photos/76321258@N00/465836267/)
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2007/04/DSC00673.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/RigiyjGRX5I/AAAAAAAAAB8/A0csMbBd2bQ/s1600-h/DSC00673.JPG)  
+[![](./DSC00673.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/RigiyjGRX5I/AAAAAAAAAB8/A0csMbBd2bQ/s1600-h/DSC00673.JPG)  
 Revisando en [ebay](http://www.ebay.com/) encontré una laptop que me encantaba hace años, una IBM Thinkpad 570. Para la actualidad se consideraría probablemente como un cacharro en comparación a las mega computadoras que existen en el mercado. Los puntos a favor, super ligera y delgada (pesa apenas 3 libras y mide casi lo mismo que una hoja A4, se confunde fácilmente con un cuaderno en una maleta. Mientras trabajaba en una agencia de publicidad tuve una igual, pero se me dañó y de paso con mis "travesuras" terminó peor.
 
 Considerando el precio(\$35), las ganas de seguir haciendo experimentos con Linux y el valor hasta cierto punto "sentimental" de la laptop decidí comprarla, no voy a detallar toda la odisea por la que pasé para poder traerla al país (esa es otra historia), necesité conseguir algunos repuestos y mejoras (una vez más me ayudé de ebay). Al final logré repararla recordando parte de lo que aprendí en mis adolescencia (me dio por aprender electrónica a los 14 años) y pude tenerla funcionando con poco más de 100 dólares.
@@ -31,7 +31,7 @@ El logotipo de los Autobots lo mandé a hacer en vinil en una isla dentro de un 
 
 Así es como lucía la laptop originalmente:
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2007/04/TP570.gif)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/RigjpjGRX6I/AAAAAAAAACE/2zOWVIvoSfk/s1600-h/TP570.gif)Las especificaciones finales con las que quedó son:
+[![](./TP570.gif)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/RigjpjGRX6I/AAAAAAAAACE/2zOWVIvoSfk/s1600-h/TP570.gif)Las especificaciones finales con las que quedó son:
 
 - Procesador Pentium II de 366 Mhz
 - 192MB de memoria RAM

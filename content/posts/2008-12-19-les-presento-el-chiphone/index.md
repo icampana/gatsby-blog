@@ -19,15 +19,15 @@ Hace mucho que no escribía algo así de Nerd por acá... ja ja ja... Por alguna
 
 A mis manos llegó este aparato para que lo revise y decida si se podía hacer algo con él:
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/12/DSC03878.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SUtLxHBOBtI/AAAAAAAABO4/JXSLKceYDuk/s1600-h/DSC03878.JPG)
+[![](./DSC03878.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SUtLxHBOBtI/AAAAAAAABO4/JXSLKceYDuk/s1600-h/DSC03878.JPG)
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/12/DSC03887.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SUtJrtjAKuI/AAAAAAAABOw/h9YaEjQrgRw/s1600-h/DSC03887.JPG)
+[![](./DSC03887.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SUtJrtjAKuI/AAAAAAAABOw/h9YaEjQrgRw/s1600-h/DSC03887.JPG)
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/12/DSC03886.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SUtJrhWttuI/AAAAAAAABOo/pF3Hyd_7ruk/s1600-h/DSC03886.JPG)
+[![](./DSC03886.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SUtJrhWttuI/AAAAAAAABOo/pF3Hyd_7ruk/s1600-h/DSC03886.JPG)
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/12/DSC03885.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SUtJrUiqgxI/AAAAAAAABOg/xkkPNMWQK5A/s1600-h/DSC03885.JPG)
+[![](./DSC03885.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SUtJrUiqgxI/AAAAAAAABOg/xkkPNMWQK5A/s1600-h/DSC03885.JPG)
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/12/DSC03880.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SUtJrcfm3zI/AAAAAAAABOY/K2ztVQl8OzA/s1600-h/DSC03880.JPG)
+[![](./DSC03880.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SUtJrcfm3zI/AAAAAAAABOY/K2ztVQl8OzA/s1600-h/DSC03880.JPG)
 
 Si pude hacer algo con él, nope, por una simple razón, el Sistema Operativo que tenía es arcáico, no se diga adicionalmente que la poca información que logré conseguir sobre esta clon del iPhone estaba en chino, era poco lo que podía alcanzar a entender... Adicionalmente quien lo compró cometió un error y no era compatible con las frecuencias que se utilizan en la red GSM locales, así que teníamos un teléfono bonito que sólo servía para jugar.
 

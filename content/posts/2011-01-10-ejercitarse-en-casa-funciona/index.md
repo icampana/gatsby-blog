@@ -53,11 +53,11 @@ En general me gustó, es como tener un entrenador personal que podemos llamar cu
 
 La pregunta más importante, una vez que terminé mi primera ronda, logré algo? Estos son parte de los resultados que registré después de 3 meses:
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2011/01/antes_despues_p90X.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/TSn2Ib170rI/AAAAAAAACNI/uS6TUzWnqDA/s1600/antes_despues_p90X.jpg)
+[![](./antes_despues_p90X.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/TSn2Ib170rI/AAAAAAAACNI/uS6TUzWnqDA/s1600/antes_despues_p90X.jpg)
 
 Resultado después de 3 meses
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2011/01/frontal_flexionado.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/TSn6gHhetRI/AAAAAAAACNM/XLKyz8Spc7I/s1600/frontal_flexionado.jpg)
+[![](./frontal_flexionado.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/TSn6gHhetRI/AAAAAAAACNM/XLKyz8Spc7I/s1600/frontal_flexionado.jpg)
 
 Si bien no se comparan con los resultados que otras personas han obtenido, yo me sentí más que satisfecho con lo que logré, tomando en cuenta que lo hago en mi casa, sin poner un pie en un gimnasio, a mi ritmo y en mi propio horario.
 
@@ -73,6 +73,6 @@ Aún así el creador del programa, **Tony Horton**, decidió para diciembre saca
 
 Este es el libro:
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2011/01/Bring-It-book-cover.jpg)](http://ivan.campananaranjo.com/wp-content/uploads/2011/01/Bring-It-book-cover.jpg)
+[![](./Bring-It-book-cover.jpg)](./Bring-It-book-cover.jpg)
 
 Algo que se me olvidaba... Nada funciona sin compromiso y esfuerzo!

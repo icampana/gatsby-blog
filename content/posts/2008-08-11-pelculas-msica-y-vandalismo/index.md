@@ -34,15 +34,15 @@ Con respecto a la música, además de la presentación del grupo al que pertenec
 
 Y finalmente, luego de una salida inesperada terminé en un barcito acogedor de las peñas, conversando, riéndonos y tomando un par de cervezas llegó lo inevitable, ir al baño.. Una gran sorpresa me encontré al ver que en el baño habían "decoraciones" dejadas por visitantes anteriores y no pude evitar la tentación de querer decorar un poco también, de entre estos 3, uno es mío, creo que algunos(as) sabrán fácilmente qué fue lo que yo escribí... je je... un pelín de vandalismo controlado :P<table cellpadding="0" cellspacing="0" border="0" width="100%" ></table><table cellpadding="0" cellspacing="0" border="0" width="100%" ><tbody ><tr >
 
-<td >[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/08/Imagen060.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SJ_55sOD96I/AAAAAAAAAyw/T-s7OzxIMrQ/s1600-h/Imagen060.jpg)
+<td >[![](./Imagen060.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SJ_55sOD96I/AAAAAAAAAyw/T-s7OzxIMrQ/s1600-h/Imagen060.jpg)
 </td>
 
-<td >[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/08/Baño.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SJ_55gpDaAI/AAAAAAAAAy4/1HUSxDiK2qc/s1600-h/Ba%C3%B1o.jpg)
+<td >[![](./Baño.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SJ_55gpDaAI/AAAAAAAAAy4/1HUSxDiK2qc/s1600-h/Ba%C3%B1o.jpg)
 </td>
 </tr>
 <tr >
 
-<td colspan="2" align="center" >[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/08/Imagen059.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SJ_55YkKyMI/AAAAAAAAAyo/PafKo0ClV6I/s1600-h/Imagen059.jpg)
+<td colspan="2" align="center" >[![](./Imagen059.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SJ_55YkKyMI/AAAAAAAAAyo/PafKo0ClV6I/s1600-h/Imagen059.jpg)
 </td>
 </tr>
 </tbody></table>

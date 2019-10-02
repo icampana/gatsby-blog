@@ -16,7 +16,7 @@ tags:
   - Personal
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/12/diva_nicotina.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SThgiK06xiI/AAAAAAAABNo/fou6wc4zyHo/s1600-h/diva_nicotina.jpg)Por esas cosas de la vida terminé conversando un rato con el dueño de [Diva Nicotina](http://www.myspace.com/divanicotina), un café habano muy bueno en el cerro Santa Ana. No sabía que tenían una [página](http://www.myspace.com/divanicotina), y una de las cosas que me pareció super buena al entrar al sitio es lo que buscan conocer:
+[![](./diva_nicotina.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SThgiK06xiI/AAAAAAAABNo/fou6wc4zyHo/s1600-h/diva_nicotina.jpg)Por esas cosas de la vida terminé conversando un rato con el dueño de [Diva Nicotina](http://www.myspace.com/divanicotina), un café habano muy bueno en el cerro Santa Ana. No sabía que tenían una [página](http://www.myspace.com/divanicotina), y una de las cosas que me pareció super buena al entrar al sitio es lo que buscan conocer:
 
 <blockquote>A todos los músicos que están seguros que su propuesta vale la pena ser transmitida a las masas.  Aceptamos preferentemente el rock alternativo, el Jazz, la experimentación entre otros, pero nunca a las bandas que tocan música chichera como el mal llamado rock latino, lo trillado del rock clásico en general NO COVERS.</blockquote>
 
@@ -26,4 +26,4 @@ Pocos son los lugares de ese estilo que realmente valen la pena y que no se deja
 
 Aprovechando el espacio, mañana hay una tocada de música electrónica en vivo, por si alguien se anima, yo estaré en primera fila :)
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/12/f145.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SThgpOMgnKI/AAAAAAAABNw/E4CnjAEdcw8/s1600-h/f145.jpg)
+[![](./f145.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SThgpOMgnKI/AAAAAAAABNw/E4CnjAEdcw8/s1600-h/f145.jpg)

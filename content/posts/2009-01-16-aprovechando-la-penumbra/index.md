@@ -30,36 +30,36 @@ Comencé a buscar con qué entretenerme... Estuve jugando con el saxo hasta que 
 <tr >
 
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/IMG_0056.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SXDOwV1qitI/AAAAAAAABSo/Y2ssWmgqUCY/s1600-h/IMG_0056.JPG)
+[![](./IMG_0056.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SXDOwV1qitI/AAAAAAAABSo/Y2ssWmgqUCY/s1600-h/IMG_0056.JPG)
 
 </td>
 
 <td valign="middle" >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/IMG_0065.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SXDOwh2SS4I/AAAAAAAABSw/asW6pB54Uh0/s1600-h/IMG_0065.JPG)
+[![](./IMG_0065.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SXDOwh2SS4I/AAAAAAAABSw/asW6pB54Uh0/s1600-h/IMG_0065.JPG)
 
 </td>
 </tr>
 <tr >
 
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/IMG_0074.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SXDOxOZbVNI/AAAAAAAABTA/FbUNKeJzASg/s1600-h/IMG_0074.JPG)
+[![](./IMG_0074.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SXDOxOZbVNI/AAAAAAAABTA/FbUNKeJzASg/s1600-h/IMG_0074.JPG)
 
 </td>
 
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/IMG_0069.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SXDOww3g0WI/AAAAAAAABS4/Zy6rT0oJ6a4/s1600-h/IMG_0069.JPG)
+[![](./IMG_0069.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SXDOww3g0WI/AAAAAAAABS4/Zy6rT0oJ6a4/s1600-h/IMG_0069.JPG)
 
 </td>
 </tr>
 <tr >
 
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/IMG_0089.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SXDO5Bv-JGI/AAAAAAAABTQ/ttaDhtZRvbE/s1600-h/IMG_0089.JPG)
+[![](./IMG_0089.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SXDO5Bv-JGI/AAAAAAAABTQ/ttaDhtZRvbE/s1600-h/IMG_0089.JPG)
 
 </td>
 
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/IMG_0087.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SXDOxFuv-tI/AAAAAAAABTI/93wuFx6wKr8/s1600-h/IMG_0087.JPG)
+[![](./IMG_0087.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SXDOxFuv-tI/AAAAAAAABTI/93wuFx6wKr8/s1600-h/IMG_0087.JPG)
 
 </td>
 </tr>

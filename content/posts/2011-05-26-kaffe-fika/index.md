@@ -28,7 +28,7 @@ El nombre del lugar es Kaffe & Fika, esto está en sueco, la primera palabra es 
 
 De acuerdo a la Wikipedia, la definición de [Fika](http://es.wikipedia.org/wiki/Fika) es:
 
-<blockquote>[![](http://ivan.campananaranjo.com/wp-content/uploads/2011/05/IMG_4810-1.jpg)](http://1.bp.blogspot.com/-YxXdQfUMJpw/TdC7_jsBywI/AAAAAAAACOg/X2iiu4vhaTc/s1600/IMG_4810.jpg)Fika es una institución social en Suecia: significa tomar una "pausa del café" del trabajo o de otras actividades y beber un café con sus colegas, amigos, o familia. Esta práctica de tomar una pausa para un café y un bocado ligero (algunas galletas, tarta (torta), o un emparedado) entre comidas más substanciales como almuerzo y la temprana cena. Los suecos están entre los mayores consumidores de café en el mundo.</blockquote>
+<blockquote>[![](./IMG_4810-1.jpg)](http://1.bp.blogspot.com/-YxXdQfUMJpw/TdC7_jsBywI/AAAAAAAACOg/X2iiu4vhaTc/s1600/IMG_4810.jpg)Fika es una institución social en Suecia: significa tomar una "pausa del café" del trabajo o de otras actividades y beber un café con sus colegas, amigos, o familia. Esta práctica de tomar una pausa para un café y un bocado ligero (algunas galletas, tarta (torta), o un emparedado) entre comidas más substanciales como almuerzo y la temprana cena. Los suecos están entre los mayores consumidores de café en el mundo.</blockquote>
 
 El lugar es acogedor, con algo que Luis ha querido resaltar como punto importante, el poder tomar un buen café, preparado con mucho cuidado y para asegurar un excelente sabor. Algo que también va de acorde al concepto de Fika es que es un buen lugar para compartir con amigos, escuchar buena música y conversar tranquilamente, es un sitio de amigos y amantes del café.
 
@@ -40,20 +40,20 @@ Para los más curiosos, acá unas cuantas fotos del lugar y finalmente cómo lle
 
 <table cellpadding="0" cellspacing="0" align="center" border="1" ><tbody >
 <tr >   
-<td >[![](http://ivan.campananaranjo.com/wp-content/uploads/2011/05/IMG_4801-1.jpg)](http://4.bp.blogspot.com/-GAD7MOdnVQ8/TdC76l4NfdI/AAAAAAAACOM/vSKI6hqBKME/s1600/IMG_4801.jpg)
+<td >[![](./IMG_4801-1.jpg)](http://4.bp.blogspot.com/-GAD7MOdnVQ8/TdC76l4NfdI/AAAAAAAACOM/vSKI6hqBKME/s1600/IMG_4801.jpg)
 </td>  
-<td >[![](http://ivan.campananaranjo.com/wp-content/uploads/2011/05/IMG_4804-1.jpg)](http://1.bp.blogspot.com/-Q2a7ybuShLA/TdC77gs7_BI/AAAAAAAACOQ/8aLXgVN0Ze8/s1600/IMG_4804.jpg)
+<td >[![](./IMG_4804-1.jpg)](http://1.bp.blogspot.com/-Q2a7ybuShLA/TdC77gs7_BI/AAAAAAAACOQ/8aLXgVN0Ze8/s1600/IMG_4804.jpg)
 </td>
 <td >![](http://ivan.campananaranjo.com/wp-content/uploads/2011/05/IMG_4811-1.jpg)
 </td>  </tr>
 <tr >
 <td >![](http://ivan.campananaranjo.com/wp-content/uploads/2011/05/IMG_4805-1.jpg)
 </td>  
-<td >[![](http://ivan.campananaranjo.com/wp-content/uploads/2011/05/IMG_4809-1.jpg)](http://1.bp.blogspot.com/-Durwt_gD1Ng/TdC7-kI160I/AAAAAAAACOc/25o0mjBnKUw/s1600/IMG_4809.jpg)
+<td >[![](./IMG_4809-1.jpg)](http://1.bp.blogspot.com/-Durwt_gD1Ng/TdC7-kI160I/AAAAAAAACOc/25o0mjBnKUw/s1600/IMG_4809.jpg)
 </td>  
-<td >[![](http://ivan.campananaranjo.com/wp-content/uploads/2011/05/IMG_4807-1.jpg)](http://1.bp.blogspot.com/-_eNSM2-P72s/TdC79qaPoaI/AAAAAAAACOY/t9u1Rq6Kb0Q/s1600/IMG_4807.jpg)
+<td >[![](./IMG_4807-1.jpg)](http://1.bp.blogspot.com/-_eNSM2-P72s/TdC79qaPoaI/AAAAAAAACOY/t9u1Rq6Kb0Q/s1600/IMG_4807.jpg)
 </td> </tr>
 <tr >
-<td colspan="3" align="center" >[![](http://ivan.campananaranjo.com/wp-content/uploads/2011/05/IMG_4799-1.jpg)](http://4.bp.blogspot.com/-T_skoPbcvkM/TdC75sJ8oHI/AAAAAAAACOI/Oq1eIms_LiY/s1600/IMG_4799.jpg)
+<td colspan="3" align="center" >[![](./IMG_4799-1.jpg)](http://4.bp.blogspot.com/-T_skoPbcvkM/TdC75sJ8oHI/AAAAAAAACOI/Oq1eIms_LiY/s1600/IMG_4799.jpg)
 </td> </tr>
 </tbody></table>

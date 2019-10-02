@@ -23,10 +23,10 @@ La herramienta más utilizada para esto el Adobe Photoshop® y siendo yo un entu
 El resultado acá:
 
 **Antes:**  
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/06/avengers_sketchups_2_by_chachaman.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SFbg0qGtIzI/AAAAAAAAAXs/l5PwIQwJo-4/s1600-h/avengers_sketchups_2_by_chachaman.jpg)
+[![](./avengers_sketchups_2_by_chachaman.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SFbg0qGtIzI/AAAAAAAAAXs/l5PwIQwJo-4/s1600-h/avengers_sketchups_2_by_chachaman.jpg)
 
 **Después:**  
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/06/avengers.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SFbg1atzugI/AAAAAAAAAX0/w8PMui89epA/s1600-h/avengers.jpg)
+[![](./avengers.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SFbg1atzugI/AAAAAAAAAX0/w8PMui89epA/s1600-h/avengers.jpg)
 
 El primer dibujo lo encontré en deviantart (yo no soy buen dibujante para nada) y el segundo es cómo lo dejé luego de haberle pegado una retocada con el editor de fotos, entre tutoriales y algo de ayuda de los conceptos que está viendo mi hermana en un curso básico de photoshop me ayudaron a entender qué herramientas debía emplear.
 

@@ -14,11 +14,11 @@ tags:
   - Salud
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/06/img_1381-Modificada.jpg)](<http://3.bp.blogspot.com/_T2UWuNJg3dQ/SkD29bMvsMI/AAAAAAAABoY/0c_o8QOyL2U/s1600-h/img_1381+(Modificada).jpg>)
+[![](./img_1381-Modificada.jpg)](<http://3.bp.blogspot.com/_T2UWuNJg3dQ/SkD29bMvsMI/AAAAAAAABoY/0c_o8QOyL2U/s1600-h/img_1381+(Modificada).jpg>)
 
 Suena un poco "apocalíptico" (últimamente he estado escuchando mucho esa palabreja), pero es la verdad, por cerca de 5 años fui apaleado y controlado por un miedo... El miedo al dolor, en general odio enfermarme, odio lastimarme, inclusive un raspón, ahora con el ciclismo ya me he hecho un poco a la idea de que puede pasar, pero en fin... De lo que me libré ahora es de los cálculos renales...
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/06/img_1375-Modificada.jpg)](<http://4.bp.blogspot.com/_T2UWuNJg3dQ/SkD29tg7fSI/AAAAAAAABog/vSCwop7reiU/s1600-h/img_1375+(Modificada).jpg>)
+[![](./img_1375-Modificada.jpg)](<http://4.bp.blogspot.com/_T2UWuNJg3dQ/SkD29tg7fSI/AAAAAAAABog/vSCwop7reiU/s1600-h/img_1375+(Modificada).jpg>)
 
 Lo que ven en las 2 fotos anteriores corresponden al último de los 9 cálculos que se habían formado en mis riñones, principalmente afectados por el consumo de grasa y por no tomar suficiente agua, así que escuchen consejo (especialmente todos los oficinistas e informáticos que pasan mucho tiempo sentados) y tomen mucha agua, además de evitarse problemas con su salud, les ayudará a mantener el organismo más limpio.
 

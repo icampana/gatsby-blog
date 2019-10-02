@@ -45,42 +45,42 @@ En nuestro caso simplemente lo hice por compartir un tiempo con mi hermana y un 
 Proceso de elaboración<tbody ><tr >
 
 <td valign="top" >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/DSC03917.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SVwwvekwBFI/AAAAAAAABPg/rgadQhf6Kt4/s1600-h/DSC03917.jpg)
+[![](./DSC03917.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SVwwvekwBFI/AAAAAAAABPg/rgadQhf6Kt4/s1600-h/DSC03917.jpg)
 
 </td>
 
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/DSC03918.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SVwwvgPy5BI/AAAAAAAABPo/vjdIehQckDM/s1600-h/DSC03918.jpg)
+[![](./DSC03918.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SVwwvgPy5BI/AAAAAAAABPo/vjdIehQckDM/s1600-h/DSC03918.jpg)
 
 </td>
 
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/DSC03919.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SVwwv4b7VMI/AAAAAAAABPw/PFxRraRVMrA/s1600-h/DSC03919.jpg)
+[![](./DSC03919.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SVwwv4b7VMI/AAAAAAAABPw/PFxRraRVMrA/s1600-h/DSC03919.jpg)
 
 </td>
 </tr>
 <tr >
 
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/DSC03920.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SVwwwB87CII/AAAAAAAABP4/BooN4FxwlMs/s1600-h/DSC03920.jpg)
+[![](./DSC03920.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SVwwwB87CII/AAAAAAAABP4/BooN4FxwlMs/s1600-h/DSC03920.jpg)
 
 </td>
 
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/DSC03921.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SVwwwjjuHZI/AAAAAAAABQA/dpm3CBmTvYw/s1600-h/DSC03921.jpg)
+[![](./DSC03921.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SVwwwjjuHZI/AAAAAAAABQA/dpm3CBmTvYw/s1600-h/DSC03921.jpg)
 
 </td>
 
 <td >
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/pre-iron.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SVxBa7XR_RI/AAAAAAAABQI/Tbw60XT7ztI/s1600-h/pre-iron.jpg)
+[![](./pre-iron.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SVxBa7XR_RI/AAAAAAAABQI/Tbw60XT7ztI/s1600-h/pre-iron.jpg)
 
 </td>
 </tr>
 <tr >
 
 <td colspan="3" align="center" >
-[![Final con Ironman](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/final_iron.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SVxBbEZfGAI/AAAAAAAABQQ/YeRwQXLebBo/s1600-h/final_iron.jpg)
+[![Final con Ironman](./final_iron.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SVxBbEZfGAI/AAAAAAAABQQ/YeRwQXLebBo/s1600-h/final_iron.jpg)
 Me pregunto si nos sacarán en Maxim por estar en una foto con Mr. Stark :P
 
 </td>

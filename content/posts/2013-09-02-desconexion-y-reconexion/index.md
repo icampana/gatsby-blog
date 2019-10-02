@@ -23,7 +23,7 @@ A pesar de que no era el mejor momento para viajar por los problemas que estaban
 <tbody >
 <tr >
 
-<td style="text-align: center;" >[![](http://ivan.campananaranjo.com/wp-content/uploads/2013/09/Bahia-de-Caraquez1-1.jpg)](http://2.bp.blogspot.com/-h5y631pErOY/UiQZjvHCHSI/AAAAAAAACoE/87ysNLh23_M/s1600/Bahia-de-Caraquez1.jpg)
+<td style="text-align: center;" >[![](./Bahia-de-Caraquez1-1.jpg)](http://2.bp.blogspot.com/-h5y631pErOY/UiQZjvHCHSI/AAAAAAAACoE/87ysNLh23_M/s1600/Bahia-de-Caraquez1.jpg)
 </td>
 </tr>
 <tr >
@@ -43,7 +43,7 @@ Algo que quizá olvidé mencionar es que algo que no pude dejar abandonado en la
 <tbody >
 <tr >
 
-<td style="text-align: center;" >[![](http://ivan.campananaranjo.com/wp-content/uploads/2013/09/bici_ciclovia-1.jpg)](http://4.bp.blogspot.com/-bpp_gbdGYJc/UiQhAIbtCpI/AAAAAAAACoU/YGhFfEa5KRI/s1600/bici_ciclovia.jpg)
+<td style="text-align: center;" >[![](./bici_ciclovia-1.jpg)](http://4.bp.blogspot.com/-bpp_gbdGYJc/UiQhAIbtCpI/AAAAAAAACoU/YGhFfEa5KRI/s1600/bici_ciclovia.jpg)
 </td>
 </tr>
 <tr >

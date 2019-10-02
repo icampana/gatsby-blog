@@ -20,7 +20,7 @@ tags:
   - Videos
 ---
 
-[![Preparación previa](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/dsc04008-Modificada.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SWF_0H2B-jI/AAAAAAAABQY/4AcwqseRYeA/s1600-h/dsc04008+%28Modificada%29.jpg)Este inicio de año fue bastante diferente a los anteriores, en lugar de utilizar mi dinero para gastarlo en una fiesta costosa de fin de año o reunirme con amigos me acosté a dormir temprano la noche del 31 al primero para poder utilizar ese mismo dinero en algo mucho más divertido y que disfruto mucho más, viajar!
+[![Preparación previa](./dsc04008-Modificada.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SWF_0H2B-jI/AAAAAAAABQY/4AcwqseRYeA/s1600-h/dsc04008+%28Modificada%29.jpg)Este inicio de año fue bastante diferente a los anteriores, en lugar de utilizar mi dinero para gastarlo en una fiesta costosa de fin de año o reunirme con amigos me acosté a dormir temprano la noche del 31 al primero para poder utilizar ese mismo dinero en algo mucho más divertido y que disfruto mucho más, viajar!
 
 Este viaje en especial contaba algunos factores que lo hacían más interesante aún, un par de amigos chilenos con quienes he compartido excelentes momentos, uno de mis mejores amigos del cole y poder cumplir un sueño que tenía desde niño.
 
@@ -42,53 +42,53 @@ Para finalizar unas fotos extra del recorrido:
 <tbody ><tr >
 
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/dsc03951.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SWGVUzjZYLI/AAAAAAAABRo/OnrnoJ_4myI/s1600-h/dsc03951.jpg)
+[![](./dsc03951.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SWGVUzjZYLI/AAAAAAAABRo/OnrnoJ_4myI/s1600-h/dsc03951.jpg)
 
 </td>
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/DSCN0347-Modificada.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SWGVUVBe81I/AAAAAAAABRg/588nyyk3eC4/s1600-h/DSCN0347+%28Modificada%29.JPG)
+[![](./DSCN0347-Modificada.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SWGVUVBe81I/AAAAAAAABRg/588nyyk3eC4/s1600-h/DSCN0347+%28Modificada%29.JPG)
 
 </td></tr>
 <tr >
 
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/dsc04108-Modificada.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SWGVTt7nv7I/AAAAAAAABRY/15Xo-B9MEuo/s1600-h/dsc04108+%28Modificada%29.jpg)
+[![](./dsc04108-Modificada.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SWGVTt7nv7I/AAAAAAAABRY/15Xo-B9MEuo/s1600-h/dsc04108+%28Modificada%29.jpg)
 
 </td>
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/dsc03949.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SWGVTfoQIiI/AAAAAAAABRQ/FPk_KHCOUuw/s1600-h/dsc03949.jpg)
+[![](./dsc03949.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SWGVTfoQIiI/AAAAAAAABRQ/FPk_KHCOUuw/s1600-h/dsc03949.jpg)
 
 </td></tr>
 <tr >
 
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/dsc03948.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SWGVSpXPboI/AAAAAAAABRI/YNiyXCCf60A/s1600-h/dsc03948.jpg)
+[![](./dsc03948.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SWGVSpXPboI/AAAAAAAABRI/YNiyXCCf60A/s1600-h/dsc03948.jpg)
 
 </td>
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/dsc04071.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SWGPBMwUVDI/AAAAAAAABRA/Z5_zMxh-U1M/s1600-h/dsc04071.jpg)
+[![](./dsc04071.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SWGPBMwUVDI/AAAAAAAABRA/Z5_zMxh-U1M/s1600-h/dsc04071.jpg)
 
 </td>
 </tr>
 <tr >
 
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/DSCN0385-Modificada.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SWGPAwrqM5I/AAAAAAAABQ4/uy9VTLQg1-o/s1600-h/DSCN0385+%28Modificada%29.JPG)
+[![](./DSCN0385-Modificada.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SWGPAwrqM5I/AAAAAAAABQ4/uy9VTLQg1-o/s1600-h/DSCN0385+%28Modificada%29.JPG)
 
 </td>
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/dsc04112-Modificada.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SWGPA20G1vI/AAAAAAAABQw/WwDFPO5jcdA/s1600-h/dsc04112+%28Modificada%29.jpg)
+[![](./dsc04112-Modificada.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SWGPA20G1vI/AAAAAAAABQw/WwDFPO5jcdA/s1600-h/dsc04112+%28Modificada%29.jpg)
 
 </td>
 </tr>
 <tr >
 
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/dsc04020-Modificada.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SWGPAdnE9MI/AAAAAAAABQo/yrc9sf6Ld4s/s1600-h/dsc04020+%28Modificada%29.jpg)
+[![](./dsc04020-Modificada.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SWGPAdnE9MI/AAAAAAAABQo/yrc9sf6Ld4s/s1600-h/dsc04020+%28Modificada%29.jpg)
 
 </td>
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/dsc03976-Modificada.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SWGPABb0YoI/AAAAAAAABQg/MY13qGYqbXc/s1600-h/dsc03976+%28Modificada%29.jpg)
+[![](./dsc03976-Modificada.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SWGPABb0YoI/AAAAAAAABQg/MY13qGYqbXc/s1600-h/dsc03976+%28Modificada%29.jpg)
 
 </td></tr>
 </tbody></table>

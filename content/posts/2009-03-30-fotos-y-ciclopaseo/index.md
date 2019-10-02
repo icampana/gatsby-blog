@@ -31,47 +31,47 @@ En fin, espero les gusten las fotos, además un par por ahí de las que normalme
 <table style="text-align: center" >
 <tr >
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/03/img_0720-1.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SdAWiR2KoHI/AAAAAAAABaQ/Ffnagr0KIXU/s1600-h/img_0720-1.jpg)
+[![](./img_0720-1.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SdAWiR2KoHI/AAAAAAAABaQ/Ffnagr0KIXU/s1600-h/img_0720-1.jpg)
 </td>
 
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/03/img_0765.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SdAWi8jILLI/AAAAAAAABao/NtzgYmMbE6M/s1600-h/img_0765.jpg)
-
-</td>
-</tr>
-
-<tr >
-<td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/03/img_0724-1.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SdAWh5jI2vI/AAAAAAAABaI/k84tKtAIQWo/s1600-h/img_0724-1.jpg)
-
-</td>
-
-<td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/03/p1000530.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SdAXlyqHAAI/AAAAAAAABbA/jvpUvf9wSX8/s1600-h/p1000530.jpg)
+[![](./img_0765.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SdAWi8jILLI/AAAAAAAABao/NtzgYmMbE6M/s1600-h/img_0765.jpg)
 
 </td>
 </tr>
 
 <tr >
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/03/img_0731-1.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SdAWifpObfI/AAAAAAAABaY/jqkPyEbWOj0/s1600-h/img_0731-1.jpg)
+[![](./img_0724-1.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SdAWh5jI2vI/AAAAAAAABaI/k84tKtAIQWo/s1600-h/img_0724-1.jpg)
 
 </td>
 
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/03/img_0759-1.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SdAWilWNe-I/AAAAAAAABag/7scbbhYQRuY/s1600-h/img_0759-1.jpg)
+[![](./p1000530.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SdAXlyqHAAI/AAAAAAAABbA/jvpUvf9wSX8/s1600-h/p1000530.jpg)
 
 </td>
 </tr>
 
 <tr >
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/03/p1000529.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SdAXll-8o9I/AAAAAAAABa4/G-GMhMeY6Ok/s1600-h/p1000529.jpg)
+[![](./img_0731-1.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SdAWifpObfI/AAAAAAAABaY/jqkPyEbWOj0/s1600-h/img_0731-1.jpg)
 
 </td>
 
 <td >
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/03/p1000524.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SdAXk_NrxOI/AAAAAAAABaw/TCrhIfs2dic/s1600-h/p1000524.jpg)
+[![](./img_0759-1.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SdAWilWNe-I/AAAAAAAABag/7scbbhYQRuY/s1600-h/img_0759-1.jpg)
+
+</td>
+</tr>
+
+<tr >
+<td >
+[![](./p1000529.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SdAXll-8o9I/AAAAAAAABa4/G-GMhMeY6Ok/s1600-h/p1000529.jpg)
+
+</td>
+
+<td >
+[![](./p1000524.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SdAXk_NrxOI/AAAAAAAABaw/TCrhIfs2dic/s1600-h/p1000524.jpg)
 
 </td>
 </tr>
