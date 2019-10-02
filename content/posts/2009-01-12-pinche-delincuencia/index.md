@@ -16,7 +16,7 @@ tags:
   - Personal
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/Imagen035.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SWt9SNm0fxI/AAAAAAAABSI/SUeVXL1wy4E/s1600-h/Imagen035.jpg)Esto fue lo que me encontré en la mañana antes de salir al trabajo... ¿Qué es? O más bien, qué era... La cadena de mi bicicleta. Pasó montón tiempo fuera y nunca le pasó nada, la única noche que dudo un poco en guardarla y se la roban :S
+[![](./Imagen035.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SWt9SNm0fxI/AAAAAAAABSI/SUeVXL1wy4E/s1600-h/Imagen035.jpg)Esto fue lo que me encontré en la mañana antes de salir al trabajo... ¿Qué es? O más bien, qué era... La cadena de mi bicicleta. Pasó montón tiempo fuera y nunca le pasó nada, la única noche que dudo un poco en guardarla y se la roban :S
 
 Apenas si habíamos regresado del cine por la noche con mi familia, guardamos el coche en un estacionamiento cercano y listo, todos a dormir, justo antes de entrar a la casa vi la bici que se estaba mojando por la lluvia y pensé, debería guardarla, se puede oxidar... Pero me ganó la pereza y dije, naaa' la guardo mañana temprano.
 

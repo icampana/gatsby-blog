@@ -13,7 +13,7 @@ tags:
   - Curiosidades
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/11/Image000.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SRErJmP9hqI/AAAAAAAABJU/ZJYBKMiVoYY/s1600-h/Image000.jpg)Para variar con mis extravagancias, mientras estuve en la universidad estudiando Ing. en Informática me dio por tomar clases de otra carrera (bueno, realmente era una obligación, pero yo pedí permiso para tomar materias de la carrera de gestión de diseño y comunicación audiovisual que son un poco alejadas de lo mío). Entre las materias que cursé estuvo una bastante peculiar, llamada Cultura y Comunicación.
+[![](./Image000.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SRErJmP9hqI/AAAAAAAABJU/ZJYBKMiVoYY/s1600-h/Image000.jpg)Para variar con mis extravagancias, mientras estuve en la universidad estudiando Ing. en Informática me dio por tomar clases de otra carrera (bueno, realmente era una obligación, pero yo pedí permiso para tomar materias de la carrera de gestión de diseño y comunicación audiovisual que son un poco alejadas de lo mío). Entre las materias que cursé estuvo una bastante peculiar, llamada Cultura y Comunicación.
 
 En ella no sólo aprendí los diferentes elementos de la cultura y los tipos que hay, sino que pude entender claramente que cosas como la que está escrita en ese cartel (que está en un baño de hombres) están equivocadas. Aunque la idea está bien, es decir, no sean cochinos y boten los chicles en otro lado, eso no tiene nada que ver con la cultura, sino con la educación, urbanidad y buenas costumbres.
 

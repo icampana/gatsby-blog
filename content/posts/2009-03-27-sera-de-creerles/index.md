@@ -14,7 +14,7 @@ tags:
   - Personal
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/03/piscis.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/ScvroyzyTRI/AAAAAAAABZ4/lQnBHRYaUeM/s1600-h/piscis.jpg)
+[![](./piscis.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/ScvroyzyTRI/AAAAAAAABZ4/lQnBHRYaUeM/s1600-h/piscis.jpg)
 Esto me lo enviaron por correo, realmente no soy de creer mucho en la astrología más que como una forma de determinar ciertos patrones en las personas, pero esto me ha hecho reír mucho, quienes me conocen y lean esto entenderán el porqué. ¿Qué creen Uds. me describe o no?
 
 Piscis, signo de agua (emoción)

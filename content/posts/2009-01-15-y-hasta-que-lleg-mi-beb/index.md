@@ -15,7 +15,7 @@ tags:
   - Personal
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/camarita.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SW7a0W6HmKI/AAAAAAAABSY/bSf0HB5B_Lc/s1600-h/camarita.jpg)Ja ja ja... suena un poco gay el título del artículo, pero si ven lo que está en la foto que está junto a este párrafo verán porqué le digo así.
+[![](./camarita.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SW7a0W6HmKI/AAAAAAAABSY/bSf0HB5B_Lc/s1600-h/camarita.jpg)Ja ja ja... suena un poco gay el título del artículo, pero si ven lo que está en la foto que está junto a este párrafo verán porqué le digo así.
 
 Este es mi último auto-regalo, no es una cámara profesional pero sí supera por bastante a la anterior, una [Sony Cybershot DSC-P200 ](http://reviews.cnet.com/digital-cameras/sony-cyber-shot-dsc/4505-6501_7-31273583.html?tag=mncol;lst)(que se ha portado muy bien de cualquier forma hasta la fecha).
 

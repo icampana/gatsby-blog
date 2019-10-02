@@ -14,6 +14,6 @@ tags:
   - Fotografías
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/02/img_0195.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SZeW7-X0CKI/AAAAAAAABVo/9_oYZ1-jREw/s1600-h/img_0195.jpg)
+[![](./img_0195.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SZeW7-X0CKI/AAAAAAAABVo/9_oYZ1-jREw/s1600-h/img_0195.jpg)
 
 Esta foto corresponde al pastel de cumpleaños de mi hermana, definitivamente me gusta como se ven las velitas... je je je... Lástima que después de eso el pastel desapareció en cuestión de minutos, ja ja.. no le perdonamos la vida ni un segundo.

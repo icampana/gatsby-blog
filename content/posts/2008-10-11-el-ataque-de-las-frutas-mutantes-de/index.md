@@ -16,7 +16,7 @@ tags:
   - Linux
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/10/fruitpromo.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SPAGjtRD9XI/AAAAAAAAA_A/mGP3hCFRDX8/s1600-h/fruitpromo.jpg)Después de aproximadamente 3 semanas de mucho estress al fin puedo descansar, de hecho he pasado casi todo el día durmiendo :P
+[![](./fruitpromo.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SPAGjtRD9XI/AAAAAAAAA_A/mGP3hCFRDX8/s1600-h/fruitpromo.jpg)Después de aproximadamente 3 semanas de mucho estress al fin puedo descansar, de hecho he pasado casi todo el día durmiendo :P
 
 De acá sigue un período que no será más relajado, pero al menos más controlado. Mientras revisaba películas pendientes (había comprado algunas de las que me prometí a mi mismo ver sin falta y estaban cogiendo polvo), holgazanear un poco, leer algunas cosas pendientes y webear(navegar por la web :P) otro poco encontré este juego bastante simpático, sencillo y disponible para Windows, Linux y Mac.
 

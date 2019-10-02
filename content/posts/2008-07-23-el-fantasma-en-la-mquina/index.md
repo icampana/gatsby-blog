@@ -14,7 +14,7 @@ tags:
   - Pensamientos
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/07/dreamsa.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SIcbYENJezI/AAAAAAAAAgY/deYsrtl8Hts/s1600-h/dreamsa.jpg)Para los que no les suena el nombre [Isaac Asimov](http://es.wikipedia.org/wiki/Isaac_Asimov) es porque se ha perdido de leer las historias de ciencia ficción que le dieron forma a muchos de los conceptos utilizados en las películas de hoy en día. Las muestras más directas son las películas que se basaron en sus libros, Yo robot (escrito en 1951) y el Hombre Bicenteneario (escrito en 1976).
+[![](./dreamsa.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SIcbYENJezI/AAAAAAAAAgY/deYsrtl8Hts/s1600-h/dreamsa.jpg)Para los que no les suena el nombre [Isaac Asimov](http://es.wikipedia.org/wiki/Isaac_Asimov) es porque se ha perdido de leer las historias de ciencia ficción que le dieron forma a muchos de los conceptos utilizados en las películas de hoy en día. Las muestras más directas son las películas que se basaron en sus libros, Yo robot (escrito en 1951) y el Hombre Bicenteneario (escrito en 1976).
 
 Pero la idea central de sus historias se ha seguido utilizando inclusive hasta el día de hoy. De hecho este post se me ocurrió mientras me veía por 2da ocasión la película Wall-e, y mientras recordaba muchas cosas, en especial los elementos de crítica que tiene esta película, pensé en el "fantasma en la máquina", "the ghost in the machine" o "the ghost in the shell".
 

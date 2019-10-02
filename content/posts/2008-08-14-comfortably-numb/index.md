@@ -16,7 +16,7 @@ tags:
   - Pensamientos
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/08/Comfortably1.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SKOlpsxjo6I/AAAAAAAAA0A/Vtu0gyk0aUY/s1600-h/Comfortably1.JPG)El título de una de las mejores canciones de Pink Floid, parte del famoso disco "The Wall", representa una sesión con un médico y el paciente que se siente "numb".
+[![](./Comfortably1.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SKOlpsxjo6I/AAAAAAAAA0A/Vtu0gyk0aUY/s1600-h/Comfortably1.JPG)El título de una de las mejores canciones de Pink Floid, parte del famoso disco "The Wall", representa una sesión con un médico y el paciente que se siente "numb".
 
 En la película lo enfocan como el intento de "resucitar" a Pink para la presentación de esa noche.
 

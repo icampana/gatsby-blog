@@ -15,7 +15,7 @@ tags:
   - Tecnología
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/05/pdas.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/Sgry7JLAjtI/AAAAAAAABfs/AZMYQfxPjL8/s1600-h/pdas.jpg)Una vez más una exagerada con el título, pero me causó gracia al pensarlo, por si alguien no lo sabe, esa es una canción de James Blunt.
+[![](./pdas.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/Sgry7JLAjtI/AAAAAAAABfs/AZMYQfxPjL8/s1600-h/pdas.jpg)Una vez más una exagerada con el título, pero me causó gracia al pensarlo, por si alguien no lo sabe, esa es una canción de James Blunt.
 
 A lo que me refiero con la despedida esta vez es con mi Palm Zire31, ha sido una compañera fiel y aunque pasamos por buenos y malos momentos ha llegado la hora de decirle adiós.
 

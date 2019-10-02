@@ -15,7 +15,7 @@ tags:
   - Personal
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2007/01/audifonos.gif)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/RbPkP2oRdJI/AAAAAAAAAAo/ZlLh753sw-E/s1600-h/audifonos.gif)Durante las últimas semanas he estado con una sola idea metida en mi cabeza, VACACIONES.
+[![](./audifonos.gif)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/RbPkP2oRdJI/AAAAAAAAAAo/ZlLh753sw-E/s1600-h/audifonos.gif)Durante las últimas semanas he estado con una sola idea metida en mi cabeza, VACACIONES.
 
 Han pasado muchas cosas de las que debo estar agradecido, la empresa ha mejorado mucho, me estrené como articulista para una revista, estoy por cumplir un año como profesor en la universidad, me operé para dejar de usar lentes, etc... En fin, cosas que me dan mucho gusto, pero muchas de esas alegrías también se convirtieron en mucho estrés y aceleración, lo cual de una u otra forma termina afectando mi vida personal, la cual como contraparte en cambio se ha estado volviendo un caos, llegando en el peor de los casos a ponerme altamente irritable.
 

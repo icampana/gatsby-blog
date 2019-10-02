@@ -15,7 +15,7 @@ tags:
   - Tips
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/05/mobile_138740c_en.gif)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SgwhFgFIhlI/AAAAAAAABf0/tsFIh1hX_uU/s1600-h/mobile_138740c_en.gif)Un post cortito, algo muy interesante que tiene el iPhone y recientemente está terminando de montar RIM para los Blackberry es el soporte para recibir notificaciones "push", que principalmente funcionan con servidores de correo Exchange, aunque hay otros que dan el servicio como Google.
+[![](./mobile_138740c_en.gif)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SgwhFgFIhlI/AAAAAAAABf0/tsFIh1hX_uU/s1600-h/mobile_138740c_en.gif)Un post cortito, algo muy interesante que tiene el iPhone y recientemente está terminando de montar RIM para los Blackberry es el soporte para recibir notificaciones "push", que principalmente funcionan con servidores de correo Exchange, aunque hay otros que dan el servicio como Google.
 
 Ahora, en castellano: ¿Qué quiere decir esto? o ¿Qué carajos es?
 

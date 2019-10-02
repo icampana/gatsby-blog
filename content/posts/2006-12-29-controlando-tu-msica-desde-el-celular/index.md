@@ -16,7 +16,7 @@ tags:
   - Tecnología
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2006/12/playing_song.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/RZMYsEOJDTI/AAAAAAAAAAY/axtAb3UUdi0/s1600-h/playing_song.jpg)[![](http://ivan.campananaranjo.com/wp-content/uploads/2006/12/volumen.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/RZSDRkOJDWI/AAAAAAAAAA4/CN73yhngxCo/s1600-h/volumen.jpg)[![](http://ivan.campananaranjo.com/wp-content/uploads/2006/12/rating.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/RZSDKkOJDVI/AAAAAAAAAAw/_9sFK3s2DWQ/s1600-h/rating.jpg)[![](http://ivan.campananaranjo.com/wp-content/uploads/2006/12/amarok_playing.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/RZMYzUOJDUI/AAAAAAAAAAg/JjkoVB5mAcs/s1600-h/amarok_playing.jpg)
+[![](./playing_song.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/RZMYsEOJDTI/AAAAAAAAAAY/axtAb3UUdi0/s1600-h/playing_song.jpg)[![](./volumen.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/RZSDRkOJDWI/AAAAAAAAAA4/CN73yhngxCo/s1600-h/volumen.jpg)[![](./rating.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/RZSDKkOJDVI/AAAAAAAAAAw/_9sFK3s2DWQ/s1600-h/rating.jpg)[![](./amarok_playing.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/RZMYzUOJDUI/AAAAAAAAAAg/JjkoVB5mAcs/s1600-h/amarok_playing.jpg)
 
 Una más de mis travesuras, este año me hice un "auto-regalo" navideño, me pasé a GSM y me compré un móvil nuevo, el [Nokia 5200](http://forum.nokia.com/devices/5200). Además de reproducir mp3, reproducir vídeo, funcionar como flash drive, tener tarjeta de expansión y otras chucherías más, es mi primer teléfono con [bluetooth.](http://es.wikipedia.org/wiki/Bluetooth)
 

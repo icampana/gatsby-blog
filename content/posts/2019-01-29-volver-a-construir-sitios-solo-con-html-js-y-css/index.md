@@ -46,7 +46,7 @@ Verdaderamente no se puede regresar por completo a eso, pero un grupo de desarro
 
 Gatsby es un generador de sitios estáticos que utilizando una fuente de datos (puede ser otro sitio, archivos físicos, una base de datos, etc... hasta una hoja de excel!) genera una página web que incluye las buenas prácticas y mejoras que necesitamos para tener un sitio web rápido y atractivo.
 
-[![GatsbyJS](http://ivan.campananaranjo.com/wp-content/uploads/2019/01/gatsby-logo-150x150.png)](http://gatsbyjs.org)[Gatsby JS](http://gatsbyjs.org) un creador de sitios estáticos
+[![GatsbyJS](./gatsby-logo-150x150.png)](http://gatsbyjs.org)[Gatsby JS](http://gatsbyjs.org) un creador de sitios estáticos
 
 Lo mejor es que al final lo que genera son archivos estáticos (HTML, JS y CSS) así que el costo de los recursos para poder tener un sitio web vuelven a ser los de 1997, sólo un espacio donde publicar archivos, sin necesidad de ningún lenguaje de programación y sin los riesgos de seguridad de una aplicación completa. De esa forma por ejemplo [una compañía](https://www.gatsbyjs.org/blog/2018-06-14-escalade-sports-from-5000-to-5-in-hosting/) pasó de pagar $5,000 dólares al mes en hosting a apenas $5
 

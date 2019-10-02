@@ -16,7 +16,7 @@ tags:
   - Novedades
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/Pantallazo.png)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SWk-jr6BP_I/AAAAAAAABR4/rVnlMExD_Xk/s1600-h/Pantallazo.png)Por algunos comentarios de amigas y amigos que están en relación con los medios y diferentes agencias de publicidad me terminé enterando que Cervecería Nacional iba a comenzar a promocionar una cerveza diseñada específicamente para mujeres.
+[![](./Pantallazo.png)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SWk-jr6BP_I/AAAAAAAABR4/rVnlMExD_Xk/s1600-h/Pantallazo.png)Por algunos comentarios de amigas y amigos que están en relación con los medios y diferentes agencias de publicidad me terminé enterando que Cervecería Nacional iba a comenzar a promocionar una cerveza diseñada específicamente para mujeres.
 
 Como casi no veo nada de tele no me he enterado si ha salido algún comercial, pero de lo que he preguntado aparentemente nope. Hace un par de semanas logré encontrarla en el supermercado, pero por ser domingo no me permitieron comprarla (no termino de entender esa disposición de la intendencia de policía, pero buee...).
 

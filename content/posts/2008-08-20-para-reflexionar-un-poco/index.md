@@ -15,7 +15,7 @@ tags:
   - Tips
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/08/bambu2.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SKwtBsBXndI/AAAAAAAAA0s/INFmN-f-s9Q/s1600-h/bambu2.jpg)
+[![](./bambu2.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SKwtBsBXndI/AAAAAAAAA0s/INFmN-f-s9Q/s1600-h/bambu2.jpg)
 Un par de historias de las que nos hacen pensar, para reflexionar un poco:
 
 <blockquote>Una situación tensa

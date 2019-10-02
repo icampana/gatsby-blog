@@ -15,7 +15,7 @@ tags:
   - Personal
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/05/Mocca.png)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/Sg3s1e8gsjI/AAAAAAAABgc/gOGZHAurCjw/s1600-h/Mocca.png)Para los que se animen, este viernes 22 de mayo, a las 18.15 (puntualitos porque hay varios grupos), en el festival de artes de la Universidad Santa María (Km 4 1/2 de la avda. Carlos Julio Arosemena), el lanzamiento oficial del grupo Mocca.
+[![](./Mocca.png)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/Sg3s1e8gsjI/AAAAAAAABgc/gOGZHAurCjw/s1600-h/Mocca.png)Para los que se animen, este viernes 22 de mayo, a las 18.15 (puntualitos porque hay varios grupos), en el festival de artes de la Universidad Santa María (Km 4 1/2 de la avda. Carlos Julio Arosemena), el lanzamiento oficial del grupo Mocca.
 
 Realmente fue la oportunidad que aprovechamos para poder tocar juntos, el grupo está conformado por mis hermanos y un amigo, más conocido como el "ahijado"... ja ja.. Cada uno tenía su experiencia de forma individual tocando por su lado, pero es la primera vez que nos juntamos y tocamos algo que nos gusta... La propuesta es un poco de jazz fusión con otro poco de funk y lo que venga de por medio
 

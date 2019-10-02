@@ -34,7 +34,7 @@ Eso fue parte de los inicios de la comunidad Drupal en Costa Rica, y hoy en día
 <tbody >
 <tr >
 
-<td >[![](http://ivan.campananaranjo.com/wp-content/uploads/2015/12/DrupalCampChile.jpg)](http://3.bp.blogspot.com/-KXOAmJd6YHk/VnowWz9Ho5I/AAAAAAAADBw/QpwmFo9AC3Y/s1600/Drupal%2BCamp%2BChile.jpg)
+<td >[![](./DrupalCampChile.jpg)](http://3.bp.blogspot.com/-KXOAmJd6YHk/VnowWz9Ho5I/AAAAAAAADBw/QpwmFo9AC3Y/s1600/Drupal%2BCamp%2BChile.jpg)
 </td>
 </tr>
 <tr >

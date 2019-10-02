@@ -15,7 +15,7 @@ tags:
   - Locuras
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/09/GC_Blogpic2_metrovi2.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SMm6djFS95I/AAAAAAAAA2c/ga6rsH86ZYo/s1600-h/GC_Blogpic2_metrovi2.jpg)Esta frase la escuché de una amiga que me contaba que ella había dejado de utilizar la metrovía a pesar de que llegaba más rápido a su trabajo porque a la hora pico (en la mañana entre las 7 y 9 AM) que todo el mundo entra al colegio y al trabajo.
+[![](./GC_Blogpic2_metrovi2.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SMm6djFS95I/AAAAAAAAA2c/ga6rsH86ZYo/s1600-h/GC_Blogpic2_metrovi2.jpg)Esta frase la escuché de una amiga que me contaba que ella había dejado de utilizar la metrovía a pesar de que llegaba más rápido a su trabajo porque a la hora pico (en la mañana entre las 7 y 9 AM) que todo el mundo entra al colegio y al trabajo.
 
 Al principio no entendí el chiste, qué quiere decir eso de que quedas "curado de espanto", hace siglos que no lo escuchaba... Luego me recordaron que al menos en la cultura latinoamericana el "curar de espanto" a alguien representa un ritual en el que se pasa un huevo alrededor del cuerpo al "enfermo de espanto" (es muy común en los niños).
 

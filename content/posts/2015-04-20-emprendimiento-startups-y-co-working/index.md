@@ -50,7 +50,7 @@ Esto hizo que los problemas encontramos luego de 5 años y que quizá hubieran p
 <tbody >
 <tr >
 
-<td style="text-align: center;" >[![](http://ivan.campananaranjo.com/wp-content/uploads/2015/04/PortadaRevista.jpg)](http://ivan.campananaranjo.com/wp-content/uploads/2015/04/PortadaRevista.jpg)
+<td style="text-align: center;" >[![](./PortadaRevista.jpg)](./PortadaRevista.jpg)
 </td>
 </tr>
 <tr >

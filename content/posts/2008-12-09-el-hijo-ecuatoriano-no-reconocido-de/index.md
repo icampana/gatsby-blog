@@ -14,7 +14,7 @@ tags:
   - Locuras
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/12/Hijo-de-OBAMA.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/ST6kc6tQvCI/AAAAAAAABOI/8n0tOWM4t-k/s1600-h/Hijo+de+OBAMA.JPG)Esto me lo pasaron por correo, no sé a quien le pertenezca la foto, es decir no sé quién es el tipo, ni quién tomó la foto, pero me he matado de la risa.
+[![](./Hijo-de-OBAMA.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/ST6kc6tQvCI/AAAAAAAABOI/8n0tOWM4t-k/s1600-h/Hijo+de+OBAMA.JPG)Esto me lo pasaron por correo, no sé a quien le pertenezca la foto, es decir no sé quién es el tipo, ni quién tomó la foto, pero me he matado de la risa.
 
 Para quienes no lo sepan o alcancen a reconocer la camiseta, es el uniforme de la Mobil On The Run, las cafeterías que están en las gasolineras.. je je...
 

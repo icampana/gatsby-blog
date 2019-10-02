@@ -14,7 +14,7 @@ tags:
   - Tecnología
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/09/minimalist.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SL9uTrDM9vI/AAAAAAAAA2M/i6qvpGGxMsk/s1600-h/minimalist.jpg)
+[![](./minimalist.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SL9uTrDM9vI/AAAAAAAAA2M/i6qvpGGxMsk/s1600-h/minimalist.jpg)
 El boom de la semana ha sido (y quizá lo sea por el mes) el [Google Chrome](http://www.google.com/chrome), que para quien no lo sepa (aunque lo dudo), es el nuevo navegador de internet hecho por Google. Ahora eso no es lo que yo llamaría una idea genial, es simpático y útil, pero nada del otro mundo, de hecho se puede lograr lo mismo con el [Firefox](http://www.getfirefox.com/) y unos cuantos [plugins](http://lifehacker.com/5044518/enable-chromes-best-features-in-firefox), bueno y lo de la separación de procesos...
 
 Lo que sí me llama la atención es que una de las "características" más fuertes de Google y sus servicios siempre ha sido el minimalismo, es decir, en lugar de llenar las aplicaciones de un sinnúmero de cosas, hace lo contrario, deja apenas lo necesario para que funcione, internamente entregan todo lo necesario, pero no confunden al usuario... y eso genera excelentes resultados.

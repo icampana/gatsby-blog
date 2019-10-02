@@ -11,7 +11,7 @@ categories:
   - Sin categoría
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/09/RochiVernaza2.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SN_SlOue5gI/AAAAAAAAA-4/5Vs8C7PEnD4/s1600-h/RochiVernaza2.jpg)La noche de ayer resultó más relajada de lo normal, comenzando con que debido a las votaciones de hoy había ley seca y todo el mundo estaba en casa o regresaba temprano, por mi parte recibí una invitación a una velada cuyo objetivo era hacer un recorrido por la historia del jazz.
+[![](./RochiVernaza2.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SN_SlOue5gI/AAAAAAAAA-4/5Vs8C7PEnD4/s1600-h/RochiVernaza2.jpg)La noche de ayer resultó más relajada de lo normal, comenzando con que debido a las votaciones de hoy había ley seca y todo el mundo estaba en casa o regresaba temprano, por mi parte recibí una invitación a una velada cuyo objetivo era hacer un recorrido por la historia del jazz.
 
 El evento fue organizado dentro del parque histórico de Guayaquil, lo que le da un componente extra en cuanto a lo alternativo del evento pues nos encontramos con personajes (actores) que representaban a la gente del Guayaquil de los años 20 y nos daban la bienvenida al viaje por el tiempo.
 

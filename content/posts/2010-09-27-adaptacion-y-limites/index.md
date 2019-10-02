@@ -20,7 +20,7 @@ Tomado del final de la quinta temporada de LOST:
 
 **Jacob:**_ It only ends once. Anything that happens before that is just progress._</blockquote>
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2010/09/psicologia-evolutiva.jpg)](http://ivan.campananaranjo.com/wp-content/uploads/2010/09/psicologia-evolutiva.jpg)
+[![](./psicologia-evolutiva.jpg)](./psicologia-evolutiva.jpg)
 
 Aunque probablemente muchos lo tomen como fanatismo de la serie, realmente lo utilizo porque me pareció ajustado a la idea que cruzó mi mente, es la historia que siempre se repite entre los seres humanos, y se ha tratado varias veces en libros y películas.
 

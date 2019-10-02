@@ -14,7 +14,7 @@ tags:
   - Personal
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/12/memin-pinguin.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/STYhxMQybqI/AAAAAAAABNg/WD8h9IV4Q5U/s1600-h/memin-pinguin.jpg)¿Llegar a la casa blanca? Na' ese fue Obama y de paso ya lo consiguió, así que se acabó el misterio... :P
+[![](./memin-pinguin.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/STYhxMQybqI/AAAAAAAABNg/WD8h9IV4Q5U/s1600-h/memin-pinguin.jpg)¿Llegar a la casa blanca? Na' ese fue Obama y de paso ya lo consiguió, así que se acabó el misterio... :P
 
 En este caso el negro es otro, bueno... Realmente no es tan negro, pero así me han dicho algunas veces por cariño, no me molesta, después de todo sí tengo raíces negras, bueno y un revoltijo de raíces adicionales.
 

@@ -15,7 +15,7 @@ tags:
   - Tecnología
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/02/mouse-vi.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SY0UGRcAU9I/AAAAAAAABVQ/EotL8db21Bo/s1600-h/mouse-vi.jpg)Una anécdota cortita antes de partir a la playa, durante el período en el que tuve que pelear para conseguir la renovación de mi licencia de conducir vi algo que me llamó la atención, como ahora hay que dar una prueba teórica en un computador antes de que te renueven la licencia una de las primeras preguntas que hacen es: "Sabe usar el mouse".
+[![](./mouse-vi.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SY0UGRcAU9I/AAAAAAAABVQ/EotL8db21Bo/s1600-h/mouse-vi.jpg)Una anécdota cortita antes de partir a la playa, durante el período en el que tuve que pelear para conseguir la renovación de mi licencia de conducir vi algo que me llamó la atención, como ahora hay que dar una prueba teórica en un computador antes de que te renueven la licencia una de las primeras preguntas que hacen es: "Sabe usar el mouse".
 
 Al principio pensé que de cierta forma tenía lógica en algunos casos específicos, como el de las personas mayores que consiguieron su licencia sin necesidad de esa prueba en computador y ahora que los obligan, pues no pueden exigirles que sepan utilizar un computador. Lo extraño es que inclusive algunos jóvenes llegaban y cuando les preguntaban respondían diciendo que no sabían usar un computador.
 

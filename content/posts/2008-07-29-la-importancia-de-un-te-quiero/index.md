@@ -15,7 +15,7 @@ tags:
   - Pensamientos
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/07/Romi.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SI6WAvZ3d8I/AAAAAAAAAhg/oTqtk7LJQTo/s1600-h/Romi.jpg)Un poco contrario a lo que expresé en mi publicación anterior con respecto a lo analíticos que podemos ser algunos seres humanos, recordé que a pesar de ser así, tenemos ese otro lado que muchas veces sorprende a las personas.
+[![](./Romi.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SI6WAvZ3d8I/AAAAAAAAAhg/oTqtk7LJQTo/s1600-h/Romi.jpg)Un poco contrario a lo que expresé en mi publicación anterior con respecto a lo analíticos que podemos ser algunos seres humanos, recordé que a pesar de ser así, tenemos ese otro lado que muchas veces sorprende a las personas.
 
 Para no hacerlo tan personal, el caso más cercano que recuerdo es el de un amigo bastante mayor a mi a quien todos lo tenían como una persona super estricta, organizado, metódico, se podría creer que inclusive hasta calculador.
 

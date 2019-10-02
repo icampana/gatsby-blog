@@ -16,7 +16,7 @@ tags:
 ---
 
 Este post sí que es bien geek, acá el personaje que ven en la foto fue mi suplicio durante la última semana, me hizo sudar sangre, pero al final vencí al [monstruo](http://es.wikipedia.org/wiki/Monstruo)!!  
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2006/12/ServerIBM.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/RYiihUOJDSI/AAAAAAAAAAM/PnFMIPtpoyc/s1600-h/ServerIBM.jpg)  
+[![](./ServerIBM.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/RYiihUOJDSI/AAAAAAAAAAM/PnFMIPtpoyc/s1600-h/ServerIBM.jpg)  
 Para quienes no tengan idea, [COBOL](http://es.wikipedia.org/wiki/Cobol) es un lenguaje de programación más viejo que la sarna y que ha sobrevivido por el simple hecho de que era utilizado por grandes corporaciones, bancos y demás empresas desde los años 60.
 
 Hace poco nos pusieron un reto fuerte en la empresa, migrar un servidor y un grupo de aplicaciones que estaban montadas sobre un servidor [SCO](http://es.wikipedia.org/wiki/SCO_Group) (el UNIX más feo y viejo que he visto) y corriendo en COBOL (vale la pena aclarar que nunca he programado en esa cosa). La idea principal era que siguieran funcionando, invirtiendo lo menos posible.

@@ -15,7 +15,7 @@ tags:
   - Pensamientos
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/08/muslim-woman_64.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SLJKBN6D0AI/AAAAAAAAA1c/zMxnWSbZI-c/s1600-h/muslim-woman_64.jpg)Nunca he sido un seguidor de telenovelas, de hecho casi ni veo TV, pero una de las cosas que sí vi hace algunos años fue la famosa telenovela colombiana "Betty, La Fea". Principalmente porque era distinta a las regulares, mostraba una mezcla de jocosidad y drama, además de enfocarse en algo poco usual para las telenovelas, una mujer fea.
+[![](./muslim-woman_64.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SLJKBN6D0AI/AAAAAAAAA1c/zMxnWSbZI-c/s1600-h/muslim-woman_64.jpg)Nunca he sido un seguidor de telenovelas, de hecho casi ni veo TV, pero una de las cosas que sí vi hace algunos años fue la famosa telenovela colombiana "Betty, La Fea". Principalmente porque era distinta a las regulares, mostraba una mezcla de jocosidad y drama, además de enfocarse en algo poco usual para las telenovelas, una mujer fea.
 
 Es innegable que a todos los seres humanos nos atrae la belleza, pero ella es efímera, así como las flores se mueren, la belleza desaparece con el tiempo... Al menos la belleza física, pero existe otro tipo de belleza, esa que no se muestra a simple vista, que sólo la podemos palpar al poder ver el interior de las personas y las cosas.
 

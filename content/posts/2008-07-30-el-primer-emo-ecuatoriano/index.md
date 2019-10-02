@@ -15,7 +15,7 @@ tags:
   - Poesía
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/07/Medardo.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SJCL1hZeh1I/AAAAAAAAAho/THJ9XEqnXVI/s1600-h/Medardo.jpg)No es mi intención desmerecer o desacreditar a nuestro insigne poeta que fue parte de la "generación decapitada" (un grupo de poetas que murieron jóvenes), pero de acuerdo al concepto manejado por muchos jóvenes hoy en día se refiere a un estilo de vida asociado con su sensibilidad y la relación que tienen con su entorno, lo cual coincide con el perfil de [Medardo Angel Silva](http://es.wikipedia.org/wiki/Medardo_%C3%81ngel_Silva).
+[![](./Medardo.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SJCL1hZeh1I/AAAAAAAAAho/THJ9XEqnXVI/s1600-h/Medardo.jpg)No es mi intención desmerecer o desacreditar a nuestro insigne poeta que fue parte de la "generación decapitada" (un grupo de poetas que murieron jóvenes), pero de acuerdo al concepto manejado por muchos jóvenes hoy en día se refiere a un estilo de vida asociado con su sensibilidad y la relación que tienen con su entorno, lo cual coincide con el perfil de [Medardo Angel Silva](http://es.wikipedia.org/wiki/Medardo_%C3%81ngel_Silva).
 
 Buscando por internet me encontré con esta definición que coincide con las ideas que alguna vez escuché a un par de chicos que se consideraban a sí mismos como "emo"
 

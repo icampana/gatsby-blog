@@ -14,7 +14,7 @@ tags:
   - Personal
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/11/breast.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SRfYZnRltYI/AAAAAAAABJg/5rBzKiU1rZk/s1600-h/breast.jpg)Bubis, pechos, chichis, tetas, senos, mamas, etc... Montones de nombres para referirse a un mismo elemento, los pechos de una mujer. Hace poco mientras tonteaba un poco en el facebook vi que un amigo se había agregado como "fan" de las tetas, me pareció muy gracioso y me uní también al club de fans, luego una amiga en son de broma me dijo que no podía creer que yo fuera de "esos".
+[![](./breast.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SRfYZnRltYI/AAAAAAAABJg/5rBzKiU1rZk/s1600-h/breast.jpg)Bubis, pechos, chichis, tetas, senos, mamas, etc... Montones de nombres para referirse a un mismo elemento, los pechos de una mujer. Hace poco mientras tonteaba un poco en el facebook vi que un amigo se había agregado como "fan" de las tetas, me pareció muy gracioso y me uní también al club de fans, luego una amiga en son de broma me dijo que no podía creer que yo fuera de "esos".
 
 Al decir "esos" hacía referencia a todos los hombres que dicen lo mucho que les gustan los pechos femeninos, pero seamos honestos, creo que no hay ninguno al que no le gusten, la única diferencia es el tipo, que si les gustan pequeños, medianos, grandes, morenos, blancos, con aureolas grandes, puntiagudos, etc, etc...
 

@@ -16,7 +16,7 @@ tags:
   - Política
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/03/einstein.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/ScK3xflcKTI/AAAAAAAABZw/StisfsXmtfc/s1600-h/einstein.jpg)
+[![](./einstein.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/ScK3xflcKTI/AAAAAAAABZw/StisfsXmtfc/s1600-h/einstein.jpg)
 
 Ante la crisis que hay actualmente, que realmente no es nueva, es más vieja que todos nosotros, la mejor forma de explicar la solución:
 

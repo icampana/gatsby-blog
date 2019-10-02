@@ -15,7 +15,7 @@ tags:
   - Personal
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/dsc04133.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SW33IS_Na4I/AAAAAAAABSQ/a4CMJng4K_s/s1600-h/dsc04133.jpg)Más de una vez hemos escuchado la frase en cualquier lugar del planeta de que los verdaderos amigos son los del colegio, que en la universidad no se va a hacer amigos, simplemente habrá algunos por conveniencia... Y muchos lo han asimilado como una ley, pero qué es lo que hay detrás de todo esto, un análisis simple lo puede clarificar...
+[![](./dsc04133.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SW33IS_Na4I/AAAAAAAABSQ/a4CMJng4K_s/s1600-h/dsc04133.jpg)Más de una vez hemos escuchado la frase en cualquier lugar del planeta de que los verdaderos amigos son los del colegio, que en la universidad no se va a hacer amigos, simplemente habrá algunos por conveniencia... Y muchos lo han asimilado como una ley, pero qué es lo que hay detrás de todo esto, un análisis simple lo puede clarificar...
 
 ¿Qué diferencia a un amigo que conocí en la universidad de uno del colegio? La convivencia, el tiempo y las experiencias que se comparten durante ese período de tiempo conocido como "escuela" o "colegio". ¿Es que hay mejor aprendizaje en alguno de estos lugares en comparación con la universidad? Realmente no, la única diferencia real son las vivencias y lo que se logra compartir. Mientras pasamos 5 a 8 años (en el caso de los médicos) con compañeros de universidad, por más de que pueda sonar a un período largo de tiempo, no se puede comparar con la vivencia de nuestros amigos de escuela o de colegio.
 

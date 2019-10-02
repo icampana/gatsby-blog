@@ -14,7 +14,7 @@ tags:
   - Recuerdos
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/04/luis-rueda.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SdLn_xv7bTI/AAAAAAAABcI/Q4FyZWNR0YE/s1600-h/luis-rueda.jpg)
+[![](./luis-rueda.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SdLn_xv7bTI/AAAAAAAABcI/Q4FyZWNR0YE/s1600-h/luis-rueda.jpg)
 Para quienes lleguen por acá y no sean de Ecuador o no conozcan la jerga que a veces utilizamos por aquí, la expresión "hasta las mismas" se usa para decir que algo es "chido", "cojonudo", "de puta madre", "awesome", "de lujo", "legal", en fin.. Que es muy bueno...
 
 Justo durante la mudanza de un depa al otro encontré que entre mis pertenencias tenía un disco de Luis Rueda, ni siquiera sé porqué estaba ahí cogiendo polvo, revisé mi colección de música en la compu y no lo había digitalizado, así que lo hice y procedí a escuchar el disco de corrido (el disco era: Yo Lucho & Lo Demás Rueda), recordaba algunas de las canciones, pero otras ni siquiera me sonaban el nombre, así que le presté atención a todas y cada una, siempre me ha gustado su música, desde la época de la Trifullka que era más básica la música, pero siempre llena de fuerza...

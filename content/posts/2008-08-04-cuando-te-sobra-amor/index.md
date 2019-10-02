@@ -14,7 +14,7 @@ tags:
   - Personal
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/08/Facundo-2.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SJaKVpnVuVI/AAAAAAAAAiI/aNUlCKwdXrE/s1600-h/Facundo+2.jpg)Hace poco más de un mes vino al Ecuador [Facundo Cabral](http://es.wikipedia.org/wiki/Facundo_Cabral), me enteré casi por casualidad al ver un programa de tele (y eso que casi no veo nada de tele) en donde lo entrevistaban.
+[![](./Facundo-2.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SJaKVpnVuVI/AAAAAAAAAiI/aNUlCKwdXrE/s1600-h/Facundo+2.jpg)Hace poco más de un mes vino al Ecuador [Facundo Cabral](http://es.wikipedia.org/wiki/Facundo_Cabral), me enteré casi por casualidad al ver un programa de tele (y eso que casi no veo nada de tele) en donde lo entrevistaban.
 
 Él y Alberto Cortéz son dos excepcionales cantautores que aunque puede que sus canciones no hayan sido hechas para mi época, las he disfrutado y escuchado desde hace mucho.
 

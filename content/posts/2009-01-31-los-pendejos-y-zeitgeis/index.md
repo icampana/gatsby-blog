@@ -11,7 +11,7 @@ categories:
   - Sin categoría
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2009/01/Eres-un-Pendejo-Youre-My_B8B57720.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SYP_MYe3eQI/AAAAAAAABVA/MkgKx4EA3Ao/s1600-h/Eres-un-Pendejo-Youre-My_B8B57720.jpg)Mientras más conozco al mundo y me entero de más cosas me queda más claro que Facundo Cabral tenía razón al decir esto en uno de sus diálogos:
+[![](./Eres-un-Pendejo-Youre-My_B8B57720.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SYP_MYe3eQI/AAAAAAAABVA/MkgKx4EA3Ao/s1600-h/Eres-un-Pendejo-Youre-My_B8B57720.jpg)Mientras más conozco al mundo y me entero de más cosas me queda más claro que Facundo Cabral tenía razón al decir esto en uno de sus diálogos:
 
 <blockquote>Era un hombre valiente, sólo le tenía miedo a los pendejos... Un día le pregunté porqué y me dijo: "Porque son muchos, no hay forma de cubrir semejante frente.  Y Por temprano que te levantes ya está lleno de pendejos... Y son peligrosos, porque al ser mayoría eligen hasta el presidente!"</blockquote>
 

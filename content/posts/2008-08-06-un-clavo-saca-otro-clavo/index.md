@@ -15,7 +15,7 @@ tags:
   - Personal
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/08/clavo1.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SJmH7Nlx2HI/AAAAAAAAAiQ/y3NQ-4dncVk/s1600-h/clavo1.jpg)Desde películas, revistas, desconocidos hasta conocidos y amigos. Muchas veces he escuchado esa teoría de poder reemplazar a una persona con otra luego de un rompimiento o decepción amorosa.
+[![](./clavo1.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SJmH7Nlx2HI/AAAAAAAAAiQ/y3NQ-4dncVk/s1600-h/clavo1.jpg)Desde películas, revistas, desconocidos hasta conocidos y amigos. Muchas veces he escuchado esa teoría de poder reemplazar a una persona con otra luego de un rompimiento o decepción amorosa.
 
 La verdad es que con el devenir del tiempo he entendido a qué se refieren, pero no lo comparto para nada.
 

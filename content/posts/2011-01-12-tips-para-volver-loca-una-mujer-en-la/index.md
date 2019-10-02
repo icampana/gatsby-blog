@@ -15,7 +15,7 @@ tags:
   - Sexo
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2011/01/Volver-Loca-1.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/TSyV-pln0jI/AAAAAAAACNU/6DPg-7jebUU/s1600/Volver-Loca.jpg)
+[![](./Volver-Loca-1.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/TSyV-pln0jI/AAAAAAAACNU/6DPg-7jebUU/s1600/Volver-Loca.jpg)
 
 Hace algunos años escribí un [pequeño artículo](http://ivan.campananaranjo.com/2007/03/22/cmo-volver-loca-una-mujer-en-la-cama/) sobre un libro que compré llamado "Cómo volver loca a una mujer en la cama", no era algo específico o con muchos detalles, más bien hacía una reflexión sobre lo que me llevó a comprarlo y lo que encontré en sus primeras páginas, ahora revisando las estadísticas de mi blog me entero que muchas personas terminan llegando a mi página específicamente por ese tema, a pesar de que escribí algo muy sencillo, así que pensé que si tanto les interesa, escribiré una mezcla de lo que leí en aquel libro y parte de lo que yo considero son cosas importantes en ese aspecto.
 

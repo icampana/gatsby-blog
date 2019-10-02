@@ -11,7 +11,7 @@ categories:
   - Sin categoría
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/04/hombresvsmujerescolorweb.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SAvUNSp4UfI/AAAAAAAAAXE/pfLXHxjNyeI/s1600-h/hombresvsmujerescolorweb.jpg)  
+[![](./hombresvsmujerescolorweb.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SAvUNSp4UfI/AAAAAAAAAXE/pfLXHxjNyeI/s1600-h/hombresvsmujerescolorweb.jpg)  
 Desde el inicio de los tiempos los hombres y las mujeres han tenido diferencias marcadas, a pesar de lo que pueda decir cualquier feminista, es tan sólo cuestión de genética. Muchas veces estos cambios y diferencias crean todo un caos al momento de relacionarnos los unos con los otros.
 
 Las mujeres nacen con la facilidad de poder realizar más de una tarea a la vez, es impresionante como pueden estar haciendo deberes, hablando por teléfono y a la vez viendo la tele :S. No sé el resto de los hombres, pero yo si hago una cosa y me dicen otra me pierdo al menos por un momento hasta retomar el hilo de lo que estaba haciendo.

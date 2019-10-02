@@ -16,7 +16,7 @@ tags:
   - Personal
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/10/Imagen052.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SQK1xZSIs8I/AAAAAAAAA_Q/_34mVLM9oAY/s1600-h/Imagen052.jpg)"Siempre he dependido de la bondad de los extraños"
+[![](./Imagen052.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SQK1xZSIs8I/AAAAAAAAA_Q/_34mVLM9oAY/s1600-h/Imagen052.jpg)"Siempre he dependido de la bondad de los extraños"
 
 Blanche Dubois en ‘Un tranvía llamado deseo’
 

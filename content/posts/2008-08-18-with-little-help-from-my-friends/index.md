@@ -15,7 +15,7 @@ tags:
   - Recuerdos
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/08/amigos_blog.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SKkLq3iJVlI/AAAAAAAAA0Q/jOIZVMTherI/s1600-h/amigos_blog.jpg)With a little help from my friends .- The Beatles
+[![](./amigos_blog.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SKkLq3iJVlI/AAAAAAAAA0Q/jOIZVMTherI/s1600-h/amigos_blog.jpg)With a little help from my friends .- The Beatles
 My Friends .- The Red Hot Chili Peppers
 A los amigos .- Alberto Cortéz
 

@@ -14,7 +14,7 @@ tags:
   - Curiosidades
 ---
 
-[![](http://ivan.campananaranjo.com/wp-content/uploads/2008/04/Imagen021.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/R_r84eHlJjI/AAAAAAAAAW8/IgUqLQJLfHQ/s1600-h/Imagen021.jpg)A mis cortos 27 años (al menos yo considero que no es nada lo que apenas he vivido) y con mi contextura (quienes me conocen saben que siempre he sido bastante delgado), resulté teniendo un nivel de colesterol alto: 280, siendo el máximo 200 y el estándar 140.
+[![](./Imagen021.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/R_r84eHlJjI/AAAAAAAAAW8/IgUqLQJLfHQ/s1600-h/Imagen021.jpg)A mis cortos 27 años (al menos yo considero que no es nada lo que apenas he vivido) y con mi contextura (quienes me conocen saben que siempre he sido bastante delgado), resulté teniendo un nivel de colesterol alto: 280, siendo el máximo 200 y el estándar 140.
 
 Una de las posibles razones (probablemente la más cercana) es la comida rápida, más el ritmo acelerado y con frecuencia la falta de ejercicio (hace siglos que no tengo chance de pisar un gimnasio). Debido a esto tuve que no sólo tomar un par de medicamentos para ayudar a reducir el nivel de colesterol, sino también comenzar a hacer una dieta y pensar en buscar comida sana... Y ahí comenzó el problema...
 
