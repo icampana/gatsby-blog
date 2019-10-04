@@ -62,7 +62,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `icampana's Blog`,
-        short_name: `GatsbyJS`,
+        short_name: `Iván Gabriel`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,

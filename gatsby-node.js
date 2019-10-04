@@ -20,6 +20,16 @@ exports.createPages = async ({ graphql, actions }) => {
               frontmatter {
                 title
                 path
+                featuredImage {
+                  childImageSharp{
+                    fluid{
+                      srcSetWebp
+                      src
+                      sizes
+                      tracedSVG
+                    }
+                  }
+                }
               }
             }
           }

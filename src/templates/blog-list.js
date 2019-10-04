@@ -1,12 +1,22 @@
-import React from 'react'
-import { Link, graphql } from 'gatsby'
+import React from 'react';
+import { Link, graphql } from 'gatsby';
+import Img from 'gatsby-image';
 
-import SEO from '../components/seo'
-import Bio from '../components/Bio'
-import Layout from '../components/Layout'
-import { rhythm } from '../utils/typography'
+import SEO from '../components/seo';
+import Bio from '../components/Bio';
+import Layout from '../components/Layout';
 
 class BlogIndex extends React.Component {
+
+  renderImage(featuredImage) {
+    if (typeof featuredImage !== 'undefined' && featuredImage !== null ) {
+      console.log(featuredImage.childImageSharp.fluid);
+      return (
+        <Img key={featuredImage.childImageSharp.fluid.src} fluid={featuredImage.childImageSharp.fluid} />
+      );
+    }
+  }
+
   render() {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
@@ -36,6 +46,9 @@ class BlogIndex extends React.Component {
                 </Link>
               </h3>
               <small>{node.frontmatter.date}</small>
+
+              { this.renderImage(node.frontmatter.featuredImage) }
+
               <p className="py-8" dangerouslySetInnerHTML={{ __html: node.excerpt }} />
             </div>
           )
@@ -114,6 +127,13 @@ export const pageQuery = graphql`
             date(formatString: "DD MMMM, YYYY")
             title
             path
+            featuredImage {
+              childImageSharp{
+                fluid (maxWidth:700){
+                  ...GatsbyImageSharpFluid_tracedSVG
+                }
+              }
+            }
           }
         }
       }

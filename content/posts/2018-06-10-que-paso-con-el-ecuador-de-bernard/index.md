@@ -7,6 +7,7 @@ path: /2018/06/que-paso-con-el-ecuador-de-bernard
 slug: que-paso-con-el-ecuador-de-bernard
 title: ¿Qué pasó con el Ecuador de Bernard?
 wordpress_id: 1804
+featuredImage: './bernard-fougeres.jpg'
 categories:
   - Aprendizaje
   - Ecuador

@@ -7,6 +7,7 @@ path: /2019/01/volver-a-construir-sitios-solo-con-html-js-y-css
 slug: volver-a-construir-sitios-solo-con-html-js-y-css
 title: ¿Volver a construir sitios sólo con HTML, JS y CSS?
 wordpress_id: 1822
+featuredImage: ./html-css-js.png
 categories:
   - Aprendizaje
   - Geek

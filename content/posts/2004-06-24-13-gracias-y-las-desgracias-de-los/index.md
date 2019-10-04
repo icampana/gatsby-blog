@@ -7,6 +7,7 @@ path: /2004/06/13-gracias-y-las-desgracias-de-los
 slug: 13-gracias-y-las-desgracias-de-los
 title: 13 gracias! y las desgracias de los piratas
 wordpress_id: 1060
+featuredImage: ./portada-13-gracias.jpg
 categories:
   - Sin categoría
 tags:
