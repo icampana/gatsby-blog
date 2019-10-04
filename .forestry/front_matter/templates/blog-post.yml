@@ -22,8 +22,7 @@ fields:
   label: slug
 - type: file
   name: featuredImage
-  label: featuredImage
-  description: Featured Image
+  label: Featured Image
 - type: list
   name: categories
   label: categories
