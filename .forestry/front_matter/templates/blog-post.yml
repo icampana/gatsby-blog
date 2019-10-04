@@ -38,4 +38,5 @@ fields:
   label: comments
   hidden: true
 pages:
+- content/posts/2018-06-10-que-paso-con-el-ecuador-de-bernard/index.md
 - content/posts/2019-01-29-volver-a-construir-sitios-solo-con-html-js-y-css/index.md
