@@ -30,20 +30,8 @@ Una de las anécdotas que comentaba hacía referencia a como tuvo que aprender a
 
 Eso fue parte de los inicios de la comunidad Drupal en Costa Rica, y hoy en día es una de las más fuertes, porque decidieron sumar en lugar de restar. Y es que el verdadero poder de las comunidades no se puede concentrar en un representante, o en un equipo, la fuerza viene de cada uno de sus miembros, con sus diferencias, fortalezas y virtudes. Cada uno puede aportar con un aprendizaje diferente.
 
-<table cellpadding="0" align="center" style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td >[![](./DrupalCampChile.jpg)](http://3.bp.blogspot.com/-KXOAmJd6YHk/VnowWz9Ho5I/AAAAAAAADBw/QpwmFo9AC3Y/s1600/Drupal%2BCamp%2BChile.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="font-size: 13px;" class="tr-caption" >Parte de quienes hicieron posible este camp
-</td>
-</tr>
-</tbody>
-</table>
+![](./DrupalCampChile.jpg)
+*Parte de quienes hicieron posible este camp.*
 
 Eso nos lo confirmaron los representantes de [Startup Chile](http://www.startupchile.org/) y [CORFO](http://www.corfo.cl/), que también dieron su enfoque de qué es lo importante para lograr un cambio social y económico en una sociedad partiendo de la comunidad, que es lo que en el fondo trata de lograr el gobierno chileno con estas propuestas, no es el de acelerar la mayor cantidad de empresas, o ver qué empresa es la que logra convertirse en rentable de manera más rápida, sino qué aporte puede tener los miembros de esos equipos y qué es lo que pueden aportar a la sociedad, es una forma de predicar con el ejemplo y volverse agentes de cambio que transformen el ambiente en el que se desarrollan, el dinero, el crecimiento son efectos generados por esa influencia y por el desarrollo. Los cambios que logran los equipos son realmente los importantes.Tuve la oportunidad de conversar no sólo con los representantes de dichas organizaciones, sino también con uno de los participantes actuales y que para orgullo de ellos, era justamente chileno, no tuvieron que llevar a un foráneo para que mostrara que se pueden hacer cosas muy interesantes desde dentro y cambiar no sólo su propia vida, sino también la de muchas más personas al formar parte del proyecto o simplemente enterarse de lo que él estaba haciendo y cómo lo estaba haciendo, eso es un verdadero agente de cambio.
 
