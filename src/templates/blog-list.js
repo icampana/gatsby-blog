@@ -9,8 +9,10 @@ import Layout from '../components/Layout';
 class BlogIndex extends React.Component {
 
   renderImage(featuredImage) {
-    if (typeof featuredImage !== 'undefined' && featuredImage !== null ) {
-      console.log(featuredImage.childImageSharp.fluid);
+    if (typeof featuredImage !== 'undefined' &&
+        featuredImage !== null &&
+        featuredImage.childImageSharp !== null &&
+        typeof featuredImage.childImageSharp !== 'undefined') {
       return (
         <Img key={featuredImage.childImageSharp.fluid.src} fluid={featuredImage.childImageSharp.fluid} />
       );
@@ -129,7 +131,7 @@ export const pageQuery = graphql`
             path
             featuredImage {
               childImageSharp{
-                fluid (maxWidth:700){
+                fluid (maxWidth:700, maxHeight: 320){
                   ...GatsbyImageSharpFluid_tracedSVG
                 }
               }
