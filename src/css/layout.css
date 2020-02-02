@@ -3,8 +3,33 @@
 @tailwind utilities;
 
 
+body {
+  color: white;
+  background-color: black;
+}
+
 .text-title {
+  min-height: 35px;
   @apply text-blue-500 font-bold;
+}
+
+.text-date {
+  color: #CCCBC6;
+  font-size: 70%;
+  border-bottom: 1px dotted #CCCBC6;
+  display: block;
+  margin-bottom: 10px;
+}
+
+span + em {
+  text-align: center;
+  display: block;
+  padding-bottom: 10px;
+  font-weight: lighter;
+}
+
+.container p {
+  margin-bottom: 15px;
 }
 
 .blog-post-box {

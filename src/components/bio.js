@@ -5,11 +5,13 @@
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
-import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
-import Image from "gatsby-image"
+import React from "react";
+import { useStaticQuery, graphql } from "gatsby";
+import Image from "gatsby-image";
 
-import { rhythm } from "../utils/typography"
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faTwitter, faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
+import { rhythm } from "../utils/typography";
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -26,6 +28,7 @@ const Bio = () => {
           author
           social {
             twitter
+            github
           }
         }
       }
@@ -38,6 +41,7 @@ const Bio = () => {
       style={{
         display: `flex`,
         marginBottom: rhythm(2.5),
+        alignItems: 'flex-end'
       }}
     >
       <Image
@@ -54,16 +58,22 @@ const Bio = () => {
         }}
       />
       <p>
-        Escrito por <strong>{author}</strong> Informático, Emprendedor, Desarrollador y Curioso a tiempo completo.
-        {` `}
-        <a href={`https://twitter.com/${social.twitter}`} className="fa fa-twitter">
-          Twitter.
+        Escrito por <strong>{author}</strong> <br />Informático, Emprendedor, Desarrollador y Curioso a tiempo completo.
+      </p>
+
+      <div style={{ textAlign: 'right', width: '50%' }}>
+        <a href={`https://twitter.com/${social.twitter}`} style={{ boxShadow: 'none' }}>
+          <FontAwesomeIcon icon={ faTwitter }  size='2x' />
         </a>
         &nbsp;
-        <a href={`https://github.com/${social.github}`} className="fa fa-github">
-          Github.
+        <a href={`https://github.com/${social.github}`} style={{ boxShadow: 'none' }}>
+          <FontAwesomeIcon icon={ faGithub }  size='2x' />
         </a>
-      </p>
+        &nbsp;
+        <a href={`https://linkedin.com/in/${social.linkedin}`} style={{ boxShadow: 'none' }}>
+          <FontAwesomeIcon icon={ faLinkedin }  size='2x' />
+        </a>
+      </div>
     </div>
   )
 }

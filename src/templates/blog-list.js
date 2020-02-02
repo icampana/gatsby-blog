@@ -45,7 +45,7 @@ class BlogIndex extends React.Component {
                   {title}
                 </Link>
               </h3>
-              <small>{node.frontmatter.date}</small>
+              <small className='text-date'>{node.frontmatter.date}</small>
 
               { this.renderImage(node.frontmatter.featuredImage) }
 
@@ -68,7 +68,7 @@ class BlogIndex extends React.Component {
           >
             {!isFirst && (
               <Link to={prevPage} rel="prev">
-                ← Previous Page
+                ← Página Anterior
               </Link>
             )}
             {/* {Array.from({ length: numPages }, (_, i) => (
@@ -93,7 +93,7 @@ class BlogIndex extends React.Component {
             ))} */}
             {!isLast && (
               <Link to={nextPage} rel="next">
-                Next Page →
+                Siguiente P&aacute;gina →
               </Link>
             )}
           </ul>
