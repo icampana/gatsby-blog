@@ -1,19 +1,20 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-08-14 04:15:00+00:00
+featuredImage: ./Comfortably1.jpg
 layout: post
 path: /2008/08/comfortably-numb
 slug: comfortably-numb
+tags:
+- Letras
+- Locuras
+- Música
+- Pensamientos
 title: Comfortably Numb
 wordpress_id: 869
-categories:
-  - Sin categoría
-tags:
-  - Letras
-  - Locuras
-  - Música
-  - Pensamientos
 ---
 
 [![](./Comfortably1.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SKOlpsxjo6I/AAAAAAAAA0A/Vtu0gyk0aUY/s1600-h/Comfortably1.JPG)El título de una de las mejores canciones de Pink Floid, parte del famoso disco "The Wall", representa una sesión con un médico y el paciente que se siente "numb".

@@ -1,17 +1,18 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-04-03 18:51:00+00:00
+featuredImage: ./luna_corregida.jpg
 layout: post
 path: /2009/04/luna-lunita-lunera
 slug: luna-lunita-lunera
+tags:
+- Fotografías
+- Locuras
 title: Luna, lunita, lunera
 wordpress_id: 775
-categories:
-  - Sin categoría
-tags:
-  - Fotografías
-  - Locuras
 ---
 
 No queda más que decir, cóooooomo me gusta mi cámara... ja ja ja... es un cacharro que no llega a ser profesional, pero con un poco de astucia se puede lograr resultados como este:

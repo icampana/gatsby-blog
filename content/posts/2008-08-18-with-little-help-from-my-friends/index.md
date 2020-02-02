@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-08-18 10:15:00+00:00
+featuredImage: ./amigos_blog.jpg
 layout: post
 path: /2008/08/with-little-help-from-my-friends
 slug: with-little-help-from-my-friends
+tags:
+- Palabras
+- Pensamientos
+- Recuerdos
 title: With a little help from my friends...
 wordpress_id: 866
-categories:
-  - Sin categoría
-tags:
-  - Palabras
-  - Pensamientos
-  - Recuerdos
 ---
 
 [![](./amigos_blog.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SKkLq3iJVlI/AAAAAAAAA0Q/jOIZVMTherI/s1600-h/amigos_blog.jpg)With a little help from my friends .- The Beatles

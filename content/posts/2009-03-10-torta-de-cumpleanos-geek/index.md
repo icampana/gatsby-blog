@@ -1,19 +1,20 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-03-10 22:36:00+00:00
+featuredImage: ./img_0585.jpg
 layout: post
 path: /2009/03/torta-de-cumpleanos-geek
 slug: torta-de-cumpleanos-geek
+tags:
+- Amigos
+- Comida
+- Familia
+- Personal
 title: Torta de cumpleaños  Geek!!
 wordpress_id: 786
-categories:
-  - Sin categoría
-tags:
-  - Amigos
-  - Comida
-  - Familia
-  - Personal
 ---
 
 Esto fue idea de [mi hermano](http://grupocanape.blogspot.com/), la verdad es que me ha hecho matar de la risa, está buenísima la idea y el sabor también. Je je.. Long Life Ubuntu! XD

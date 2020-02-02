@@ -1,14 +1,15 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2006-08-10 03:41:00+00:00
+featuredImage: ./wontfix.jpg
 layout: post
 path: /2006/08/no-i-will-not-fix-your-computer
 slug: no-i-will-not-fix-your-computer
 title: No, I WILL NOT FIX your computer
 wordpress_id: 932
-categories:
-  - Sin categoría
 ---
 
 [![](http://photos1.blogger.com/blogger/5311/455/320/wontfix.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/wontfix.jpg)Esta semana recibí un regalo que representa buena parte del problema constante de los informáticos, me hubiera ayudado tenerla unos cuantos años antes :P

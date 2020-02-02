@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-07-20 20:32:00+00:00
+featuredImage: ./galapagos1.jpg
 layout: post
 path: /2008/07/10-razones-por-las-que-los
 slug: 10-razones-por-las-que-los
+tags:
+- Curiosidades
+- Empresa
+- Pensamientos
 title: 10 razones por las que los emprendedores deberían tomar más vacaciones
 wordpress_id: 884
-categories:
-  - Sin categoría
-tags:
-  - Curiosidades
-  - Empresa
-  - Pensamientos
 ---
 
 [![](./galapagos1.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SINc0dl5xJI/AAAAAAAAAgQ/lDceVimqRIc/s1600-h/galapagos1.jpg)Poniéndome un poco al día luego de tener más tiempo libre de lo habitual me he encontrado con [este artículo](http://www.carlosmantero.com/10-razones-por-las-que-los-emprendedores-deberian-tomar-mas-vacaciones/) que trata de recordarnos a los "emprendedores" la importancia de saber poner pausas y no dejar que tu proyecto te coma la vida.

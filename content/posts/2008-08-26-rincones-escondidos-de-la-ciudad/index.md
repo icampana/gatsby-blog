@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-08-26 21:24:00+00:00
+featuredImage: ./dsc03485.jpg
 layout: post
 path: /2008/08/rincones-escondidos-de-la-ciudad
 slug: rincones-escondidos-de-la-ciudad
+tags:
+- Curiosidades
+- Fotografías
+- Turismo
 title: Rincones escondidos de la ciudad...
 wordpress_id: 861
-categories:
-  - Sin categoría
-tags:
-  - Curiosidades
-  - Fotografías
-  - Turismo
 ---
 
 Tomando en cuenta que desde hace un tiempo me toca andar por el centro de la ciudad decidí agarrar la cámara y ponerme a tratar de tomarle fotos a lo que sea que se me cruce por delante, en este caso el resultado fue este:

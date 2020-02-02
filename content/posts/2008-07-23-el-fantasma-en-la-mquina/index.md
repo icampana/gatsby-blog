@@ -1,17 +1,18 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-07-23 09:49:00+00:00
+featuredImage: ./dreamsa.jpg
 layout: post
 path: /2008/07/el-fantasma-en-la-mquina
 slug: el-fantasma-en-la-mquina
+tags:
+- Locuras
+- Pensamientos
 title: El fantasma en la máquina
 wordpress_id: 881
-categories:
-  - Sin categoría
-tags:
-  - Locuras
-  - Pensamientos
 ---
 
 [![](./dreamsa.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SIcbYENJezI/AAAAAAAAAgY/deYsrtl8Hts/s1600-h/dreamsa.jpg)Para los que no les suena el nombre [Isaac Asimov](http://es.wikipedia.org/wiki/Isaac_Asimov) es porque se ha perdido de leer las historias de ciencia ficción que le dieron forma a muchos de los conceptos utilizados en las películas de hoy en día. Las muestras más directas son las películas que se basaron en sus libros, Yo robot (escrito en 1951) y el Hombre Bicenteneario (escrito en 1976).

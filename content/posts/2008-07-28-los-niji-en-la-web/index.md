@@ -1,17 +1,18 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-07-28 05:37:00+00:00
+featuredImage: ./guayaquil1.jpg
 layout: post
 path: /2008/07/los-niji-en-la-web
 slug: los-niji-en-la-web
+tags:
+- Música
+- Personal
 title: Los Niji en la web
 wordpress_id: 880
-categories:
-  - Sin categoría
-tags:
-  - Música
-  - Personal
 ---
 
 <blockquote>![](./guayaquil1.jpg)Rockeros, con ritmo japonés  

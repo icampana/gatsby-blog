@@ -1,20 +1,21 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-12-28 06:30:00+00:00
+featuredImage: ./portada_libro.jpg
 layout: post
 path: /2008/12/mi-novia-manual-de-instrucciones
 slug: mi-novia-manual-de-instrucciones
+tags:
+- Curiosidades
+- Libros
+- Locuras
+- Personal
+- Tips
 title: Mi novia, manual de instrucciones!
 wordpress_id: 817
-categories:
-  - Sin categoría
-tags:
-  - Curiosidades
-  - Libros
-  - Locuras
-  - Personal
-  - Tips
 ---
 
 [![](./portada_libro.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SVbbkIVA_aI/AAAAAAAABPQ/DaGpNzp_rEk/s1600-h/portada_libro.jpg)Sí señores, para quienes no lo creían posible, ahora sí le podrán decir a todos sus amigos Geeks: RTFM!!! (Read The Fucking Manual) . Así aprenderán a manejarla sin tener que experimentar.A lo que me refiero es al siguiente libro electrónico:

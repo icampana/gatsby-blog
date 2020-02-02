@@ -1,19 +1,20 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-04-03 12:02:00+00:00
+featuredImage: ./bosc_de_les_fades.jpeg
 layout: post
 path: /2009/04/vicky-cristina-barcelona
 slug: vicky-cristina-barcelona
+tags:
+- Cine
+- Personal
+- Turismo
+- Viajes
 title: Vicky Cristina Barcelona
 wordpress_id: 776
-categories:
-  - Sin categoría
-tags:
-  - Cine
-  - Personal
-  - Turismo
-  - Viajes
 ---
 
 [![](./bosc_de_les_fades.jpeg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SdW3ZoaJH4I/AAAAAAAABcQ/okmAwIjAzgI/s1600-h/bosc_de_les_fades.jpeg)Acabo de ver la famosa película Vicky Cristina Barcelona o como le puso mi hermano, "yo quiero ser como Javier Bardem"...

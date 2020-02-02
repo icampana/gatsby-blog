@@ -1,16 +1,17 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2006-12-08 07:14:00+00:00
+featuredImage: ./tabu.jpg
 layout: post
 path: /2006/12/sexo-comunicacin-siglo-21-y-los-mismo
 slug: sexo-comunicacin-siglo-21-y-los-mismo
+tags:
+- Pensamientos
 title: Sexo, Comunicación, Siglo 21 y los mismo tabúes
 wordpress_id: 918
-categories:
-  - Sin categoría
-tags:
-  - Pensamientos
 ---
 
 [![](http://photos1.blogger.com/x/blogger/5311/455/320/992747/tabu.jpg)](http://photos1.blogger.com/x/blogger/5311/455/1600/869711/tabu.jpg)Escribo esto un poco tarde, pero no he querido olvidarlo. Una vez más mientras trataba de conciliar el sueño en Quito (a mi el frío me pone mal). Comencé a hacer zapping por algunos canales de televisión para matar el tiempo.

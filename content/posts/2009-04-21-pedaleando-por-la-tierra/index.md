@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-04-21 17:11:00+00:00
+featuredImage: ./img_0875.jpg
 layout: post
 path: /2009/04/pedaleando-por-la-tierra
 slug: pedaleando-por-la-tierra
+tags:
+- Ciclismo
+- Guayaquil
+- Turismo
 title: Pedaleando por la tierra...
 wordpress_id: 773
-categories:
-  - Sin categoría
-tags:
-  - Ciclismo
-  - Guayaquil
-  - Turismo
 ---
 
 [![](./img_0875.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/Se2utRupucI/AAAAAAAABdM/Cu5xB9vBZ0E/s1600-h/img_0875.jpg)

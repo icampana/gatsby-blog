@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-01-15 11:40:00+00:00
+featuredImage: ./camarita.jpg
 layout: post
 path: /2009/01/y-hasta-que-lleg-mi-beb
 slug: y-hasta-que-lleg-mi-beb
+tags:
+- Fotografías
+- Locuras
+- Personal
 title: Y hasta que llegó mi bebé!!
 wordpress_id: 808
-categories:
-  - Sin categoría
-tags:
-  - Fotografías
-  - Locuras
-  - Personal
 ---
 
 [![](./camarita.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SW7a0W6HmKI/AAAAAAAABSY/bSf0HB5B_Lc/s1600-h/camarita.jpg)Ja ja ja... suena un poco gay el título del artículo, pero si ven lo que está en la foto que está junto a este párrafo verán porqué le digo así.

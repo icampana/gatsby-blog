@@ -1,15 +1,16 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2005-09-30 00:28:00+00:00
+featuredImage: ./pasos_armado.jpg
 layout: post
 path: /2005/09/cmo-conectar-los-parlantes-de-la-compu
 slug: cmo-conectar-los-parlantes-de-la-compu
 title: Cómo conectar los parlantes de la compu (o un amplificador de guitarra) a tu
   celular Nokia
 wordpress_id: 974
-categories:
-  - Sin categoría
 ---
 
 Desde pequeño he sido muy travieso, me la paso buscando qué hacer, esta vez le tocó a un handsfree de nokia, la idea nació cuando conversando con un amigo que tiene un Nokia que reproduce MP3s y cuenta con 1GB de almacenamiento, lo único que le hace falta para poder darle buen uso sería conectarlo a un amplificador como un equipo de sonido o por lo menos audífonos más grandes.

@@ -1,17 +1,18 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-08-04 08:39:00+00:00
+featuredImage: ./Facundo-2.jpg
 layout: post
 path: /2008/08/cuando-te-sobra-amor
 slug: cuando-te-sobra-amor
+tags:
+- Pensamientos
+- Personal
 title: Cuando te sobra amor...
 wordpress_id: 874
-categories:
-  - Sin categoría
-tags:
-  - Pensamientos
-  - Personal
 ---
 
 [![](./Facundo-2.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SJaKVpnVuVI/AAAAAAAAAiI/aNUlCKwdXrE/s1600-h/Facundo+2.jpg)Hace poco más de un mes vino al Ecuador [Facundo Cabral](http://es.wikipedia.org/wiki/Facundo_Cabral), me enteré casi por casualidad al ver un programa de tele (y eso que casi no veo nada de tele) en donde lo entrevistaban.

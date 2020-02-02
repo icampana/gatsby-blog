@@ -1,19 +1,20 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2006-12-29 08:46:00+00:00
+featuredImage: ./playing_song.jpg
 layout: post
 path: /2006/12/controlando-tu-msica-desde-el-celular
 slug: controlando-tu-msica-desde-el-celular
+tags:
+- Curiosidades
+- Linux
+- Locuras
+- Tecnología
 title: Controlando tu música desde el celular
 wordpress_id: 916
-categories:
-  - Sin categoría
-tags:
-  - Curiosidades
-  - Linux
-  - Locuras
-  - Tecnología
 ---
 
 [![](./playing_song.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/RZMYsEOJDTI/AAAAAAAAAAY/axtAb3UUdi0/s1600-h/playing_song.jpg)[![](./volumen.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/RZSDRkOJDWI/AAAAAAAAAA4/CN73yhngxCo/s1600-h/volumen.jpg)[![](./rating.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/RZSDKkOJDVI/AAAAAAAAAAw/_9sFK3s2DWQ/s1600-h/rating.jpg)[![](./amarok_playing.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/RZMYzUOJDUI/AAAAAAAAAAg/JjkoVB5mAcs/s1600-h/amarok_playing.jpg)

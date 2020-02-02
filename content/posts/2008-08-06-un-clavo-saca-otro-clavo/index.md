@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-08-06 09:25:00+00:00
+featuredImage: ./clavo1.jpg
 layout: post
 path: /2008/08/un-clavo-saca-otro-clavo
 slug: un-clavo-saca-otro-clavo
+tags:
+- Mujeres
+- Pensamientos
+- Personal
 title: ¿Un clavo saca a otro clavo?
 wordpress_id: 873
-categories:
-  - Sin categoría
-tags:
-  - Mujeres
-  - Pensamientos
-  - Personal
 ---
 
 [![](./clavo1.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SJmH7Nlx2HI/AAAAAAAAAiQ/y3NQ-4dncVk/s1600-h/clavo1.jpg)Desde películas, revistas, desconocidos hasta conocidos y amigos. Muchas veces he escuchado esa teoría de poder reemplazar a una persona con otra luego de un rompimiento o decepción amorosa.

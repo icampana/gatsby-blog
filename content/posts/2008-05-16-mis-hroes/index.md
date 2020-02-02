@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-05-16 03:43:00+00:00
+featuredImage: ./1978_Superman_The_Movie.jpg
 layout: post
 path: /2008/05/mis-hroes
 slug: mis-hroes
+tags:
+- Locuras
+- Pensamientos
+- Personal
 title: Mis héroes...
 wordpress_id: 892
-categories:
-  - Sin categoría
-tags:
-  - Locuras
-  - Pensamientos
-  - Personal
 ---
 
 [![](./1978_Superman_The_Movie.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SCy9FyXegRI/AAAAAAAAAXM/WZXAdWzXBo8/s1600-h/1978_Superman_The_Movie.jpg)[![](./beatles-the-let-it-be.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SCy-VyXegTI/AAAAAAAAAXc/KcWahuGWBpM/s1600-h/beatles-the-let-it-be.jpg)

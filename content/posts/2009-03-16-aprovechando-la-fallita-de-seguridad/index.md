@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-03-16 07:42:00+00:00
+featuredImage: ./Pantallazo-Facebook.png
 layout: post
 path: /2009/03/aprovechando-la-fallita-de-seguridad
 slug: aprovechando-la-fallita-de-seguridad
+tags:
+- Curiosidades
+- Geek
+- Tips
 title: Aprovechando la "fallita de seguridad" del facebook
 wordpress_id: 785
-categories:
-  - Sin categoría
-tags:
-  - Curiosidades
-  - Geek
-  - Tips
 ---
 
 Algo que algunos consideran una falla de seguridad, pero realmente es parte inevitable del funcionamiento de Facebook es el manejo de las imágenes, bueno, se podría evitar, pero sería más problemático y consumiría muchos recursos para más de lo que "solucionaría".

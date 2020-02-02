@@ -1,17 +1,18 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2006-10-26 22:46:00+00:00
+featuredImage: ./Patito-Pan.7.jpg
 layout: post
 path: /2006/10/patito-de-pan
 slug: patito-de-pan
+tags:
+- Curiosidades
+- Viajes
 title: Patito de pan
 wordpress_id: 924
-categories:
-  - Sin categoría
-tags:
-  - Curiosidades
-  - Viajes
 ---
 
 No tengo idea de cuál sea su nombre real o típico, pero me causó mucha gracia cuando lo pusieron sobre la mesa. Tiene una especie de dulce o crema en el medio :P

@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2006-11-25 18:59:00+00:00
+featuredImage: ./composite.jpg
 layout: post
 path: /2006/11/virtualphotographer
 slug: virtualphotographer
+tags:
+- Curiosidades
+- Tecnología
+- Tips
 title: virtualPhotographer
 wordpress_id: 919
-categories:
-  - Sin categoría
-tags:
-  - Curiosidades
-  - Tecnología
-  - Tips
 ---
 
 [![](http://www.optikvervelabs.com/images/composite.jpg)](http://www.optikvervelabs.com/images/composite.jpg)Las típicas cosas que se suelen encontrar mientras no las estás buscando, pero en este caso fue un muy buen hallazgo.

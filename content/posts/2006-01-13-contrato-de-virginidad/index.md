@@ -1,17 +1,18 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2006-01-13 07:40:00+00:00
+featuredImage: ./contrato_virginidad.jpg
 layout: post
 path: /2006/01/contrato-de-virginidad
 slug: contrato-de-virginidad
+tags:
+- Locuras
+- Mujeres
 title: ¡Contrato de virginidad!
 wordpress_id: 956
-categories:
-  - Sin categoría
-tags:
-  - Locuras
-  - Mujeres
 ---
 
 [![](http://photos1.blogger.com/blogger/5311/455/200/contrato_virginidad.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/contrato_virginidad.jpg)La verdad es que la foto me salió muy mala (necesito cargar mi cámara digital a mano o comprarme un [Nokia serie N90](http://www.nokia.com/nseries/index.html) XD), pero bue, la historia igual la cuento.

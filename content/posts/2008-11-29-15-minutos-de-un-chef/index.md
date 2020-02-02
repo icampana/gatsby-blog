@@ -1,21 +1,22 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-11-29 05:31:00+00:00
+featuredImage: ./DSC03782.jpg
 layout: post
 path: /2008/11/15-minutos-de-un-chef
+post_format:
+- Minientrada
 slug: 15-minutos-de-un-chef
+tags:
+- Comida
+- Curiosidades
+- Fotografías
+- Personal
 title: 15 minutos de un Chef
 wordpress_id: 832
-categories:
-  - Sin categoría
-post_format:
-  - Minientrada
-tags:
-  - Comida
-  - Curiosidades
-  - Fotografías
-  - Personal
 ---
 
 La diferencia entre lo que yo puedo preparar en 15 minutos con papa, cebolla, queso crema y queso rayado y lo que mi hermano puede hacer con las mismas cosas que estaban casi olvidadas en la nevera es bastante grande como podrán ver :P

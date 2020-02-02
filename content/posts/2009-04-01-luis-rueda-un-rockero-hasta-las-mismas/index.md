@@ -1,17 +1,18 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-04-01 08:25:00+00:00
+featuredImage: ./luis-rueda.jpg
 layout: post
 path: /2009/04/luis-rueda-un-rockero-hasta-las-mismas
 slug: luis-rueda-un-rockero-hasta-las-mismas
+tags:
+- Música
+- Recuerdos
 title: Luis Rueda, un rockero hasta las mismas!
 wordpress_id: 778
-categories:
-  - Sin categoría
-tags:
-  - Música
-  - Recuerdos
 ---
 
 [![](./luis-rueda.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SdLn_xv7bTI/AAAAAAAABcI/Q4FyZWNR0YE/s1600-h/luis-rueda.jpg)

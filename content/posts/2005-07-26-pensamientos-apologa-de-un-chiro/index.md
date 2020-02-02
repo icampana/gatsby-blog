@@ -1,19 +1,20 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2005-07-26 12:31:00+00:00
+featuredImage: ./no_money.jpg
 layout: post
 path: /2005/07/pensamientos-apologa-de-un-chiro
 slug: pensamientos-apologa-de-un-chiro
+tags:
+- Ecuador
+- Estupideces
+- Locuras
+- Tips
 title: 'Pensamientos: Apología de un chiro...'
 wordpress_id: 991
-categories:
-  - Sin categoría
-tags:
-  - Ecuador
-  - Estupideces
-  - Locuras
-  - Tips
 ---
 
 [![](http://photos1.blogger.com/blogger/5311/455/200/no_money.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/no_money.jpg)Ante todo para quien no conozca el léxico utilizado en Ecuador, se conoce como chiro a toda aquella persona que se encuentre con un límite de dinero bastante restringido (por no decir que es necesario controlar todos y cada uno de los gastos, en pocas palabras quien no tiene un centavo o apenas tiene uno partido por la mitad** :P**).

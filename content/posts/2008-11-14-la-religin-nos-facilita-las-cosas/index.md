@@ -1,17 +1,18 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-11-14 10:10:00+00:00
+featuredImage: ./world_religion2.gif
 layout: post
 path: /2008/11/la-religin-nos-facilita-las-cosas
 slug: la-religin-nos-facilita-las-cosas
+tags:
+- Locuras
+- Personal
 title: La religión nos facilita las cosas...
 wordpress_id: 835
-categories:
-  - Sin categoría
-tags:
-  - Locuras
-  - Personal
 ---
 
 Quienes me conocen de hace un tiempo les sorprenderá el título de este post, especialmente porque yo hace mucho que me separé de la religión, en un principio me consideré agnóstico, pero luego me quedó claro que mientras más aprendía y sabía era inevitable convertirme en un ateo. O como diría "esqueleto" en Nacho Libre, I Only Believe in Science.

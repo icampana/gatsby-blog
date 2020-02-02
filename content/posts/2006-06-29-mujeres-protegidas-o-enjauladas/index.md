@@ -1,16 +1,17 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2006-06-29 07:25:00+00:00
+featuredImage: ./wecanhelp.jpg
 layout: post
 path: /2006/06/mujeres-protegidas-o-enjauladas
 slug: mujeres-protegidas-o-enjauladas
+tags:
+- Pensamientos
 title: ¿Mujeres protegidas o enjauladas?
 wordpress_id: 936
-categories:
-  - Sin categoría
-tags:
-  - Pensamientos
 ---
 
 [![](http://photos1.blogger.com/blogger/5311/455/200/wecanhelp.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/wecanhelp.jpg)Hace mucho tiempo tuve una relación muy bonita, en donde tuve que recordar muchas cosas que había olvidado pues llevaba mucho tiempo sin tener una pareja estable (principalmente porque nuestra "querida" universidad no dejaba tiempo para nada).

@@ -1,19 +1,20 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2013-08-13 19:03:00+00:00
+featuredImage: ./website-libra-1.jpg
 layout: post
 path: /2013/08/desarrollando-software-por-libra
 slug: desarrollando-software-por-libra
+tags:
+- Amigos
+- Aprendizaje
+- Empresa
+- Sociedad
 title: Desarrollando software por libra...
 wordpress_id: 722
-categories:
-  - Sin categoría
-tags:
-  - Amigos
-  - Aprendizaje
-  - Empresa
-  - Sociedad
 ---
 
 Este simpático dibujo que publicó [Alejandro](http://alejandrovaras.blogspot.com/) en su perfil personal aunque me causó gracia por detrás va arrastrando un mensaje muy fuerte, y es algo que al día de hoy seguimos enfrentando en el mercado del desarrollo de software.  Si lo pusiéramos en términos sencillos se resume en "hacer software es algo que cualquiera puede hacer".

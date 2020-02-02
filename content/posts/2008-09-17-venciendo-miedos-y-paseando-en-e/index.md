@@ -1,22 +1,23 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-09-17 06:35:00+00:00
+featuredImage: ./dsc03517.jpg
 layout: post
 path: /2008/09/venciendo-miedos-y-paseando-en-e
 slug: venciendo-miedos-y-paseando-en-e
+tags:
+- Curiosidades
+- Ecuador
+- Fotografías
+- Locuras
+- Personal
+- Vacaciones
+- Viajes
 title: Venciendo miedos... y paseando en el camino :P
 wordpress_id: 847
-categories:
-  - Sin categoría
-tags:
-  - Curiosidades
-  - Ecuador
-  - Fotografías
-  - Locuras
-  - Personal
-  - Vacaciones
-  - Viajes
 ---
 
 Desde hace un largo tiempo decidí pelear con algunos de los miedos que quedan en mi cabeza, entre ellos estaba el vértigo, así que he ido avanzando de a poco (aunque para algunos he ido muy lento... especialmente algunos impulsivos(as) que no toleran mi velocidad para hacer las cosas XD).

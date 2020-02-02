@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2011-01-10 03:09:00+00:00
+featuredImage: ./antes_despues_p90X.jpg
 layout: post
 path: /2011/01/ejercitarse-en-casa-funciona
 slug: ejercitarse-en-casa-funciona
+tags:
+- Deportes
+- Fitness
+- Personal
 title: Ejercitarse en casa, ¿Funciona?
 wordpress_id: 735
-categories:
-  - Sin categoría
-tags:
-  - Deportes
-  - Fitness
-  - Personal
 ---
 
 Desde que han existido las ventas por televisión y los infomerciales aparecieron cientos de productos asegurando que lograrían hacer que consigamos el "cuerpo deseado", el "abdomen de roca" o estar en forma con apenas 5 minutos al día. Estoy casi seguro que todas las personas que compraron alguno de esos productos terminaron con los mismos resultados, guardándolos bajo de la cama (porque era uno de las ventajas), vendiéndolos o simplemente terminaron metidos en un closet sin volver a ver la luz.

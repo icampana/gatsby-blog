@@ -1,20 +1,21 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2015-01-09 18:30:00+00:00
+featuredImage: ./artie_loser_png_by_gleelosersforever-d4x8ijg-1.png
 layout: post
 path: /2015/01/we-losers-nosotros-los-perdedores
 slug: we-losers-nosotros-los-perdedores
+tags:
+- Aprendizaje
+- Educación
+- Palabras
+- Pensamientos
+- Recuerdos
 title: We losers - Nosotros los perdedores
 wordpress_id: 718
-categories:
-  - Sin categoría
-tags:
-  - Aprendizaje
-  - Educación
-  - Palabras
-  - Pensamientos
-  - Recuerdos
 ---
 
 Una palabra famosa, o más bien infame del idioma inglés se convirtió en parte de la jerga común de los jóvenes latinoamericanos (y algunos ya no tan jóvenes también), con la cual se calificaba o marcaba a las personas que no coincidían con el estándar, que no eran populares o que simplemente no encajaban dentro de un grupo, pasamos a ser conocidos como "Los losers".

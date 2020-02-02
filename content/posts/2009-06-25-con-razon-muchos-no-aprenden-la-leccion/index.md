@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-06-25 18:08:00+00:00
+featuredImage: ./hedgehogSOLENT2708_800x495.jpg
 layout: post
 path: /2009/06/con-razon-muchos-no-aprenden-la-leccion
 slug: con-razon-muchos-no-aprenden-la-leccion
+tags:
+- Locuras
+- Pensamientos
+- Psicología
 title: Con razón muchos no aprenden la lección...
 wordpress_id: 753
-categories:
-  - Sin categoría
-tags:
-  - Locuras
-  - Pensamientos
-  - Psicología
 ---
 
 Mientras realizaba un trabajo para el diplomado que estoy cursando, terminé encontrando información muy interesante que una vez más, no estaba buscando... Arrancando con la siguiente cita:

@@ -1,17 +1,18 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-03-27 01:34:00+00:00
+featuredImage: ./piscis.jpg
 layout: post
 path: /2009/03/sera-de-creerles
 slug: sera-de-creerles
+tags:
+- Curiosidades
+- Personal
 title: ¿Será de creerles?
 wordpress_id: 783
-categories:
-  - Sin categoría
-tags:
-  - Curiosidades
-  - Personal
 ---
 
 [![](./piscis.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/ScvroyzyTRI/AAAAAAAABZ4/lQnBHRYaUeM/s1600-h/piscis.jpg)

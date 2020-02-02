@@ -1,14 +1,15 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2005-01-17 19:05:00+00:00
+featuredImage: ./sucres.jpg
 layout: post
 path: /2005/01/snif-snif-nuestra-ya-olvidada-moneda
 slug: snif-snif-nuestra-ya-olvidada-moneda
 title: No Content Found
 wordpress_id: 1028
-categories:
-  - Sin categoría
 ---
 
 [![](http://photos1.blogger.com/img/39/1190/320/sucres.jpg)](http://photos1.blogger.com/img/39/1190/640/sucres.jpg)  

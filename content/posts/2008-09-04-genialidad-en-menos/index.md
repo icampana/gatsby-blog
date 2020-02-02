@@ -1,17 +1,18 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-09-04 09:07:00+00:00
+featuredImage: ./minimalist.jpg
 layout: post
 path: /2008/09/genialidad-en-menos
 slug: genialidad-en-menos
+tags:
+- Pensamientos
+- Tecnología
 title: Genialidad en menos...
 wordpress_id: 855
-categories:
-  - Sin categoría
-tags:
-  - Pensamientos
-  - Tecnología
 ---
 
 [![](./minimalist.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SL9uTrDM9vI/AAAAAAAAA2M/i6qvpGGxMsk/s1600-h/minimalist.jpg)

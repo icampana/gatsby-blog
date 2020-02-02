@@ -1,17 +1,18 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-09-07 06:55:00+00:00
+featuredImage: ./funny-pictures-comedy-tragedy-kittens.jpg
 layout: post
 path: /2008/09/vaya-comedia
 slug: vaya-comedia
+tags:
+- Pensamientos
+- Personal
 title: Vaya comedia...
 wordpress_id: 852
-categories:
-  - Sin categoría
-tags:
-  - Pensamientos
-  - Personal
 ---
 
 [![](./funny-pictures-comedy-tragedy-kittens.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SMMzpkPww4I/AAAAAAAAA2U/icYsnrM_L78/s1600-h/funny-pictures-comedy-tragedy-kittens.jpg)"Life is a comedy for those who think... and a tragedy for those who feel."

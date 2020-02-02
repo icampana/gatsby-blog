@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-01-16 23:10:00+00:00
+featuredImage: ./IMG_0056.jpg
 layout: post
 path: /2009/01/aprovechando-la-penumbra
 slug: aprovechando-la-penumbra
+tags:
+- Fotografías
+- Locuras
+- Personal
 title: ¡Aprovechando la penumbra!
 wordpress_id: 807
-categories:
-  - Sin categoría
-tags:
-  - Fotografías
-  - Locuras
-  - Personal
 ---
 
 La noche de ayer tuvimos un corte de energía casi a nivel total de país (19 provincias) lo cual hizo correr rumores hasta de que los terroristas andaban detrás de ello, a final de cuentas resultó ser nada más una tormenta eléctrica que afectó al sistema nacional, pero sí dejo claro que no estamos preparados para este tipo de desastres.

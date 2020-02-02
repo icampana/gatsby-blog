@@ -1,19 +1,20 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-02-10 18:04:00+00:00
+featuredImage: ./yes-man-carrey-set.jpg
 layout: post
 path: /2009/02/si-senor
 slug: si-senor
+tags:
+- Cine
+- Pensamientos
+- Personal
+- Psicología
 title: ¡Sí Señor!
 wordpress_id: 795
-categories:
-  - Sin categoría
-tags:
-  - Cine
-  - Pensamientos
-  - Personal
-  - Psicología
 ---
 
 ![](http://www.iwatchstuff.com/2007/11/06/yes-man-carrey-set.jpg)Sí señor! o Yes Man! La película que vi hace poco, espero no dañarle la película a nadie, pero me quedé con las ganas de comentar luego de analizarla un poco. La idea del "motivador" de hecho existe y es un concepto que se usa normalmente para conseguir que las personas se vuelvan más receptivas al mensaje que le quieres entregar, el de hablar siempre en positivo, aunque sea algo negativo darle la vuelta y ponerlo en positivo.

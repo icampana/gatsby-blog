@@ -1,14 +1,15 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2005-01-17 19:04:00+00:00
+featuredImage: ./chupete-tetas.jpg
 layout: post
 path: /2005/01/un-regalito-que-me-hizo-mi-mam-despus
 slug: un-regalito-que-me-hizo-mi-mam-despus
 title: No Content Found
 wordpress_id: 1029
-categories:
-  - Sin categoría
 ---
 
 [![](http://photos1.blogger.com/img/39/1190/320/chupete%20tetas.jpg)](http://photos1.blogger.com/img/39/1190/640/chupete%20tetas.jpg)  

@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-01-19 09:55:00+00:00
+featuredImage: ./follow_blog.jpg
 layout: post
 path: /2009/01/cmo-seguir-un-blog-o-compartir-un
 slug: cmo-seguir-un-blog-o-compartir-un
+tags:
+- Blogging
+- Curiosidades
+- Tips
 title: ¿Cómo seguir un blog o compartir un artículo?
 wordpress_id: 806
-categories:
-  - Sin categoría
-tags:
-  - Blogging
-  - Curiosidades
-  - Tips
 ---
 
 [![](./follow_blog.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SXQWFPUsIhI/AAAAAAAABTY/qwmUZs1rPNg/s1600-h/follow_blog.jpg)Un par de novedades que he aumentado desde hace poco tiempo en mi blog son 2 elementos que están casi siempre visibles, uno es el cuadro de la derecha de los "seguidores" del blog, esta funcionalidad agregada en [Blogger](http://www.blogger.com/) permite hacer 3 cosas:

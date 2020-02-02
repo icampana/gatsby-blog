@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2013-11-24 23:12:00+00:00
+featuredImage: ./bftg.afraidtofall-1.jpg
 layout: post
 path: /2013/11/temor-caer
 slug: temor-caer
+tags:
+- Aprendizaje
+- Personal
+- Sociedad
 title: Temor a caer...
 wordpress_id: 720
-categories:
-  - Sin categoría
-tags:
-  - Aprendizaje
-  - Personal
-  - Sociedad
 ---
 
 Nadie es a prueba de balas, ni exento de errores, pero eso no quiere decir que debamos vivir encerrados o con miedo de salir a la calle, de experimentar, de aprender...

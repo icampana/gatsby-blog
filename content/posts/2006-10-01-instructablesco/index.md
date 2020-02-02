@@ -1,16 +1,17 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2006-10-01 20:52:00+00:00
+featuredImage: ./laptop_stand.medium.jpg
 layout: post
 path: /2006/10/instructablesco
 slug: instructablesco
+tags:
+- Curiosidades
 title: Instructables.com
 wordpress_id: 926
-categories:
-  - Sin categoría
-tags:
-  - Curiosidades
 ---
 
 [![](http://photos1.blogger.com/blogger/5311/455/200/laptop_stand.medium.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/laptop_stand.medium.jpg)[![](http://photos1.blogger.com/blogger/5311/455/200/camera_macro.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/camera_macro.jpg)La verdad es que no recuerdo cómo lo encontré, pero es un sitio muy interesante, especialmente para alguien que le guste hacer cosas con sus propias manos y/o experimentar.

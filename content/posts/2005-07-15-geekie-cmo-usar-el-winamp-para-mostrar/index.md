@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2005-07-15 07:38:00+00:00
+featuredImage: ./Toaster.jpg
 layout: post
 path: /2005/07/geekie-cmo-usar-el-winamp-para-mostrar
 slug: geekie-cmo-usar-el-winamp-para-mostrar
+tags:
+- Música
+- Tecnología
 title: 'Geekie: Cómo usar el winamp para mostrar lo que estás escuchando en el MSN
   messenger'
 wordpress_id: 992
-categories:
-  - Sin categoría
-tags:
-  - Música
-  - Tecnología
 ---
 
 [![](http://photos1.blogger.com/blogger/5311/455/400/Toaster.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/Toaster.jpg)Pensé que mucha gente lo conocía, pero al parecer por las preguntas que me han hecho no es tan común como pensaba, además hace siglos que no escribía nada "geekie", así que para quien le interese acá va la forma para que usando el MSN messenger puedas mostrarle al mundo lo que estás escuchando.

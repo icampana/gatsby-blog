@@ -1,14 +1,15 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2005-08-23 04:04:00+00:00
+featuredImage: ./gatitos.jpg
 layout: post
 path: /2005/08/anuncio-se-busca-padres-o-madres
 slug: anuncio-se-busca-padres-o-madres
 title: 'Anuncio: Se busca padres o madres adoptivos'
 wordpress_id: 989
-categories:
-  - Sin categoría
 ---
 
 [![](http://photos1.blogger.com/blogger/5311/455/320/gatitos.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/gatitos.jpg)

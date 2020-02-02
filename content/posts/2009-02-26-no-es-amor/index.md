@@ -1,20 +1,21 @@
 ---
 author: ivan
+categories:
+- Palabras
 comments: true
 date: 2009-02-26 11:44:00+00:00
+featuredImage: ./no_love.jpg
 layout: post
 path: /2009/02/no-es-amor
+post_format:
+- Cita
 slug: no-es-amor
+tags:
+- Palabras
+- Personal
+- Recuerdos
 title: No es amor...
 wordpress_id: 790
-categories:
-  - Palabras
-post_format:
-  - Cita
-tags:
-  - Palabras
-  - Personal
-  - Recuerdos
 ---
 
 Hace buen rato que quería cambiar de billetera por una más práctica y ligera, además que la anterior ya tenía cerca de 7 años :S.

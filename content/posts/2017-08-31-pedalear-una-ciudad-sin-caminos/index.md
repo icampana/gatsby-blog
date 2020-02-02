@@ -1,17 +1,18 @@
 ---
 author: ivan
+categories:
+- Aprendizaje
+- Ciclismo
+- Comunicación
+- Palabras
 comments: true
 date: 2017-08-31 05:34:13+00:00
+featuredImage: ./gg0pedale6.jpg
 layout: post
 path: /2017/08/pedalear-una-ciudad-sin-caminos
 slug: pedalear-una-ciudad-sin-caminos
 title: Pedalear en una ciudad sin caminos
 wordpress_id: 1786
-categories:
-  - Aprendizaje
-  - Ciclismo
-  - Comunicación
-  - Palabras
 ---
 
 Hace un tiempo me preguntaron: ¿No te da miedo pedalear por las calles de Guayaquil?

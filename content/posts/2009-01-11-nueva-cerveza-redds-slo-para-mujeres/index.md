@@ -1,19 +1,20 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-01-11 04:17:00+00:00
+featuredImage: ./Pantallazo.png
 layout: post
 path: /2009/01/nueva-cerveza-redds-slo-para-mujeres
 slug: nueva-cerveza-redds-slo-para-mujeres
+tags:
+- Ciudad
+- Curiosidades
+- Noticias
+- Novedades
 title: Nueva Cerveza Redd's, ¿sólo para mujeres?
 wordpress_id: 812
-categories:
-  - Sin categoría
-tags:
-  - Ciudad
-  - Curiosidades
-  - Noticias
-  - Novedades
 ---
 
 [![](./Pantallazo.png)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SWk-jr6BP_I/AAAAAAAABR4/rVnlMExD_Xk/s1600-h/Pantallazo.png)Por algunos comentarios de amigas y amigos que están en relación con los medios y diferentes agencias de publicidad me terminé enterando que Cervecería Nacional iba a comenzar a promocionar una cerveza diseñada específicamente para mujeres.

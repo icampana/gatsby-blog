@@ -1,19 +1,20 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-03-30 05:34:00+00:00
+featuredImage: ./3397140518_b0459c7350_m.jpg
 layout: post
 path: /2009/03/fotos-y-ciclopaseo
 slug: fotos-y-ciclopaseo
+tags:
+- Ciclismo
+- Ciudad
+- Fotografías
+- Personal
 title: Fotos y Ciclopaseo
 wordpress_id: 781
-categories:
-  - Sin categoría
-tags:
-  - Ciclismo
-  - Ciudad
-  - Fotografías
-  - Personal
 ---
 
 [![](http://farm4.static.flickr.com/3622/3397140518_b0459c7350_m.jpg)](http://www.flickr.com/photos/ivangabriel/3397140518/)

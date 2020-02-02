@@ -1,14 +1,15 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2005-01-17 19:19:00+00:00
+featuredImage: ./cadena-sol.jpg
 layout: post
 path: /2005/01/con-esto-arranco-bueno
 slug: con-esto-arranco-bueno
 title: No Content Found
 wordpress_id: 1023
-categories:
-  - Sin categoría
 ---
 
 [![](http://photos1.blogger.com/img/39/1190/320/cadena%20sol.jpg)](http://photos1.blogger.com/img/39/1190/640/cadena%20sol.jpg)  

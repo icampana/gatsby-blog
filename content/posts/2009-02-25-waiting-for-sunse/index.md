@@ -1,19 +1,20 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-02-25 09:52:00+00:00
+featuredImage: ./3308516954_6478bc0dd2_m.jpg
 layout: post
 path: /2009/02/waiting-for-sunse
 slug: waiting-for-sunse
+tags:
+- Ecuador
+- Fotografías
+- Vacaciones
+- Viajes
 title: Waiting for the Sunset
 wordpress_id: 791
-categories:
-  - Sin categoría
-tags:
-  - Ecuador
-  - Fotografías
-  - Vacaciones
-  - Viajes
 ---
 
 [![](http://farm4.static.flickr.com/3597/3308516954_6478bc0dd2_m.jpg)](http://www.flickr.com/photos/ivangabriel/3308516954/)  

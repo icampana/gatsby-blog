@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2007-01-21 02:57:00+00:00
+featuredImage: ./audifonos.gif
 layout: post
 path: /2007/01/saliendo-de-un-mundo-mudo
 slug: saliendo-de-un-mundo-mudo
+tags:
+- Locuras
+- Pensamientos
+- Personal
 title: Saliendo de un mundo mudo
 wordpress_id: 915
-categories:
-  - Sin categoría
-tags:
-  - Locuras
-  - Pensamientos
-  - Personal
 ---
 
 [![](./audifonos.gif)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/RbPkP2oRdJI/AAAAAAAAAAo/ZlLh753sw-E/s1600-h/audifonos.gif)Durante las últimas semanas he estado con una sola idea metida en mi cabeza, VACACIONES.

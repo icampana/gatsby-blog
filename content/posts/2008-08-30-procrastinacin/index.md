@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-08-30 19:59:00+00:00
+featuredImage: ./blackboard_procrastinate2.jpg
 layout: post
 path: /2008/08/procrastinacin
 slug: procrastinacin
+tags:
+- Palabras
+- Pensamientos
+- Personal
 title: Procrastinación
 wordpress_id: 858
-categories:
-  - Sin categoría
-tags:
-  - Palabras
-  - Pensamientos
-  - Personal
 ---
 
 [![](./blackboard_procrastinate2.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SLltkgMccGI/AAAAAAAAA10/wxDFDRSatVs/s1600-h/blackboard_procrastinate2.jpg)De acuerdo al diccionario de la Real Academia Española:

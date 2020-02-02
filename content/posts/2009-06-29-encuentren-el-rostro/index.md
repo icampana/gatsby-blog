@@ -1,19 +1,20 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-06-29 05:58:00+00:00
+featuredImage: ./img_1385-Modificada.jpg
 layout: post
 path: /2009/06/encuentren-el-rostro
 slug: encuentren-el-rostro
+tags:
+- Ciclismo
+- Curiosidades
+- Locuras
+- Personal
 title: ¡Encuentren el rostro!
 wordpress_id: 749
-categories:
-  - Sin categoría
-tags:
-  - Ciclismo
-  - Curiosidades
-  - Locuras
-  - Personal
 ---
 
 [![](./img_1385-Modificada.jpg)](<http://4.bp.blogspot.com/_T2UWuNJg3dQ/SkgSUlPP9yI/AAAAAAAACB0/SFQ0xQQ6hss/s1600-h/img_1385+(Modificada).jpg>)

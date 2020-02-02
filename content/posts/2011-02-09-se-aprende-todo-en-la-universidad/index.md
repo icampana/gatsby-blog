@@ -1,17 +1,18 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2011-02-09 13:54:00+00:00
+featuredImage: ./estudiantes-1.jpg
 layout: post
 path: /2011/02/se-aprende-todo-en-la-universidad
 slug: se-aprende-todo-en-la-universidad
+tags:
+- Aprendizaje
+- Educación
 title: ¿Se aprende todo en la universidad?
 wordpress_id: 733
-categories:
-  - Sin categoría
-tags:
-  - Aprendizaje
-  - Educación
 ---
 
 La respuesta quizá no tan obvia, pero sencilla es **no**, aún así lo interesante es el porqué... Siendo profesor e inclusive cuando era estudiante algunas veces me preguntaban dónde aprendí a programar, cómo lo hice o inclusive algunos asumían que aprendí en el colegio y por eso se me hizo fácil en la universidad.

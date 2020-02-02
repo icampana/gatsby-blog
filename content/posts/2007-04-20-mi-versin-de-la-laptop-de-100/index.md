@@ -1,19 +1,20 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2007-04-20 07:33:00+00:00
+featuredImage: ./465836267_a877d86a9a_m.jpg
 layout: post
 path: /2007/04/mi-versin-de-la-laptop-de-100
 slug: mi-versin-de-la-laptop-de-100
+tags:
+- Ciencia
+- Curiosidades
+- Locuras
+- Tecnología
 title: Mi versión de la laptop de $100
 wordpress_id: 910
-categories:
-  - Sin categoría
-tags:
-  - Ciencia
-  - Curiosidades
-  - Locuras
-  - Tecnología
 ---
 
 Laptop Tuning!  

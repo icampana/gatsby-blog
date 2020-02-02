@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-05-15 23:21:00+00:00
+featuredImage: ./Mocca.png
 layout: post
 path: /2009/05/mocca-jazz-funk-y-unas-yerbas-mas
 slug: mocca-jazz-funk-y-unas-yerbas-mas
+tags:
+- Locuras
+- Música
+- Personal
 title: Mocca, Jazz, Funk y unas yerbas más...
 wordpress_id: 764
-categories:
-  - Sin categoría
-tags:
-  - Locuras
-  - Música
-  - Personal
 ---
 
 [![](./Mocca.png)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/Sg3s1e8gsjI/AAAAAAAABgc/gOGZHAurCjw/s1600-h/Mocca.png)Para los que se animen, este viernes 22 de mayo, a las 18.15 (puntualitos porque hay varios grupos), en el festival de artes de la Universidad Santa María (Km 4 1/2 de la avda. Carlos Julio Arosemena), el lanzamiento oficial del grupo Mocca.

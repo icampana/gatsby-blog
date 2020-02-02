@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2005-07-10 12:02:00+00:00
+featuredImage: ./nio_espejo.jpg
 layout: post
 path: /2005/07/la-proyeccin-persona
 slug: la-proyeccin-persona
+tags:
+- Aprendizaje
+- Palabras
+- Personal
 title: La proyección personal
 wordpress_id: 993
-categories:
-  - Sin categoría
-tags:
-  - Aprendizaje
-  - Palabras
-  - Personal
 ---
 
 [![](http://photos1.blogger.com/blogger/5311/455/320/ni%3F%3Fo_espejo.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/ni%3F%3Fo_espejo.jpg)Recuerdo desde niño la imagen de mi padre hablándole al vientre de mi madre mientras estaba embarazada, diciéndole que sería una persona muy capaz, inteligente, con todas las aptitudes para sobresalir... No entendía porqué le hablaba así a mi futuro hermanito, luego vinieron mis demás hermanos y la historia se repitió una y otra vez...

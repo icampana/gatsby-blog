@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2010-04-26 01:44:00+00:00
+featuredImage: ./padres_blog.jpg
 layout: post
 path: /2010/04/papa-y-mama
 slug: papa-y-mama
+tags:
+- Familia
+- Pensamientos
+- Personal
 title: Papá y Mamá
 wordpress_id: 740
-categories:
-  - Sin categoría
-tags:
-  - Familia
-  - Pensamientos
-  - Personal
 ---
 
 He dejado durante un largo tiempo en el olvido mi blog, aún así no se me quitaba una idea de la cabeza. Muchas veces esperamos a que pase demasiado tiempo o que ya sea demasiado tarde para decir cuan importantes son las personas a las que queremos en nuestras vidas.

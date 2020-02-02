@@ -1,17 +1,18 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-06-23 20:23:00+00:00
+featuredImage: ./img_1381-Modificada.jpg
 layout: post
 path: /2009/06/libre-5-anos-despues
 slug: libre-5-anos-despues
+tags:
+- Personal
+- Salud
 title: Libre, 5 años después...
 wordpress_id: 754
-categories:
-  - Sin categoría
-tags:
-  - Personal
-  - Salud
 ---
 
 [![](./img_1381-Modificada.jpg)](<http://3.bp.blogspot.com/_T2UWuNJg3dQ/SkD29bMvsMI/AAAAAAAABoY/0c_o8QOyL2U/s1600-h/img_1381+(Modificada).jpg>)

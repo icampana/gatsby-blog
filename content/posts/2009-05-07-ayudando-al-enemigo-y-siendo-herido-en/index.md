@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-05-07 09:37:00+00:00
+featuredImage: ./6404.jpg
 layout: post
 path: /2009/05/ayudando-al-enemigo-y-siendo-herido-en
 slug: ayudando-al-enemigo-y-siendo-herido-en
+tags:
+- Curiosidades
+- Locuras
+- Personal
 title: ¡Ayudando al enemigo y siendo herido en el intento!
 wordpress_id: 767
-categories:
-  - Sin categoría
-tags:
-  - Curiosidades
-  - Locuras
-  - Personal
 ---
 
 [![](./6404.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SgKVmAlsFbI/AAAAAAAABfI/Lh2Old4iezU/s1600-h/6404.jpg)Realmente el título es una exageración de lo que pasó, pero me puso a pensar de cualquier manera, además asumo que llamó la atención de más de un@ :P

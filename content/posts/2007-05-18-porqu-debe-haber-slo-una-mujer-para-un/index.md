@@ -1,19 +1,20 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2007-05-18 07:32:00+00:00
+featuredImage: ./women.gif
 layout: post
 path: /2007/05/porqu-debe-haber-slo-una-mujer-para-un
 slug: porqu-debe-haber-slo-una-mujer-para-un
+tags:
+- Locuras
+- Mujeres
+- Pensamientos
+- Personal
 title: ¿Porqué debe haber sólo una mujer para un hombre?
 wordpress_id: 907
-categories:
-  - Sin categoría
-tags:
-  - Locuras
-  - Mujeres
-  - Pensamientos
-  - Personal
 ---
 
 ![](./women.gif)Para las mujeres que lean esto, les sugiero que tengan un poco de paciencia y lleguen hasta el final, antes de explotar en cólera o decir este tipo es un idiota, no se queden simplemente en el título, espero poder llegar a explicar mi idea hasta ese punto.

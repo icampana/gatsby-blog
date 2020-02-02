@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-06-29 00:01:00+00:00
+featuredImage: ./img_1273.jpg
 layout: post
 path: /2009/06/wtf-en-una-piscina
 slug: wtf-en-una-piscina
+tags:
+- Curiosidades
+- Locuras
+- WTF
 title: WTF en una piscina!
 wordpress_id: 751
-categories:
-  - Sin categoría
-tags:
-  - Curiosidades
-  - Locuras
-  - WTF
 ---
 
 [![](./img_1273.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/Ske-0klEFXI/AAAAAAAACBs/PmgoxLluvVs/s1600-h/img_1273.jpg)

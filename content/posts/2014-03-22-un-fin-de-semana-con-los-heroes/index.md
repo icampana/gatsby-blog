@@ -1,19 +1,20 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2014-03-22 03:59:00+00:00
+featuredImage: ./mariano_diego_lucho-1.jpg
 layout: post
 path: /2014/03/un-fin-de-semana-con-los-heroes
 slug: un-fin-de-semana-con-los-heroes
+tags:
+- Ciclismo
+- Curiosidades
+- Palabras
+- Personal
 title: Un fin de semana con los "Héroes Innecesarios"
 wordpress_id: 719
-categories:
-  - Sin categoría
-tags:
-  - Ciclismo
-  - Curiosidades
-  - Palabras
-  - Personal
 ---
 
 [![](./diego_cumple-1.jpg)](http://3.bp.blogspot.com/-vBUuZHGm0a0/Uyx7n76P4BI/AAAAAAAACsQ/KJFx18DeKOI/s1600/diego_cumple.jpg) Hace ya 2 semanas que recibí un correo dirigido hacia [Guayaquil en Bici](http://guayaquilenbici.org/), contándonos que había un par de argentinos que estaban recorriendo Sudamérica en bicicleta, que habían salido desde Santa Fe y ya estaban en Ecuador, específicamente en Guayaquil.

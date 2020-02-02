@@ -1,14 +1,15 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2005-01-22 11:35:00+00:00
+featuredImage: ./Smurf_AngelDevil.jpg
 layout: post
 path: /2005/01/la-dualidad
 slug: la-dualidad
 title: La dualidad
 wordpress_id: 1022
-categories:
-  - Sin categoría
 ---
 
 ![](http://photos1.blogger.com/img/39/1190/320/Smurf_Angel%26Devil.jpg)Hace un tiempo escribí algunas cosas sobre mi [locura](http://www.usm.edu.ec/icampana/index.php?option=content&task=view&id=18&Itemid=61), mi [timidez](http://www.usm.edu.ec/icampana/index.php?option=content&task=view&id=6&Itemid=61) y mis [confusiones](http://ivan.campananaranjo.com/2004/09/12/lo-inconsciente-del-subconciente/). Fruto de conversaciones y dilucidaciones un amigo llegó a la conclusión de que yo tenía 5 personalidades, que aparecían esporádicamente y en los momentos más inesperados.

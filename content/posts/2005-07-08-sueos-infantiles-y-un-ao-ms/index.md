@@ -1,17 +1,18 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2005-07-08 08:47:00+00:00
+featuredImage: ./the-flash.jpg
 layout: post
 path: /2005/07/sueos-infantiles-y-un-ao-ms
 slug: sueos-infantiles-y-un-ao-ms
+tags:
+- Locuras
+- Personal
 title: Sueños infantiles y un año más...
 wordpress_id: 994
-categories:
-  - Sin categoría
-tags:
-  - Locuras
-  - Personal
 ---
 
 [![](http://photos1.blogger.com/blogger/5311/455/200/the-flash.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/the-flash.jpg)Hoy me he sentido un poco raro, caminando hacia la oficina mientras escuchaba música de repente mi mente se disparó, o como suelo decir, me volé.... Olvidé que iba caminando cerca de un centro comercial, me puse a pensar cómo sería si pudiera tener mis propias alas como las aves y sobrevolar todo el mundo...

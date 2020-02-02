@@ -1,17 +1,18 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-04-07 06:52:00+00:00
+featuredImage: ./traffic_lights_mist.jpg
 layout: post
 path: /2009/04/transito-y-trafico-latinoamericano
 slug: transito-y-trafico-latinoamericano
+tags:
+- Ciclismo
+- Ciudad
 title: Tránsito y Tráfico Latinoamericano
 wordpress_id: 774
-categories:
-  - Sin categoría
-tags:
-  - Ciclismo
-  - Ciudad
 ---
 
 [![](./traffic_lights_mist.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SdrDsAlyQMI/AAAAAAAABco/DU53ZY-JoYs/s1600-h/traffic_lights_mist.jpg)En mi época universitaria algunos amigos me decían en tono de broma [Kwan Chang Caine](http://en.wikipedia.org/wiki/Kwai_Chang_Caine), porque siempre llegaba caminando a clases desde mi casa y les parecía sorprendente que recorriera casi dos kilómetros para llegar, pero siempre me acostumbré a caminar, de una lado para el otro. Peor aún cuando estoy de viaje conociendo algún lugar, aunque por tener pies planos no debería, no es recomendable para mi, igual me gusta hacerlo, siempre se puede ver cosas que normalmente no podemos apreciar a simple vista.

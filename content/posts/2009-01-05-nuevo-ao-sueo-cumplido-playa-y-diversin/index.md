@@ -1,23 +1,24 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-01-05 10:16:00+00:00
+featuredImage: ./dsc04008-Modificada.jpg
 layout: post
 path: /2009/01/nuevo-ao-sueo-cumplido-playa-y-diversin
 slug: nuevo-ao-sueo-cumplido-playa-y-diversin
+tags:
+- Amigos
+- Ecuador
+- Personal
+- Sueños
+- Turismo
+- Vacaciones
+- Viajes
+- Videos
 title: Nuevo año, sueño cumplido, playa y diversión!
 wordpress_id: 815
-categories:
-  - Sin categoría
-tags:
-  - Amigos
-  - Ecuador
-  - Personal
-  - Sueños
-  - Turismo
-  - Vacaciones
-  - Viajes
-  - Videos
 ---
 
 [![Preparación previa](./dsc04008-Modificada.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SWF_0H2B-jI/AAAAAAAABQY/4AcwqseRYeA/s1600-h/dsc04008+%28Modificada%29.jpg)Este inicio de año fue bastante diferente a los anteriores, en lugar de utilizar mi dinero para gastarlo en una fiesta costosa de fin de año o reunirme con amigos me acosté a dormir temprano la noche del 31 al primero para poder utilizar ese mismo dinero en algo mucho más divertido y que disfruto mucho más, viajar!

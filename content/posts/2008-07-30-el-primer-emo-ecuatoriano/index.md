@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-07-30 20:39:00+00:00
+featuredImage: ./Medardo.jpg
 layout: post
 path: /2008/07/el-primer-emo-ecuatoriano
 slug: el-primer-emo-ecuatoriano
+tags:
+- Palabras
+- Pensamientos
+- Poesía
 title: El primer emo ecuatoriano??
 wordpress_id: 876
-categories:
-  - Sin categoría
-tags:
-  - Palabras
-  - Pensamientos
-  - Poesía
 ---
 
 [![](./Medardo.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SJCL1hZeh1I/AAAAAAAAAho/THJ9XEqnXVI/s1600-h/Medardo.jpg)No es mi intención desmerecer o desacreditar a nuestro insigne poeta que fue parte de la "generación decapitada" (un grupo de poetas que murieron jóvenes), pero de acuerdo al concepto manejado por muchos jóvenes hoy en día se refiere a un estilo de vida asociado con su sensibilidad y la relación que tienen con su entorno, lo cual coincide con el perfil de [Medardo Angel Silva](http://es.wikipedia.org/wiki/Medardo_%C3%81ngel_Silva).

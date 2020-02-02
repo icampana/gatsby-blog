@@ -1,19 +1,20 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-05-29 01:13:00+00:00
+featuredImage: ./Pantallazo-Kangun-video-converter.png
 layout: post
 path: /2008/05/cmo-convertir-los-videos-de
 slug: cmo-convertir-los-videos-de
+tags:
+- Curiosidades
+- Tecnología
+- Videos
 title: Cómo convertir los videos de Youtube(videos flash FLV) para tu celular (teléfono
   móvil)
 wordpress_id: 891
-categories:
-  - Sin categoría
-tags:
-  - Curiosidades
-  - Tecnología
-  - Videos
 ---
 
 Hace mucho que no escribo sobre monerías tecnológicas, hace poco una amiga me mostró un video muy chistoso sobre un ventrílocuo llamado Jeff Dunham. Este personaje tiene varias marionetas, la primera que conocí es a Achmed The Dead Terrorist:

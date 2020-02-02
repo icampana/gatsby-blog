@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-08-25 07:53:00+00:00
+featuredImage: ./muslim-woman_64.jpg
 layout: post
 path: /2008/08/la-belleza-oculta
 slug: la-belleza-oculta
+tags:
+- Locuras
+- Palabras
+- Pensamientos
 title: La belleza oculta
 wordpress_id: 862
-categories:
-  - Sin categoría
-tags:
-  - Locuras
-  - Palabras
-  - Pensamientos
 ---
 
 [![](./muslim-woman_64.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SLJKBN6D0AI/AAAAAAAAA1c/zMxnWSbZI-c/s1600-h/muslim-woman_64.jpg)Nunca he sido un seguidor de telenovelas, de hecho casi ni veo TV, pero una de las cosas que sí vi hace algunos años fue la famosa telenovela colombiana "Betty, La Fea". Principalmente porque era distinta a las regulares, mostraba una mezcla de jocosidad y drama, además de enfocarse en algo poco usual para las telenovelas, una mujer fea.

@@ -1,21 +1,22 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-11-04 07:55:00+00:00
+featuredImage: ./dsc03697.jpg
 layout: post
 path: /2008/11/intentos-de-fotografa
+post_format:
+- Galería
 slug: intentos-de-fotografa
+tags:
+- Fotografías
+- Tips
+- Vacaciones
+- Viajes
 title: Intentos de fotografía
 wordpress_id: 838
-categories:
-  - Sin categoría
-post_format:
-  - Galería
-tags:
-  - Fotografías
-  - Tips
-  - Vacaciones
-  - Viajes
 ---
 
 [gallery columns="1" link="file" ids="1360,1358,1359,1361"]

@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-02-07 09:39:00+00:00
+featuredImage: ./mouse-vi.jpg
 layout: post
 path: /2009/02/analfabetismo-digita
 slug: analfabetismo-digita
+tags:
+- Ecuador
+- Sociedad
+- Tecnología
 title: Analfabetismo Digital
 wordpress_id: 798
-categories:
-  - Sin categoría
-tags:
-  - Ecuador
-  - Sociedad
-  - Tecnología
 ---
 
 [![](./mouse-vi.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SY0UGRcAU9I/AAAAAAAABVQ/EotL8db21Bo/s1600-h/mouse-vi.jpg)Una anécdota cortita antes de partir a la playa, durante el período en el que tuve que pelear para conseguir la renovación de mi licencia de conducir vi algo que me llamó la atención, como ahora hay que dar una prueba teórica en un computador antes de que te renueven la licencia una de las primeras preguntas que hacen es: "Sabe usar el mouse".

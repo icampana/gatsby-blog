@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-04-25 22:44:00+00:00
+featuredImage: ./Imagen035.jpg
 layout: post
 path: /2009/04/vaya-letrerito-de-clausura
 slug: vaya-letrerito-de-clausura
+tags:
+- Ciudad
+- Guayaquil
+- Locuras
 title: ¡Vaya letrerito de clausura!
 wordpress_id: 770
-categories:
-  - Sin categoría
-tags:
-  - Ciudad
-  - Guayaquil
-  - Locuras
 ---
 
 [![](./Imagen035.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SfNMlE0ijjI/AAAAAAAABd8/maGkwchproc/s1600-h/Imagen035.jpg)

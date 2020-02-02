@@ -1,18 +1,19 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2009-08-11 09:51:00+00:00
+featuredImage: ./twitter_chat.jpg
 layout: post
 path: /2009/08/twitter-blackberries-privacidad-y
 slug: twitter-blackberries-privacidad-y
+tags:
+- Seguridad
+- Tecnología
+- Tips
 title: Twitter, Blackberries, privacidad y seguridad...
 wordpress_id: 741
-categories:
-  - Sin categoría
-tags:
-  - Seguridad
-  - Tecnología
-  - Tips
 ---
 
 Si bien he sido un usuario tardío("late adopter") del servicio de microblogging [twitter](http://twitter.com), me di cuenta en poco tiempo de la cantidad de información que mucha gente expone sin darse cuenta de lo que realmente representa todo esto, si bien la explicación que voy a dar a continuación es un poco exagerada, no tiene nada de falso ni de imposible...

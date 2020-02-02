@@ -1,19 +1,20 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-08-07 22:26:00+00:00
+featuredImage: ./2734896340_df57bc403e_m.jpg
 layout: post
 path: /2008/08/viaje-al-cajas-azuay-ecuador
 slug: viaje-al-cajas-azuay-ecuador
+tags:
+- Curiosidades
+- Personal
+- Turismo
+- Viajes
 title: Viaje al Cajas (Azuay - Ecuador)
 wordpress_id: 872
-categories:
-  - Sin categoría
-tags:
-  - Curiosidades
-  - Personal
-  - Turismo
-  - Viajes
 ---
 
 [![](http://farm4.static.flickr.com/3096/2734896340_df57bc403e_m.jpg)](http://www.flickr.com/photos/ivangabriel/2734896340/)

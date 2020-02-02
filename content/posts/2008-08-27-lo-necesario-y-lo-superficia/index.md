@@ -1,17 +1,18 @@
 ---
 author: ivan
+categories:
+- Sin categoría
 comments: true
 date: 2008-08-27 10:11:00+00:00
+featuredImage: ./dsc03482-Modificada.jpg
 layout: post
 path: /2008/08/lo-necesario-y-lo-superficia
 slug: lo-necesario-y-lo-superficia
+tags:
+- Locuras
+- Pensamientos
 title: Lo necesario y lo superficial
 wordpress_id: 860
-categories:
-  - Sin categoría
-tags:
-  - Locuras
-  - Pensamientos
 ---
 
 [![](./dsc03482-Modificada.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SLTuyjUi5II/AAAAAAAAA1s/uLuOmW5FM0A/s1600-h/dsc03482+%28Modificada%29.jpg)
