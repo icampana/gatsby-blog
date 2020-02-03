@@ -37,30 +37,25 @@ const Bio = () => {
 
   const { author, social } = data.site.siteMetadata
   return (
-    <div
-      style={{
-        display: `flex`,
-        marginBottom: rhythm(2.5),
-        alignItems: 'flex-end'
-      }}
-    >
-      <Image
-        fixed={data.avatar.childImageSharp.fixed}
-        alt={author}
-        style={{
-          marginRight: rhythm(1 / 2),
-          marginBottom: 0,
-          minWidth: 50,
-          borderRadius: `100%`,
-        }}
-        imgStyle={{
-          borderRadius: `50%`,
-        }}
-      />
-      <p>
-        Escrito por <strong>{author}</strong> <br />Informático, Emprendedor, Desarrollador y Curioso a tiempo completo.
-      </p>
-
+    <div className="md:flex mb-3 mx-5">
+      <div className="md:flex-shrink-0">
+        <Image
+          fixed={data.avatar.childImageSharp.fixed}
+          alt={author}
+          style={{
+            marginRight: rhythm(1 / 2),
+            marginBottom: 0,
+            minWidth: 50,
+            borderRadius: `100%`,
+          }}
+          imgStyle={{
+            borderRadius: `50%`,
+          }}
+        />
+        <div style={{ float: 'right' }}>
+          Escrito por <strong>{author}</strong> <br />Informático, Emprendedor, Desarrollador y Curioso a tiempo completo.
+        </div>
+      </div>
       <div style={{ textAlign: 'right', width: '50%' }}>
         <a href={`https://twitter.com/${social.twitter}`} style={{ boxShadow: 'none' }}>
           <FontAwesomeIcon icon={ faTwitter }  size='2x' />
