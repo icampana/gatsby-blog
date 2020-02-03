@@ -1,8 +1,8 @@
-import React from "react"
-import { Link } from "gatsby"
+import React from "react";
+import { Link } from "gatsby";
 
-import { rhythm, scale } from "../utils/typography"
-import '../css/layout.css'
+import { rhythm, scale } from "../utils/typography";
+import '../css/layout.css';
 
 class Layout extends React.Component {
   render() {
