@@ -14,7 +14,9 @@ class BlogIndex extends React.Component {
         featuredImage.childImageSharp !== null &&
         typeof featuredImage.childImageSharp !== 'undefined') {
       return (
-        <Img key={featuredImage.childImageSharp.fluid.src} fluid={featuredImage.childImageSharp.fluid} />
+        <div className='shadow-md'>
+          <Img key={featuredImage.childImageSharp.fluid.src} fluid={featuredImage.childImageSharp.fluid} />
+        </div>
       );
     }
   }

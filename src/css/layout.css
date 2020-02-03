@@ -4,13 +4,13 @@
 
 
 body {
-  color: white;
-  background-color: black;
+  color: black;
+  background-color: white;
 }
 
 .text-title {
   min-height: 35px;
-  @apply text-blue-500 font-bold;
+  @apply text-red-600 font-bold;
 }
 
 .text-date {
@@ -42,4 +42,8 @@ a.link {
   &:hover {
     @apply text-blue-900;
   }
+}
+
+section h2 {
+  @apply font-bold text-red-400;
 }

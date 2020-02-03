@@ -33,12 +33,7 @@ class Layout extends React.Component {
       )
     } else {
       header = (
-        <h3
-          style={{
-            fontFamily: `Montserrat, sans-serif`,
-            marginTop: 0,
-          }}
-        >
+        <h2 className="font-mono mt-1">
           <Link
             style={{
               boxShadow: `none`,
@@ -49,17 +44,15 @@ class Layout extends React.Component {
           >
             {title}
           </Link>
-        </h3>
+        </h2>
       )
     }
     return (
       <div className="container mx-auto py-8">
         <header>{header}</header>
         <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Hecho con
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <footer className='bg-gray-800 mt-8 p-4 text-white'>
+          © {new Date().getFullYear()}, Hecho con <a href="https://www.gatsbyjs.org">Gatsby</a>
         </footer>
       </div>
     )

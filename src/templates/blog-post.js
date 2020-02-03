@@ -20,22 +20,16 @@ class BlogPostTemplate extends React.Component {
         />
         <article>
           <header>
-            <h1
-              style={{
-                marginTop: rhythm(1),
-                marginBottom: 0,
-              }}
-            >
+            <h1 className="font-sans mt-1 mb-5">
               {post.frontmatter.title}
             </h1>
             <p
               style={{
                 ...scale(-1 / 5),
-                display: `block`,
                 marginBottom: rhythm(1),
               }}
             >
-              {post.frontmatter.date}
+              <small className='mt-1 border-solid border-red-500 border-b-2'>{post.frontmatter.date}</small>
             </p>
           </header>
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
