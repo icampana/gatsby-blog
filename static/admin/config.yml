@@ -4,8 +4,16 @@ backend:
 
 site_url: https://ivan.campananaranjo.com
 
-media_folder: static/images
-public_folder: /images
+publish_mode: editorial_workflow
+locale: "es"
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
+
+media_folder: "static/images"
+public_folder: "/images"
 
 collections:
   - name: "blog"
