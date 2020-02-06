@@ -1,6 +1,8 @@
 ---
 title: 'Guía básica para trabajar con clientes foráneos (EEUU/Europa), siendo latino.'
 date: 2020-02-06T00:21:14.393Z
+path: "/2020/02/guia-basica-para-trabajar-con-clientes-foraneos-eeuu-europa-siendo-latino"
+slug: "2020-02-06-guía-básica-para-trabajar-con-clientes-foráneos-eeuu-europa-siendo-latino"
 featuredImage: ./international-clients-852x568.jpg
 description: >-
   Trabajar de manera remota y exitosa con clientes con los que probablemente
