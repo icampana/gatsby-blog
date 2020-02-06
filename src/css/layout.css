@@ -8,6 +8,18 @@ body {
   background-color: white;
 }
 
+ul {
+  list-style: square;
+}
+
+ol {
+  list-style: decimal;
+}
+
+ol li {
+  padding-left: 0.5em;
+}
+
 .text-title {
   min-height: 35px;
   @apply text-red-600 font-bold;
