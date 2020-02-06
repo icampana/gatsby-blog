@@ -1,7 +1,7 @@
 ---
 title: 'Guía básica para trabajar con clientes foráneos (EEUU/Europa), siendo latino.'
 date: 2020-02-06T00:21:14.393Z
-featuredImage: international-clients-852x568.jpg
+featuredImage: ./international-clients-852x568.jpg
 description: >-
   Trabajar de manera remota y exitosa con clientes con los que probablemente
   nunca le veas el rostro de otra forma que a través de una video llamada puede
