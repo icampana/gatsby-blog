@@ -26,7 +26,7 @@ function SEO({ description, lang, meta, title, image }) {
   );
 
   const metaDescription = description || site.siteMetadata.description;
-  const metaImage = image || '';
+  const metaImage = image || '/static/images/logo.png';
 
   return (
     <Helmet
@@ -45,7 +45,15 @@ function SEO({ description, lang, meta, title, image }) {
           content: title,
         },
         {
+          property: `image`,
+          content: metaImage,
+        },
+        {
           property: `og:image`,
+          content: metaImage,
+        },
+        {
+          property: `twitter:image`,
           content: metaImage,
         },
         {
