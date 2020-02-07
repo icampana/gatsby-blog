@@ -13,6 +13,7 @@ module.exports = {
   plugins: [
     "gatsby-plugin-catch-links",
     `gatsby-plugin-netlify-cms`,
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
