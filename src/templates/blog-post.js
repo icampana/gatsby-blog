@@ -11,12 +11,18 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark;
     const siteTitle = this.props.data.site.siteMetadata.title;
     const { previous, next } = this.props.pageContext;
+    let metaImage = '';
+
+    if (post.frontmatter.featuredImage) {
+      metaImage = this.props.data.site.siteMetadata.siteUrl + post.frontmatter.featuredImage.publicURL;
+    }
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
           title={post.frontmatter.title}
-          // description={post.frontmatter.description || post.excerpt}
+          description={post.frontmatter.description || post.excerpt}
+          image={ metaImage }
         />
         <article>
           <header>
@@ -82,6 +88,7 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         author
+        siteUrl
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
@@ -91,6 +98,9 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        featuredImage {
+          publicURL
+        }
       }
     }
   }
