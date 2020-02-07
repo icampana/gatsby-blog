@@ -9,6 +9,7 @@ module.exports = {
       github: `icampana`,
       linkedin: `icampana`,
     },
+    image: '/images/logo.png',
   },
   plugins: [
     "gatsby-plugin-catch-links",

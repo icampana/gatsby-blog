@@ -11,7 +11,7 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark;
     const siteTitle = this.props.data.site.siteMetadata.title;
     const { previous, next } = this.props.pageContext;
-    let metaImage = '';
+    let metaImage = this.props.data.site.siteMetadata.image;
 
     if (post.frontmatter.featuredImage) {
       metaImage = this.props.data.site.siteMetadata.siteUrl + post.frontmatter.featuredImage.publicURL;
@@ -89,6 +89,7 @@ export const pageQuery = graphql`
         title
         author
         siteUrl
+        image
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {

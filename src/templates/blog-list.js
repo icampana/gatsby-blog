@@ -24,6 +24,7 @@ class BlogIndex extends React.Component {
   render() {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
+    const siteDescription = data.site.siteMetadata.description
     const posts = data.allMarkdownRemark.edges
     const { currentPage, numPages } = this.props.pageContext
     const isFirst = currentPage === 1
@@ -35,7 +36,9 @@ class BlogIndex extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
           title={siteTitle}
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+          description={siteDescription}
+          keywords={[`blog`, 'Ecuador', 'informatica', 'pensamientos',`gatsby`, `javascript`, `react`]}
+          image={data.site.siteMetadata.image}
         />
         <Bio />
 
@@ -114,6 +117,8 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        description
+        image
       }
     }
     allMarkdownRemark(
