@@ -27,7 +27,7 @@ class TagsPage extends Component {
                 <ul>
                   {group.map(tag => (
                     <li key={tag.fieldValue} className='inline-flex px-4 py-2'>
-                      <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                      <Link to={`/tag/${kebabCase(tag.fieldValue)}/`}>
                         <em className='font-bold'>{tag.fieldValue}</em> ({tag.totalCount})
                       </Link>
                     </li>
