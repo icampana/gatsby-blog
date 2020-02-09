@@ -27,7 +27,7 @@ Somos una ciudad donde las aceras se vuelven más pequeñas sólo para darle má
 
 Este video que grabé hace algunos años deja claro lo asfixiante que se puede sentir el moverse en medio de calles con autos que no respetan el espacio de los ciclistas (incluyendo la ciclovía del centro de la ciudad).  Si se preguntan si sigo andando en bici a pesar de esto, la respuesta es sí y a continuación les explicaré porqué lo hago.
 
-[embed]https://www.youtube.com/watch?v=NFsQqOWmLOU[/embed]
+`video: https://www.youtube.com/watch?v=NFsQqOWmLOU`
 
 ## Persistir o Perder
 

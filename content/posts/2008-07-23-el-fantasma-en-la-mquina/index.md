@@ -29,5 +29,5 @@ Podría entonces ese pedazo de metal frío aprender lo que es el "amor", afecto,
 
 Si esas ideas fueran ciertas, podrían enseñarnos cosas como lo que trataron de hacer en la película, aunque bueno, eso quiere decir que también se podrían volver locos.
 
-Fuera de todo esto, a los siglos que vuelvo a escuchar la voz de Peter Gabriel y lo peor es que yo lo comento y nadie recuerda a este cantante, es acaso que estoy muy viejo o soy de los pocos que recuerda esto:  
-[](http://www.youtube.com/v/ub1PqCLuHUM&hl=en&fs=1)
+Fuera de todo esto, a los siglos que vuelvo a escuchar la voz de Peter Gabriel y lo peor es que yo lo comento y nadie recuerda a este cantante, es acaso que estoy muy viejo o soy de los pocos que recuerda esto:
+`video: http://www.youtube.com/v/ub1PqCLuHUM&hl=en&fs=1`

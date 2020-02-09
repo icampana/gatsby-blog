@@ -19,7 +19,7 @@ wordpress_id: 891
 
 Hace mucho que no escribo sobre monerías tecnológicas, hace poco una amiga me mostró un video muy chistoso sobre un ventrílocuo llamado Jeff Dunham. Este personaje tiene varias marionetas, la primera que conocí es a Achmed The Dead Terrorist:
 
-[](http://www.youtube.com/v/1uwOL4rB-go&hl=en)
+`video: http://www.youtube.com/v/1uwOL4rB-go&hl=en`
 
 Luego de eso vinieron Melvin (un superhéroe muy particular) y Walter.
 
@@ -27,7 +27,7 @@ Tratando de "desconectarme" un poco del mundo electrónico decidí desde hace un
 
 Con la primera herramienta logramos descargar el video en el formato que utilizan la mayoría de esas páginas (Flash Video) con extensión .flv. En mi computador lo puedo ver sin problemas, primer paso listo, pero qué pasa si me lo quiero llevar por ejemplo en el celular (en mi caso un nokia 3500). Estuve buscando varias opciones y la más cercana (tomando en cuenta que me funcionó en Linux con el wine) es el [Kangun Video Converter](http://www.kangun.com/KVC.htm).
 
-[![](./Pantallazo-Kangun-video-converter.png)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SD3IkCwxqpI/AAAAAAAAAXk/hUEsb38_50o/s1600-h/Pantallazo-Kangun+video+converter.png)
+![](./Pantallazo-Kangun-video-converter.png)
 
 Es una herramienta super sencilla que me permite escoger el video de entrada y el formato de salida, en el caso de los celulares lo que nos interesa es el 3GP, inclusive permite decidir el modelo de teléfono que queremos emplear para poder tomar la mejor calidad y que no ocupe mucho espacio.
 
