@@ -16,14 +16,6 @@ module.exports = {
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-sitemap`,
     {
-      resolve: "gatsby-remark-embed-video",
-      options: {
-        width: "100%",
-        related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
-        noIframeBorder: true, //Optional: Disable insertion of <style> border: 0,
-      }
-    },
-    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/posts`,
@@ -46,6 +38,15 @@ module.exports = {
             options: {
               maxWidth: 590,
             },
+          },
+          {
+            resolve: "gatsby-remark-embed-video",
+            options: {
+              ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
+              height: 320,
+              related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
+              noIframeBorder: true, //Optional: Disable insertion of <style> border: 0,
+            }
           },
           {
             resolve: `gatsby-remark-responsive-iframe`,
