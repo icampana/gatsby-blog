@@ -30,4 +30,4 @@ Este sitio permite subir una fotografía, detecta los rostros de la imagen y per
 
 ![Foto 5](./Photofunia_cr.jpg)
 
-[![](./Photofunia_kZgMg.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SX6hSMUZgtI/AAAAAAAABUo/ma1IjsLFGOk/s1600-h/Photofunia_kZgMg.jpg)
+![Foto 6](./Photofunia_kZgMg.jpg)]
