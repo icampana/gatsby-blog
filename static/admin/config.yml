@@ -19,9 +19,7 @@ collections:
   - name: "blog"
     label: "Blog Posts"
     label_singular: "Blog Post"
-    folder: "content/posts/{{slug}}"
-    media_folder: ''
-    public_folder: ''
+    path: "content/posts/{{slug}}/index"
     identifier_field: "title"
     create: true
     extension: "md"
