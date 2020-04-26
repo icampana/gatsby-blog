@@ -16,7 +16,7 @@ title: Al finnnnn!!!!
 wordpress_id: 863
 ---
 
-[![](./Imagen000.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SK5UIOA3-eI/AAAAAAAAA00/j9usEIYBQjg/s1600-h/Imagen000.jpg)Las personas que me conocen saben que siempre he estado preocupado por ser de los tipos que les gusta respetar las leyes, arrancando desde cruzar las calles por el paso cebra o subir a un paso peatonal, muchas veces me veían como un bicho raro porque era el único que se quedaba sin cruzar la calle porque el semáforo estaba en rojo.
+[![](./Imagen000.jpg)](https://4.bp.blogspot.com/_T2UWuNJg3dQ/SK5UIOA3-eI/AAAAAAAAA00/j9usEIYBQjg/s1600-h/Imagen000.jpg)Las personas que me conocen saben que siempre he estado preocupado por ser de los tipos que les gusta respetar las leyes, arrancando desde cruzar las calles por el paso cebra o subir a un paso peatonal, muchas veces me veían como un bicho raro porque era el único que se quedaba sin cruzar la calle porque el semáforo estaba en rojo.
 
 Por primera vez en mucho tiempo, se está tomando acciones no solo para los conductores, sino también para los peatones que realmente son los que corren más riesgos y tienen más posibilidad de resultar heridos o lastimados en el proceso, en todo caso, celebro la resolución aunque debería tener otro enfoque, que tan sólo se muestre una tarjeta roja y se explique la infracción cometida está bien(se supone que luego de un tiempo se va a pasar a una multa), pero que los mismos policías de tránsito se rían cada vez que se acerquen con una tarjeta roja o que lo tomen como si fuera algo sin importancia no ayuda a darle el peso que se merece.
 

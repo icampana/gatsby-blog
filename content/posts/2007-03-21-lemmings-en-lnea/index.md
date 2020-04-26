@@ -21,6 +21,6 @@ Para quienes no conocieron ese juego, era de la época del DOS, creo que la últ
 
 En fin, hecha la aclaración, acá va el link, para los que quieren jugar un rato :P
 
-[http://www.elizium.nu/scripts/lemmings/](http://www.elizium.nu/scripts/lemmings/)
+[http://www.elizium.nu/scripts/lemmings/](https://www.elizium.nu/scripts/lemmings/)
 
 Conste, quedan avisados :P No me responsabilizo si dejan de trabajar un buen rato por estar jugando XD

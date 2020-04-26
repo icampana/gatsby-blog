@@ -12,7 +12,7 @@ title: Mi primer programa para celular
 wordpress_id: 970
 ---
 
-[![](http://photos1.blogger.com/blogger/5311/455/320/midp.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/midp.jpg)Después de todo parece que la falta de Internet en la casa sirve de algo, hace unos días vendí [mi Palm](http://ivan.campananaranjo.com/2005/09/28/palm-m515/), más que nada porque realmente le estaba dando muy poco uso(las citas y los contactos los sincronizo con el móvil y la compu), además el dinero nunca viene mal.
+[![](https://photos1.blogger.com/blogger/5311/455/320/midp.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/midp.jpg)Después de todo parece que la falta de Internet en la casa sirve de algo, hace unos días vendí [mi Palm](http://ivan.campananaranjo.com/2005/09/28/palm-m515/), más que nada porque realmente le estaba dando muy poco uso(las citas y los contactos los sincronizo con el móvil y la compu), además el dinero nunca viene mal.
 
 Una de las pocas cosas que realmente sí extrañaba de la Palm es un programita que tenía que servía para llevar la lista de los préstamos que hacía y en qué gastaba mi dinero (tengo una memoria que da terror en cuanto a eso). Así que revisando un poco pensé en buscar alguna alternativa temporal que fuera mejor que el lápiz y el papel.
 
@@ -22,7 +22,7 @@ A pesar de no haber programado en Java desde 3er año de la universidad me lanc�
 
 El lenguaje es bastante sencillo, pude hacerlo en poco tiempo y al menos cubre mis necesidades básicas. Traté de validar lo más que pude sin forzar el hardware del teléfono para que sea rápido. En resumen, para quienes quieran probarlo y decirme qué tal les va o si encuentran algún error, acá está el link para mi programita:
 
-[Descarga "Mis Cuentas" v 1.0 (18Kb)](http://www.freewebs.com/nanoboy_ec/descargas.htm)
+[Descarga "Mis Cuentas" v 1.0 (18Kb)](https://www.freewebs.com/nanoboy_ec/descargas.htm)
 
 Para quienes tengan el cable de datos, simplemente descompriman el zip y copien el contenido a sus teléfonos, los que no lo tengan, se lo podrían descargar directamente en su teléfono, pero necesitarían que descomprima el contenido, si los pedidos son suficientes lo hago :P
 
@@ -30,4 +30,4 @@ Y por último, los que tengan plan con Movistar, tienen bloqueado el menú de ap
 
 Se reciben comentarios, propuestas de mejora, adiciones, cadenas, relojes de oro, dinero en efectivo, juas juas... Por lo menos si le es útil a alguien, que envíe una tarjetita de agradecimiento :P
 
-Keywords: [Nokia](http://www.technorati.com/tag/Nokia), [MIDP](http://www.technorati.com/tag/MIDP), [Software](http://www.technorati.com/tag/Software)
+Keywords: [Nokia](https://www.technorati.com/tag/Nokia), [MIDP](http://www.technorati.com/tag/MIDP), [Software](http://www.technorati.com/tag/Software)

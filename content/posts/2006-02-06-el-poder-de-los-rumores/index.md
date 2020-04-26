@@ -11,7 +11,7 @@ categories:
   - Sin categoría
 ---
 
-[![](http://www.emergencemarketing.com/images/whisper%20small.jpg)](http://www.emergencemarketing.com/images/whisper%20small.jpg)Ante todo, debo confesar que al escribir este post me encontraba un tanto enojado, aún así trataré de mantener la cabeza fría para ser lo más objetivo posible.
+[![](https://www.emergencemarketing.com/images/whisper%20small.jpg)](http://www.emergencemarketing.com/images/whisper%20small.jpg)Ante todo, debo confesar que al escribir este post me encontraba un tanto enojado, aún así trataré de mantener la cabeza fría para ser lo más objetivo posible.
 
 "Si no tienes nada bueno que decir de alguien, entonces no digas nada".
 
@@ -35,4 +35,4 @@ Sé también que alguna vez caí en el mismo error y me arrepiento, pero no podr
 
 En fin, la próxima vez que piensen en decir algo sobre alguien, asegúrense de que es cierto y vale la pena ser comentado.
 
-PD: Hace un tiempo [Nita-](http://nitadp.blogspot.com) me contó algo así como una parábola o historia sobre algo muy parecido, pero como no la recuerdo exactamente mejor que la cuente ella XD, ya te puse tarea :P
+PD: Hace un tiempo [Nita-](https://nitadp.blogspot.com) me contó algo así como una parábola o historia sobre algo muy parecido, pero como no la recuerdo exactamente mejor que la cuente ella XD, ya te puse tarea :P

@@ -15,7 +15,7 @@ title: Sacrificio vs Éxito vs Satisfacción
 wordpress_id: 905
 ---
 
-[![](./archangel.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/RpL_PsjduRI/AAAAAAAAALQ/2UX46JBgctw/s1600-h/archangel.jpg)Estas tres palabras no necesariamente deberían estar relacionadas, pero últimamente han rondado mi cabeza, lo que quiero alcanzar, cómo lo quiero alcanzar y a qué precio.
+[![](./archangel.jpg)](https://4.bp.blogspot.com/_T2UWuNJg3dQ/RpL_PsjduRI/AAAAAAAAALQ/2UX46JBgctw/s1600-h/archangel.jpg)Estas tres palabras no necesariamente deberían estar relacionadas, pero últimamente han rondado mi cabeza, lo que quiero alcanzar, cómo lo quiero alcanzar y a qué precio.
 
 Ya van para 4 años y un poco más metidos de cabeza en levantar nuestra propia empresa, con muchas anécdotas, un montón de experiencia y con resultados buenos. Pero es indudable que toda esta carrera va pasándonos factura. Hace un tiempo ya que mi cuerpo está gritando que necesita vacaciones, unas de verdad.
 

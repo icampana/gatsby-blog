@@ -12,7 +12,7 @@ title: ¡Iguana gigante detiene el tráfico!
 wordpress_id: 984
 ---
 
-[![](http://photos1.blogger.com/blogger/5311/455/320/Iguana2.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/Iguana2.jpg)¡Es enorme, verde, con muchas escamas de colores y tiene garras de aproximadamente 50 cm de longitud!
+[![](https://photos1.blogger.com/blogger/5311/455/320/Iguana2.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/Iguana2.jpg)¡Es enorme, verde, con muchas escamas de colores y tiene garras de aproximadamente 50 cm de longitud!
 
 Pareciera que estoy hablando de Godzilla, pero realmente se trata de una escultura que hay a la vuelta de mi casa, mientras la construían parecía que iba a ser algo horrendo, pero al finalizar el resultado fue muy bueno.
 

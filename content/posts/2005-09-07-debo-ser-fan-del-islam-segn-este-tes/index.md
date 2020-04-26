@@ -16,7 +16,7 @@ Según un test que me pasó el pana Rudd-O por mi forma de pensar yo debería se
 De cualquier forma, todas estas cosas son realmente de creencias y de fe como para dejarse guiar por algo tan sencillo como un test, pero bue... Ahí está mi resultado :
 
 <table cellpadding="5" cellspacing="0" border="0" width="100%" ><tbody ><tr >
-<td valign="top" >![](http://images.quizfarm.com/1110081666Islam_green-white.jpg)
+<td valign="top" >![](https://images.quizfarm.com/1110081666Islam_green-white.jpg)
 </td>
 <td > You scored as **Islam**. Your beliefs are most similar to those of Islam. Do more research on Islam and possibly consider taking the shahadah and officially becoming a Muslim, if you aren't already.
 
@@ -104,7 +104,7 @@ Despite the actions of some - who go against the teachings of Islam - Islam is a
 </td>
 <td >25%
 </td></tr></tbody></table>
-[Which religion is the right one for you? (new version)](http://quizfarm.com/test.php?q_id=10907)
-created with [QuizFarm.com](http://quizfarm.com/)
+[Which religion is the right one for you? (new version)](https://quizfarm.com/test.php?q_id=10907)
+created with [QuizFarm.com](https://quizfarm.com/)
 </td></tr></tbody></table>
-Por si lo quieren intentar, acá está el [link](http://quizfarm.com/test.php?q_id=10907)
+Por si lo quieren intentar, acá está el [link](https://quizfarm.com/test.php?q_id=10907)

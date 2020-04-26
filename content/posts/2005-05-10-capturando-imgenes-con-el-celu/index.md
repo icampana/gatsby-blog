@@ -12,7 +12,7 @@ title: Capturando imágenes con el celu
 wordpress_id: 1001
 ---
 
-[![](http://photos1.blogger.com/img/39/1190/320/collage_camara.jpg)](http://photos1.blogger.com/img/39/1190/640/collage_camara.jpg)
+[![](https://photos1.blogger.com/img/39/1190/320/collage_camara.jpg)](http://photos1.blogger.com/img/39/1190/640/collage_camara.jpg)
 
 Desde hace unos días me entregaron al fin el teléfono que pedí como parte de mi plan en Movistar, a pesar de la mejora de servicio al cambiar de administración, ya estaba perdiendo el brillo porque solicité el cambio de equipo hace un par de meses y me dijeron que esperara a que llegara la nueva remesa, pues bien, al fin llegó :D
 
@@ -22,7 +22,7 @@ Mi única queja es que a mi me gusta sacarle provecho al máximo a lo que tengo 
 
 Después de ir a presentar mi queja a la matriz de la operadora (donde la única explicación que me dieron fue que quizá no tenía esa opción porque era un fono nuevo... por lo menos se hubieran inventado una historia mejor... :S )
 
-Lo bueno es que para algo sirve compartir las experiencias :P más aún en los tiempos de internet y los blogs, buscando la forma de usar el fono en todo su potencial fui a parar a un post de [Fox](http://foxcorp.org/) donde hablaba de su [nuevo juguete](http://foxcorp.org/archive/2005/04/23/nokia_6225.aspx) (un nokia 6225) y vi que algunas personas se quejaban de lo mismo que yo, je je... lo bueno es que no se quedaron en quejas sino que dieron soluciones:
+Lo bueno es que para algo sirve compartir las experiencias :P más aún en los tiempos de internet y los blogs, buscando la forma de usar el fono en todo su potencial fui a parar a un post de [Fox](https://foxcorp.org/) donde hablaba de su [nuevo juguete](http://foxcorp.org/archive/2005/04/23/nokia_6225.aspx) (un nokia 6225) y vi que algunas personas se quejaban de lo mismo que yo, je je... lo bueno es que no se quedaron en quejas sino que dieron soluciones:
 
 1. Si quieres instalar aplicaciones y juegos en un fono con el menú de aplicaciones bloqueado se puede emplear el Mobimb (Mobile Media Browser) es un programa de pago, pero no es muy costoso (o en el peor de los casos, tampoco es difícil de conseguir.. je je).
 

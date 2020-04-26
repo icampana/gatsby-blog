@@ -27,7 +27,7 @@ Las ventajas de este modelo pueden ser muchas si es que se maneja apropiadamente
 
 ## ¿Dónde estamos?
 
-Hace exactamente 1 año, en agosto de 2016 en el Ecuador se publicó la normativa para poder aplicar el trabajo remoto o teletrabajo ([Acuerdo Ministerial #MDT-2016-190](http://www.trabajo.gob.ec/wp-content/uploads/2016/10/Acuerdo_Teletrabajo_WEB.pdf)), con esto se definían derechos y obligaciones tanto para trabajadores como para empleadores.
+Hace exactamente 1 año, en agosto de 2016 en el Ecuador se publicó la normativa para poder aplicar el trabajo remoto o teletrabajo ([Acuerdo Ministerial #MDT-2016-190](https://www.trabajo.gob.ec/wp-content/uploads/2016/10/Acuerdo_Teletrabajo_WEB.pdf)), con esto se definían derechos y obligaciones tanto para trabajadores como para empleadores.
 
 Si no has escuchado antes estos términos, pueden sonarte bastante extraños, especialmente si no has pensado en que es posible tener un trabajo sin necesidad de estar atado a una ubicación física, y esto no se refiere a simplemente trabajar desde casa.
 
@@ -41,7 +41,7 @@ Ese es apenas un caso hipotético de cómo se podría aprovechar, claro que algu
 
 ## Del concepto a la realidad
 
-De acuerdo [a este artículo de El Telégrafo](http://www.eltelegrafo.com.ec/noticias/economia/8/el-teletrabajo-mejora-el-rendimiento-del-empleado) se dice que en una empresa que decidió aplicar este modelo la **_productividad aumentó de entre el 20 al 30%_** entre 2015 y 2016 con los empleados que estaban bajo esa modalidad, pero la forma de evaluación debe cambiar para que algo así funcione, porque se pasa a medir eficiencia por las metas alcanzadas, no por el tiempo trabajado.
+De acuerdo [a este artículo de El Telégrafo](https://www.eltelegrafo.com.ec/noticias/economia/8/el-teletrabajo-mejora-el-rendimiento-del-empleado) se dice que en una empresa que decidió aplicar este modelo la **_productividad aumentó de entre el 20 al 30%_** entre 2015 y 2016 con los empleados que estaban bajo esa modalidad, pero la forma de evaluación debe cambiar para que algo así funcione, porque se pasa a medir eficiencia por las metas alcanzadas, no por el tiempo trabajado.
 
 Y es que aquí parte uno de los puntos más importantes del teletrabajo, en los empleos normales se está acostumbrado a entrar entre 8 y 9 de la mañana y salir entre 5 a 6, completando sus 8 horas laborables, incluyendo su hora de almuerzo y así una y otra vez todos los días, hay muchos que pierden la motivación porque simplemente se acostumbran al ritmo y porque saben que al final del mes recibirán su sueldo y será el momento de volver a comenzar un ciclo más.
 
@@ -51,7 +51,7 @@ Al final terminan siendo un mínimo de 10 a 11 horas, dedicados a la rutina del 
 
 En el trabajo remoto no hay oficinas a las que ir, puedo estar fácilmente en un balcón frente al mar en Bahía de Caráquez preparando mi presentación para un proyecto que se va a presentar en Quito para vender un producto fabricado en Guayaquil, pero a diferencia de la creencia popular, trabajar fuera de una oficina no va a generar menos presión, se pueden encontrar con un panorama totalmente diferente.  ¿Qué hay que tomar en cuenta?  Hay que ser eficiente, organizado y por ende más productivo.
 
-He visto casos de empleados que se quedan hasta 10 u 12 horas en una oficina, porque dicen que el tiempo no les alcanza para terminar sus tareas, sin embargo no se desconectan de su celular para revisar el Whatsapp cada 15 minutos, o abrir el Facebook cada vez que aparece una notificación en su pantalla, si sumamos cada momento de distracción el tiempo que cuesta volver a concentrarse cuando eso pasa podríamos darnos cuenta que fácilmente el **día laboral efectivo** se reduce a 4 horas o menos, pues según un [estudio de la Universidad de Carneggie Mellon](http://www.nytimes.com/2013/05/05/opinion/sunday/a-focus-on-distraction.html), el "multitasking" o "multitarea", hace que cada vez que tengamos una de esas distracciones durante un momento de concentración nos tome aproximadamente 25 minutos para volver a enfocarnos y concentrarnos en lo que estábamos haciendo.
+He visto casos de empleados que se quedan hasta 10 u 12 horas en una oficina, porque dicen que el tiempo no les alcanza para terminar sus tareas, sin embargo no se desconectan de su celular para revisar el Whatsapp cada 15 minutos, o abrir el Facebook cada vez que aparece una notificación en su pantalla, si sumamos cada momento de distracción el tiempo que cuesta volver a concentrarse cuando eso pasa podríamos darnos cuenta que fácilmente el **día laboral efectivo** se reduce a 4 horas o menos, pues según un [estudio de la Universidad de Carneggie Mellon](https://www.nytimes.com/2013/05/05/opinion/sunday/a-focus-on-distraction.html), el "multitasking" o "multitarea", hace que cada vez que tengamos una de esas distracciones durante un momento de concentración nos tome aproximadamente 25 minutos para volver a enfocarnos y concentrarnos en lo que estábamos haciendo.
 
 A nivel mundial existen miles de empresas que están optando por mover a su fuerza laboral y no sólo a nivel técnico, tampoco por los beneficios económicos, sino porque en lugar de cerrarse al "talento local", ellos se dedican a buscar dónde está el talento alrededor del mundo, es ese el verdadero aporte de la globalización.
 

@@ -16,7 +16,7 @@ title: Para reflexionar un poco...
 wordpress_id: 864
 ---
 
-[![](./bambu2.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SKwtBsBXndI/AAAAAAAAA0s/INFmN-f-s9Q/s1600-h/bambu2.jpg)
+[![](./bambu2.jpg)](https://4.bp.blogspot.com/_T2UWuNJg3dQ/SKwtBsBXndI/AAAAAAAAA0s/INFmN-f-s9Q/s1600-h/bambu2.jpg)
 Un par de historias de las que nos hacen pensar, para reflexionar un poco:
 
 <blockquote>Una situación tensa
@@ -39,4 +39,4 @@ Arde. Es la cólera en el corazón. Humea. Es una injuria que vuestro enemigo pr
 
 No podemos anular nuestros sentimientos, aunque este sea la ira, si la apagamos intempestivamente no aprenderemos a controlarla luego, corremos el riesgo de cometer el mismo error, en cambio si la dejamos desaparecer lentamente habremos aprendido a evitarla o al menos conocer sus límites sin dañarnos a nosotros mismos ni a nadie a nuestro alrededor. Si anulamos o reprimimos sentimientos sería como esas velitas que se vuelven a encender, por más que nos esforcemos soplando vuelve a encenderse la llama, mientras que si la dejamos ser consumirá la vela y eventualmente desaparecerá o aprenderemos el momento exacto en el que podemos apagarla sin que se vuelva a encender.
 
-PD: Por si a alguien le interesa, [acá hay más cuentos Zen](http://www.geocities.com/olguin_jorge/cuentoszen00.htm)
+PD: Por si a alguien le interesa, [acá hay más cuentos Zen](https://www.geocities.com/olguin_jorge/cuentoszen00.htm)

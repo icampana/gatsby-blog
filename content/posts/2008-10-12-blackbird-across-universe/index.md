@@ -16,7 +16,7 @@ tags:
   - Recuerdos
 ---
 
-Mientras el tiempo pasa cosas vienen y van, pero algo que siempre retorna en mi vida son los Beatles, ya lo dije antes... Han sido mis héroes y fuente de inspiración, después de volver a recordar la película "[Across The Universe](http://www.imdb.com/title/tt0445922/)" en la que hicieron versiones que me gustaron de las canciones de los Beatles me dio por recordar muchas, entre esas que aunque en la época fuerte de ellos hasta hubo muchos psicólogos que trataron de descifrar lo que iba por "detrás" de las canciones, realmente sólo significaba algo para quien lo quiera interpretar y como lo quiera hacer, son simplemente canciones del mundo.
+Mientras el tiempo pasa cosas vienen y van, pero algo que siempre retorna en mi vida son los Beatles, ya lo dije antes... Han sido mis héroes y fuente de inspiración, después de volver a recordar la película "[Across The Universe](https://www.imdb.com/title/tt0445922/)" en la que hicieron versiones que me gustaron de las canciones de los Beatles me dio por recordar muchas, entre esas que aunque en la época fuerte de ellos hasta hubo muchos psicólogos que trataron de descifrar lo que iba por "detrás" de las canciones, realmente sólo significaba algo para quien lo quiera interpretar y como lo quiera hacer, son simplemente canciones del mundo.
 
 Blackbird
 

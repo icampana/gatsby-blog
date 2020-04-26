@@ -16,9 +16,9 @@ title: ¿Ejercicio extremo o extrema locura?
 wordpress_id: 724
 ---
 
-Una noticia que generó múltiples reacciones en las redes sociales en los últimos días fue la [muerte de Cinthya Nivelo](http://www.telegrafo.com.ec/noticias/judicial/item/participante-de-war-race-fallece-por-presunta-deshidratacion.html) durante una competencia en Guayaquil conocida como "War Race", debo confesar que estuve tentado a inscribirme en esa carrera, inclusive un familiar me lanzó la idea porque sabía que antes yo ya había participado en carreras de obstáculos y me dijo que la acompañe bajo la excusa de que ella quería participar y yo "ya tenía experiencia", además de que la habían animado en el gimnasio para que asistiera.
+Una noticia que generó múltiples reacciones en las redes sociales en los últimos días fue la [muerte de Cinthya Nivelo](https://www.telegrafo.com.ec/noticias/judicial/item/participante-de-war-race-fallece-por-presunta-deshidratacion.html) durante una competencia en Guayaquil conocida como "War Race", debo confesar que estuve tentado a inscribirme en esa carrera, inclusive un familiar me lanzó la idea porque sabía que antes yo ya había participado en carreras de obstáculos y me dijo que la acompañe bajo la excusa de que ella quería participar y yo "ya tenía experiencia", además de que la habían animado en el gimnasio para que asistiera.
 
-Hubo algunas cosas que me detuvieron, pero un punto en especial me puso a pensar; debido a mi trabajo estoy obligado a leer constantemente contratos, cláusulas, informes y reportes. O en términos sencillos, a leer la letra pequeñita, por ello me acostumbré a tener paciencia para revisar con calma y de pies a cabeza cada papel que me entregan, en el caso de las cláusulas de participación en la carrera no había nada que me hiciera sentir seguro, si lo comparaba con los términos de otras carreras similares la diferencia era abismal, una de las competencias más famosas de este estilo es la "Though Mudder" en E.E.U.U. y a pesar de ser una carrera muchísimo más demandante hacen énfasis en 5 puntos muy importantes ([versión original en inglés](http://toughmudder.com/about/)):
+Hubo algunas cosas que me detuvieron, pero un punto en especial me puso a pensar; debido a mi trabajo estoy obligado a leer constantemente contratos, cláusulas, informes y reportes. O en términos sencillos, a leer la letra pequeñita, por ello me acostumbré a tener paciencia para revisar con calma y de pies a cabeza cada papel que me entregan, en el caso de las cláusulas de participación en la carrera no había nada que me hiciera sentir seguro, si lo comparaba con los términos de otras carreras similares la diferencia era abismal, una de las competencias más famosas de este estilo es la "Though Mudder" en E.E.U.U. y a pesar de ser una carrera muchísimo más demandante hacen énfasis en 5 puntos muy importantes ([versión original en inglés](https://toughmudder.com/about/)):
 
 - Entiendo que el "**Tough Mudder**" no es una carrera, sino un reto.
 
@@ -81,7 +81,7 @@ En mi vida he conocido mucha gente y he tenido la oportunidad de viajar por vari
 
 Si quieren expandir un poco más la información respecto a este tema les recomiendo leer:
 _   5 reasons I never tried crossfit:_
-[http://www.sparkpeople.com/blog/blog.asp?post=5_reasons_ive_never_tried_crossfit](http://www.sparkpeople.com/blog/blog.asp?post=5_reasons_ive_never_tried_crossfit)
+[http://www.sparkpeople.com/blog/blog.asp?post=5_reasons_ive_never_tried_crossfit](https://www.sparkpeople.com/blog/blog.asp?post=5_reasons_ive_never_tried_crossfit)
 
 _   Inside the cult of crossfit:_
-[http://www.menshealth.com/fitness/cult-crossfit/page/4](http://www.menshealth.com/fitness/cult-crossfit/page/4)
+[http://www.menshealth.com/fitness/cult-crossfit/page/4](https://www.menshealth.com/fitness/cult-crossfit/page/4)

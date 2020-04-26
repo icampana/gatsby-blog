@@ -15,7 +15,7 @@ tags:
   - Personal
 ---
 
-Momento cultural, el término oligofrenia ya hace tiempo que no es aceptado por ser considerado peyorativo para quienes sufren de algún tipo de retraso mental, sin embargo hay algunas de sus variantes que aún se utilizan (sacado de la [wikipedia](http://es.wikipedia.org/wiki/Oligofrenia)):
+Momento cultural, el término oligofrenia ya hace tiempo que no es aceptado por ser considerado peyorativo para quienes sufren de algún tipo de retraso mental, sin embargo hay algunas de sus variantes que aún se utilizan (sacado de la [wikipedia](https://es.wikipedia.org/wiki/Oligofrenia)):
 
 - _Idiota_: Incapaz de comunicarse, sin actividad física, imposible de educar. Cociente intelectual (CI) no superior a 30.
 - _Imbécil_: Incapaz de leer o escribir. CI no superior a 60.

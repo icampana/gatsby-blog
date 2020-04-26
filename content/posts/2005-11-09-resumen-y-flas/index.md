@@ -19,6 +19,6 @@ Digo retos nuevos porque esta semana me toca ir a dar un curso sobre redes y com
 
 Además de eso, me la he pasado como siempre moneando con mi celular, este finde web-eando por la red encontré cómo re-programar el celular para poder activar algunas opciones ocultas del teléfono (ya tengo el menú de aplicaciones que (/)ovistar no me quería habilitar, aumenté el límite de caracteres para los mensajes, eliminé unas opciones que me caían chancho, activé la opción de modificar el Alpha Tag y aprendí cómo convertir un Wav para que lo pueda reproducir mi fono - que no tiene soporte para mp3, ni nada raro, sólo midi :P - )
 
-Para quien quiera el ringtone de R2D2, [acá lo colgué](http://www.freewebs.com/nanoboy_ec/descargas.htm).
+Para quien quiera el ringtone de R2D2, [acá lo colgué](https://www.freewebs.com/nanoboy_ec/descargas.htm).
 
 Luego de eso, pos todo normal (en la medida de lo posible... je je), a lo mucho un susto por el temblor del día sábado, pero nada fuera de lo común... por ahora me retiro, aún tengo que preparar diapositivas para pasado mañana :S

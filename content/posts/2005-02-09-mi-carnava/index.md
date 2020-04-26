@@ -16,7 +16,7 @@ title: Mi Carnaval
 wordpress_id: 1019
 ---
 
-[![](http://photos1.blogger.com/img/39/1190/320/collage.jpg)](http://photos1.blogger.com/img/39/1190/640/collage.jpg) Entre ir a "divertirme" entre la cantidad abominable de gente en las playas que "juegan" a lanzarse globos de agua y pintarse de todos los colores, preferí quedarme en casa y pasar un buen rato con mi [novia](http://nitadp.blogspot.com/) y mis amigos.
+[![](https://photos1.blogger.com/img/39/1190/320/collage.jpg)](http://photos1.blogger.com/img/39/1190/640/collage.jpg) Entre ir a "divertirme" entre la cantidad abominable de gente en las playas que "juegan" a lanzarse globos de agua y pintarse de todos los colores, preferí quedarme en casa y pasar un buen rato con mi [novia](http://nitadp.blogspot.com/) y mis amigos.
 
 Al final terminé muy entretenido recorriendo una ciudad casi vacía (incluidos los restaurantes, no había donde comer :S), haciendo un corto viaje de campo con toda la "Naranjada" (o sea, todos los Naranjo en pleno... mi familia materna) y rearmando una de las 3 bicicletas que estaban dañadas en el patio de la casa, ahora toca pintarla y hacerle un poco de "tunning" para comenzar nuestra travesía por los caminos del país :P
 

@@ -12,7 +12,7 @@ title: ¿Y si hoy muero?
 wordpress_id: 960
 ---
 
-[![](http://photos1.blogger.com/blogger/5311/455/320/death_grim.gif)](http://photos1.blogger.com/blogger/5311/455/1600/death_grim.gif)Suena un poco freaky el título, quizá he estado viendo demasiadas películas, pero es algo que me ha estado dando vueltas por la cabeza. Noooo, no me refiero a pensamientos suicidas ni nada por el estilo, de hecho tengo un apego muuuuuy grande a mi vida, a pesar de que sea efímera y corta me gusta aprovecharla y tratar de vivirla al máximo.
+[![](https://photos1.blogger.com/blogger/5311/455/320/death_grim.gif)](http://photos1.blogger.com/blogger/5311/455/1600/death_grim.gif)Suena un poco freaky el título, quizá he estado viendo demasiadas películas, pero es algo que me ha estado dando vueltas por la cabeza. Noooo, no me refiero a pensamientos suicidas ni nada por el estilo, de hecho tengo un apego muuuuuy grande a mi vida, a pesar de que sea efímera y corta me gusta aprovecharla y tratar de vivirla al máximo.
 
 Lo que me ha dado vueltas en la cabeza es algo similar a lo que alguna vez vi en parte final de la película Vanilla Sky (sí, sí ya sé que es mucho mejor Abre los Ojos de Almodóvar, pero yo me enteré tarde de cuál era la original :P ). En la cual al darse cuenta que no estaba muerto sino en una especie de animación suspendida pasan las imágenes de qué fue lo que pasó con sus amigos mientras él no estaba.
 

@@ -16,8 +16,8 @@ title: Procrastinación
 wordpress_id: 858
 ---
 
-[![](./blackboard_procrastinate2.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SLltkgMccGI/AAAAAAAAA10/wxDFDRSatVs/s1600-h/blackboard_procrastinate2.jpg)De acuerdo al diccionario de la Real Academia Española:
-[Procrastinar](http://buscon.rae.es/draeI/SrvltGUIBusUsual?TIPO_HTML=2&TIPO_BUS=3&LEMA=procrastinar).- Diferir, aplazar.
+[![](./blackboard_procrastinate2.jpg)](https://2.bp.blogspot.com/_T2UWuNJg3dQ/SLltkgMccGI/AAAAAAAAA10/wxDFDRSatVs/s1600-h/blackboard_procrastinate2.jpg)De acuerdo al diccionario de la Real Academia Española:
+[Procrastinar](https://buscon.rae.es/draeI/SrvltGUIBusUsual?TIPO_HTML=2&TIPO_BUS=3&LEMA=procrastinar).- Diferir, aplazar.
 
 Desde hace mucho había escuchado el término y le había dado poca importancia, pero se ha vuelto casi una marca de una generación, simplemente cuando tienen que hacer las cosas, si pueden aplazarlo lo harán.
 

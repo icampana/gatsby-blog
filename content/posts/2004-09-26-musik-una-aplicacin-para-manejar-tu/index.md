@@ -11,7 +11,7 @@ categories:
   - Sin categoría
 ---
 
-Dando vueltas en la red me topé casi por casualidad con este reproductor y biblioteca de audio llamado [wxMusik](http://musik.berlios.de/), a primera instancia no me pareció la gran cosa, pues casi lo mismo puede hacer el winamp, lo interesante es que es [Open Source](http://www.opensource.org/) y que corre en Windows, Linux y Mac; así que decidí probarlo a ver qué tal.
+Dando vueltas en la red me topé casi por casualidad con este reproductor y biblioteca de audio llamado [wxMusik](https://musik.berlios.de/), a primera instancia no me pareció la gran cosa, pues casi lo mismo puede hacer el winamp, lo interesante es que es [Open Source](http://www.opensource.org/) y que corre en Windows, Linux y Mac; así que decidí probarlo a ver qué tal.
 
 Tiene una interfaz super limpia, sin mucho lío, encuentras las cosas de forma bastante rápida, tiene shorcuts para casi todo, te permite organizar y filtrar la info por el campo que prefieras, así puedes encontrar las canciones por género, año, artista o disco de forma inmediata, editar las etiquetas de las canciones por lotes. Bueno, la mayor parte de las características de la biblioteca son las comunmente encontradas en otros programas, de hecho me recuerda un poco al i-Tunes, el punto a favor que encontré aquí es que no necesitas darle muchas vueltas para poder usarlo.
 

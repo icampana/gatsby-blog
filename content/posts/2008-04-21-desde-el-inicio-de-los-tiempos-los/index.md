@@ -12,14 +12,14 @@ title: Diferencias entre hombres y mujeres
 wordpress_id: 894
 ---
 
-[![](./hombresvsmujerescolorweb.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SAvUNSp4UfI/AAAAAAAAAXE/pfLXHxjNyeI/s1600-h/hombresvsmujerescolorweb.jpg)  
+[![](./hombresvsmujerescolorweb.jpg)](https://3.bp.blogspot.com/_T2UWuNJg3dQ/SAvUNSp4UfI/AAAAAAAAAXE/pfLXHxjNyeI/s1600-h/hombresvsmujerescolorweb.jpg)  
 Desde el inicio de los tiempos los hombres y las mujeres han tenido diferencias marcadas, a pesar de lo que pueda decir cualquier feminista, es tan sólo cuestión de genética. Muchas veces estos cambios y diferencias crean todo un caos al momento de relacionarnos los unos con los otros.
 
 Las mujeres nacen con la facilidad de poder realizar más de una tarea a la vez, es impresionante como pueden estar haciendo deberes, hablando por teléfono y a la vez viendo la tele :S. No sé el resto de los hombres, pero yo si hago una cosa y me dicen otra me pierdo al menos por un momento hasta retomar el hilo de lo que estaba haciendo.
 
 Por otro lado los hombres logramos mantener separada la parte emocional de la racional con mucha más facilidad que las mujeres (al menos por lo general), quizá esto sea en parte también al tipo de formación que recibimos. También está la diferencia de fuerza y tamaño normal entre hombres y mujeres, aunque pueda ser igualado a través de entrenamiento, el orden natural es que los hombres son más grandes que las mujeres y poseen mayor fuerza (tal y como en algunas especies animales).
 
-Hasta ahí todo es manejable, el momento en el que todo se pone complicado es cuando definimos la reacción y forma de funcionamiento de la [líbido](http://es.wikipedia.org/wiki/Libido) de los hombres y mujeres.
+Hasta ahí todo es manejable, el momento en el que todo se pone complicado es cuando definimos la reacción y forma de funcionamiento de la [líbido](https://es.wikipedia.org/wiki/Libido) de los hombres y mujeres.
 
 Mientras las mujeres necesitan muchos más estímulos y desarrollar atracción a nivel físico y mental hacia un hombre para poder sentir las ganas y/o necesidad de tener relaciones sexuales con un hombre, los hombres apenas necesitamos ver un pecho, una pierna o un buen trasero y nuestras hormonas se disparan como balas.
 

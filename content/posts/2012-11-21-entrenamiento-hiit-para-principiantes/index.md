@@ -49,43 +49,43 @@ Las recomendaciones importantes, hay que mantener una buena forma al hacer los e
 
 Día 1
 
-- Burpees ([http://www.youtube.com/watch?v=PYfNA_lmkHM](http://www.youtube.com/watch?v=PYfNA_lmkHM))
+- Burpees ([http://www.youtube.com/watch?v=PYfNA_lmkHM](https://www.youtube.com/watch?v=PYfNA_lmkHM))
 
-- Lateral Hops ([http://www.youtube.com/watch?v=bqbZqxqs8tY](http://www.youtube.com/watch?v=bqbZqxqs8tY))
+- Lateral Hops ([http://www.youtube.com/watch?v=bqbZqxqs8tY](https://www.youtube.com/watch?v=bqbZqxqs8tY))
 
-- Mountain Climbers ([http://www.youtube.com/watch?v=IzNHN06_sJ0](http://www.youtube.com/watch?v=IzNHN06_sJ0))
+- Mountain Climbers ([http://www.youtube.com/watch?v=IzNHN06_sJ0](https://www.youtube.com/watch?v=IzNHN06_sJ0))
 
-- Squat Jumps ([http://www.youtube.com/watch?v=CVaEhXotL7M](http://www.youtube.com/watch?v=CVaEhXotL7M))
+- Squat Jumps ([http://www.youtube.com/watch?v=CVaEhXotL7M](https://www.youtube.com/watch?v=CVaEhXotL7M))
 
 Día 2
 
-- Squat Jacks ([http://www.youtube.com/watch?v=LK3jSsdQ7M4](http://www.youtube.com/watch?v=LK3jSsdQ7M4))
+- Squat Jacks ([http://www.youtube.com/watch?v=LK3jSsdQ7M4](https://www.youtube.com/watch?v=LK3jSsdQ7M4))
 
-- Push Ups ([http://www.youtube.com/watch?v=HCapLWaJ_qY](http://www.youtube.com/watch?v=HCapLWaJ_qY))
+- Push Ups ([http://www.youtube.com/watch?v=HCapLWaJ_qY](https://www.youtube.com/watch?v=HCapLWaJ_qY))
 
-- Steam Engine ([http://www.youtube.com/watch?v=tf5AzZ0HrgA](http://www.youtube.com/watch?v=tf5AzZ0HrgA))
+- Steam Engine ([http://www.youtube.com/watch?v=tf5AzZ0HrgA](https://www.youtube.com/watch?v=tf5AzZ0HrgA))
 
-- High Knees ([http://www.youtube.com/watch?v=ZZZoCNMU48U](http://www.youtube.com/watch?v=ZZZoCNMU48U))
+- High Knees ([http://www.youtube.com/watch?v=ZZZoCNMU48U](https://www.youtube.com/watch?v=ZZZoCNMU48U))
 
 Día 3
 
-- Push Up Jacks ([http://www.youtube.com/watch?v=8uqIred6RkQ](http://www.youtube.com/watch?v=8uqIred6RkQ))
+- Push Up Jacks ([http://www.youtube.com/watch?v=8uqIred6RkQ](https://www.youtube.com/watch?v=8uqIred6RkQ))
 
-- Jump Knee Tucks ([http://www.youtube.com/watch?v=BDA3DERQKFk](http://www.youtube.com/watch?v=BDA3DERQKFk))
+- Jump Knee Tucks ([http://www.youtube.com/watch?v=BDA3DERQKFk](https://www.youtube.com/watch?v=BDA3DERQKFk))
 
-- Mountain Climbers ([http://www.youtube.com/watch?v=IzNHN06_sJ0](http://www.youtube.com/watch?v=IzNHN06_sJ0))
+- Mountain Climbers ([http://www.youtube.com/watch?v=IzNHN06_sJ0](https://www.youtube.com/watch?v=IzNHN06_sJ0))
 
-- Jumping Jacks ([http://www.youtube.com/watch?v=c4DAnQ6DtF8](http://www.youtube.com/watch?v=c4DAnQ6DtF8))
+- Jumping Jacks ([http://www.youtube.com/watch?v=c4DAnQ6DtF8](https://www.youtube.com/watch?v=c4DAnQ6DtF8))
 
 Día 4
 
-- Burpees ([http://www.youtube.com/watch?v=PYfNA_lmkHM](http://www.youtube.com/watch?v=PYfNA_lmkHM))
+- Burpees ([http://www.youtube.com/watch?v=PYfNA_lmkHM](https://www.youtube.com/watch?v=PYfNA_lmkHM))
 
-- Squat Jumps ([http://www.youtube.com/watch?v=CVaEhXotL7M](http://www.youtube.com/watch?v=CVaEhXotL7M))
+- Squat Jumps ([http://www.youtube.com/watch?v=CVaEhXotL7M](https://www.youtube.com/watch?v=CVaEhXotL7M))
 
-- Steam Engine ([http://www.youtube.com/watch?v=tf5AzZ0HrgA](http://www.youtube.com/watch?v=tf5AzZ0HrgA))
+- Steam Engine ([http://www.youtube.com/watch?v=tf5AzZ0HrgA](https://www.youtube.com/watch?v=tf5AzZ0HrgA))
 
-- Lateral Hops ([http://www.youtube.com/watch?v=bqbZqxqs8tY](http://www.youtube.com/watch?v=bqbZqxqs8tY))
+- Lateral Hops ([http://www.youtube.com/watch?v=bqbZqxqs8tY](https://www.youtube.com/watch?v=bqbZqxqs8tY))
 
 Para poder llevar el control de los ejercicios es recomendable utilizar un cronómetro, o si tienen un smartphone pueden descargarse una aplicación para llevar el conteo, en el caso de Android esta herramienta es muy buena y es gratuita (con publicidad):
 

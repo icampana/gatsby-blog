@@ -15,7 +15,7 @@ title: Fin de semana de ciclismo
 wordpress_id: 958
 ---
 
-[![](http://photos1.blogger.com/blogger/5311/455/200/Imagen026.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/Imagen026.jpg)[![](http://photos1.blogger.com/blogger/5311/455/200/Imagen027.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/Imagen027.jpg)[![](http://photos1.blogger.com/blogger/5311/455/200/Imagen025.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/Imagen025.jpg)Luego de que me hayan reprendido varias veces por no arreglar mi bici, al fin pude ir a uno de los famosos ciclopaseos que organiza el club [Ecuador Aventura](http://www.ecuadoraventura.org)([www.ecuadoraventura.org](http://www.ecuadoraventura.org)). Me parece una propuesta interesante en lugar de estar un domingo por la mañana echado en la cama sin saber qué hacer.
+[![](https://photos1.blogger.com/blogger/5311/455/200/Imagen026.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/Imagen026.jpg)[![](http://photos1.blogger.com/blogger/5311/455/200/Imagen027.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/Imagen027.jpg)[![](http://photos1.blogger.com/blogger/5311/455/200/Imagen025.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/Imagen025.jpg)Luego de que me hayan reprendido varias veces por no arreglar mi bici, al fin pude ir a uno de los famosos ciclopaseos que organiza el club [Ecuador Aventura](http://www.ecuadoraventura.org)([www.ecuadoraventura.org](http://www.ecuadoraventura.org)). Me parece una propuesta interesante en lugar de estar un domingo por la mañana echado en la cama sin saber qué hacer.
 
 El club organiza semanalmente eventos, viajes y competencias para los miembros y no miembros del club, entre esos estaba en el que participé este domingo que era un recorrido desde el Riocentro los Ceibos hasta el malecón 2000 (con una hora adicional ya estando dentro del malecón). La idea es promover el uso de las bicicletas, hacer un espacio para quienes gustan utilizar este medio de transporte y adicionalmente es una forma de entrenamiento para las competencias futuras.
 
@@ -29,4 +29,4 @@ Si alguno se anima por ahí nos veremos, un par de recomendaciones para que no l
 
 Ah, también un par de herramientas de emergencia (a mi se me fue dañando la rueda delantera en medio camino :S por suerte uno de los miembros del club sacó su super canguro de herramientas y me ayudó :P).
 
-PD: Para no desacreditar.. je je... la idea de ir fue de [Nita-](http://nitadp.blogspot.com/), pero yo tomé las fotos por eso posteé primero :P
+PD: Para no desacreditar.. je je... la idea de ir fue de [Nita-](https://nitadp.blogspot.com/), pero yo tomé las fotos por eso posteé primero :P

@@ -11,7 +11,7 @@ categories:
   - Sin categoría
 ---
 
-![Surfer Girl](http://www.amautacorp.com/staff/e-van/pictures/surfer_girl.gif)Quienes me conocen y han estado cerca mío últimamente saben que la idea ha estado dando vueltas por mi cabeza, luego de escuchar una canción de los Caramelos de Cianuro, llamada Surfer Girl.
+![Surfer Girl](https://www.amautacorp.com/staff/e-van/pictures/surfer_girl.gif)Quienes me conocen y han estado cerca mío últimamente saben que la idea ha estado dando vueltas por mi cabeza, luego de escuchar una canción de los Caramelos de Cianuro, llamada Surfer Girl.
 
 No se refiere a las chicas surfistas que van a la playa a atrapar olas, sino a la existencia de una mujer que tiene "lo mejor de todas concentrado en una sola", es raro, pero a pesar de que yo obviamente no soy perfecto, de hecho tengo miles de defectos tengo una fijación por la cual siempre me siento inconforme... Desde pequeño me han dicho que eso es bueno, porque siempre trato de hacer las cosas de la mejor manera, porque soy detallista, etc... Pero qué pasa cuando eso pasa al plano sentimental y/o personal?
 

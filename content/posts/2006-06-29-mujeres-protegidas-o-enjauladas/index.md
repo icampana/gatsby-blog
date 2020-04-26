@@ -14,7 +14,7 @@ title: ¿Mujeres protegidas o enjauladas?
 wordpress_id: 936
 ---
 
-[![](http://photos1.blogger.com/blogger/5311/455/200/wecanhelp.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/wecanhelp.jpg)Hace mucho tiempo tuve una relación muy bonita, en donde tuve que recordar muchas cosas que había olvidado pues llevaba mucho tiempo sin tener una pareja estable (principalmente porque nuestra "querida" universidad no dejaba tiempo para nada).
+[![](https://photos1.blogger.com/blogger/5311/455/200/wecanhelp.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/wecanhelp.jpg)Hace mucho tiempo tuve una relación muy bonita, en donde tuve que recordar muchas cosas que había olvidado pues llevaba mucho tiempo sin tener una pareja estable (principalmente porque nuestra "querida" universidad no dejaba tiempo para nada).
 
 Entre presiones externas y un viaje que tuve que realizar fuera del país (estuve 7 meses fuera), la relación se debilitó y terminamos, sí me dolió, pero quedamos en buenos términos y mantuvimos la amistad.
 
@@ -28,7 +28,7 @@ De eso ya hace 3 años, me enteré que la hijita está muy bien y que su esposo 
 
 A pesar de que han pasado los años, hay un matrimonio y una hija de por medio, aún no puedo ser nombrado siquiera en esa casa, casi me tocó huir (y eso que era por fono na' más), las cosas no han cambiado y aún conserva la idea de que todos los celos son una muestra de afecto.
 
-Con mucha pena tendré que desaparecer de nuevo, asumo que esta vez definitivamente, no me interesa andar de "escondido" o "asustado", simplemente porque un tipo extremadamente celoso no le deja mantener una amistad a su esposa. (No me van a salir ahora con que creen eso de que no puede haber sólo amistad entre hombres y mujeres). Creo que ni presentándole a mi [enamorada](http://nitadp.blogspot.com/) (con la cual llevo la mitad del tiempo que ellos de casados), el tipo podría entender que no tengo otro interés en su esposa más que el de seguir siendo los mismos amigos que reían al conversar.
+Con mucha pena tendré que desaparecer de nuevo, asumo que esta vez definitivamente, no me interesa andar de "escondido" o "asustado", simplemente porque un tipo extremadamente celoso no le deja mantener una amistad a su esposa. (No me van a salir ahora con que creen eso de que no puede haber sólo amistad entre hombres y mujeres). Creo que ni presentándole a mi [enamorada](https://nitadp.blogspot.com/) (con la cual llevo la mitad del tiempo que ellos de casados), el tipo podría entender que no tengo otro interés en su esposa más que el de seguir siendo los mismos amigos que reían al conversar.
 
 Regresando a la idea central de mi post, esta explicación de mi caso personal se debe a un sólo motivo:
 
@@ -40,11 +40,11 @@ Muchas mujeres creen que mientras más celoso sea su pareja, mejor es para ellas
   ¿qué tienen de resultado?
 - Un tipo que no sólo las tiene encerradas, sino que además puede volverse agresivo al menor error.
 
-Un consejo robado de [Nita-](http://nitadp.blogspot.com/), si quieren saber cómo las va a tratar a futuro un hombre, fíjense cómo trata a las mujeres de su familia, ese puede ser su espejo.
+Un consejo robado de [Nita-](https://nitadp.blogspot.com/), si quieren saber cómo las va a tratar a futuro un hombre, fíjense cómo trata a las mujeres de su familia, ese puede ser su espejo.
 
 Algo de mis creencias, las personas NO cambian, tan sólo se adaptan. En el caso del enamoramiento, las personas necesitan adoptar una forma que sea lo suficientemente agradable para enganchar a la otra, al final cuando la etapa ha pasado, lo que queda es quien realmente estaba detrás del disfraz.
 
 La única forma de lograr un cambio es cuando son las mismas personas quienes lo quieren generar, no puede ser creado por otra persona, necesita convicción, muchísimo esfuerzo y toma tiempo.
 
-Keywords: [Relaciones](http://www.technorati.com/tags/Relaciones), [Personal](http://www.technorati.com/tags/Personal), [Mujeres
-](http://www.technorati.com/tags/Mujeres)
+Keywords: [Relaciones](https://www.technorati.com/tags/Relaciones), [Personal](http://www.technorati.com/tags/Personal), [Mujeres
+](https://www.technorati.com/tags/Mujeres)

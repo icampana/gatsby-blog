@@ -21,4 +21,4 @@ Siguiendo con mi diplomado hemos llegado a un punto en el que todo tenemos que n
 
 A ver si reconocen de quien se trata...
 
-- [Ella](http://minicuentos.blogspot.com/2009/07/ella.html)
+- [Ella](https://minicuentos.blogspot.com/2009/07/ella.html)

@@ -11,7 +11,7 @@ categories:
   - Sin categoría
 ---
 
-Ante el pedido de [Nita](http://nitadp.blogspot.com/2005/03/la-posta-de-la-msica.html) y [Anisita](http://spaces.msn.com/members/aniblog/Blog/cns%211pqwf3yF42shpYevNXaVwEMg%21324.entry) (je je.... hasta suenan parecido :P) procedo a continuar con la posta musical.
+Ante el pedido de [Nita](https://nitadp.blogspot.com/2005/03/la-posta-de-la-msica.html) y [Anisita](http://spaces.msn.com/members/aniblog/Blog/cns%211pqwf3yF42shpYevNXaVwEMg%21324.entry) (je je.... hasta suenan parecido :P) procedo a continuar con la posta musical.
 
 - Últimos CDs que he comprado (entre 1 y 3 años):
 
@@ -113,8 +113,8 @@ Ante el pedido de [Nita](http://nitadp.blogspot.com/2005/03/la-posta-de-la-msica
   - El Tri
     En fin, podría escribir mucho más sobre la música que escucho, veo y siento.... Pero me llevaría mucho y los aburriría.... Ya que la idea es que esto sea una posta, pues se la paso a los que me quedan de la lista de Bloggers que no les han enviado ya la posta y que me gustaría saber su respuesta:
 
-- [Lirrakbar](http://www.lirrakbar.blogspot.com/)
+- [Lirrakbar](https://www.lirrakbar.blogspot.com/)
 
-- [e-Loko](http://jreinoso.blogspot.com/)
+- [e-Loko](https://jreinoso.blogspot.com/)
 
-- [R.W.](http://izzanagi.blogspot.com/)
+- [R.W.](https://izzanagi.blogspot.com/)

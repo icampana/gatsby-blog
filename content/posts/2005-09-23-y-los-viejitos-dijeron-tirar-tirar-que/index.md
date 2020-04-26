@@ -21,4 +21,4 @@ Además se asegura que el sexo en este caso es más económico y fácil de usar 
 
 De forma personal no soy partidario de pagar por sexo, porque se denigra a la persona (quien paga y quien es pagad@) y adicionalmente porque creo que debe considerarse como una expresión de amor entre 2 personas, pero en este caso no creo que sea mala idea, pues se ayuda a mejorar la calidad de vida de los viejitos, podemos tomarlo como "enfermeras especiales" a las cuales tan sólo se les está pagando por sus servicios y cuidados. Lo único es que se sentiría raro estar en el geriátrico con tu abuelito y que de repente llegue una enfermera casi desnuda y diga, la hora de visitas ha terminado, es hora de la sesión sexual del señor y tu abuelo te bote a patadas del cuarto... je je je....
 
-Via: [http://www.marginalrevolution.com/marginalrevolution/2005/09/sexual_healing.html](http://www.marginalrevolution.com/marginalrevolution/2005/09/sexual_healing.html)
+Via: [http://www.marginalrevolution.com/marginalrevolution/2005/09/sexual_healing.html](https://www.marginalrevolution.com/marginalrevolution/2005/09/sexual_healing.html)

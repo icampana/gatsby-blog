@@ -11,7 +11,7 @@ categories:
   - Sin categoría
 ---
 
-Revisando el blog de mi estimada [Lirrakbar](http://lirrakbar.blogspot.com/2005/04/just-believe.html) pasaron un par de ideas por mi cabeza sobre aquello que normalmente llamamos sueños, yo soy un soñador empedernido, pero a la vez soy un hombre que se guía por muchos pragmatismos, quizá suene un tanto incoherente, pero es la forma que encontré para balancearme.
+Revisando el blog de mi estimada [Lirrakbar](https://lirrakbar.blogspot.com/2005/04/just-believe.html) pasaron un par de ideas por mi cabeza sobre aquello que normalmente llamamos sueños, yo soy un soñador empedernido, pero a la vez soy un hombre que se guía por muchos pragmatismos, quizá suene un tanto incoherente, pero es la forma que encontré para balancearme.
 
 Conozco montones de personas que tienen sueños, pero son pocos los que los alcanzan, no por tener una visión pesimista de la vida y las oportunidades, simplemente por mantenerse estáticos, por no dar un paso adelante que los acerque un poco más a su objetivo. Me recuerdan mucho a un chiste en el cual un tipo quería ganarse la lotería y le pedí a Dios todos los días que lo ayudara, que le hiciera ganar el premio mayor, mucho tiempo después al no ganarse nada eleva un grito al cielo exigiendo una explicación, porquéeeee.... a lo que Dios respondió, te ayudaría si al menos compraras el boleto :S
 

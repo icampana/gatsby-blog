@@ -16,7 +16,7 @@ tags:
 
 <blockquote>Los ecuatorianos son seres raros y únicos: Duermen tranquilos en medio de crujientes volcanes, viven pobres en medio de incomparables riquezas y se alegran con música triste
 
-> [Alexander Von Humboldt](http://es.wikipedia.org/wiki/Alexander_von_Humboldt)
+> [Alexander Von Humboldt](https://es.wikipedia.org/wiki/Alexander_von_Humboldt)
 >
 > </blockquote>
 

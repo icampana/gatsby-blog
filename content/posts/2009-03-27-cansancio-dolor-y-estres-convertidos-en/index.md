@@ -16,7 +16,7 @@ title: Cansancio, dolor y estrés convertidos en alegría...
 wordpress_id: 782
 ---
 
-[![](./cansancio.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SczwYVese7I/AAAAAAAABaA/ydTErahvyDg/s1600-h/cansancio.jpg)
+[![](./cansancio.jpg)](https://4.bp.blogspot.com/_T2UWuNJg3dQ/SczwYVese7I/AAAAAAAABaA/ydTErahvyDg/s1600-h/cansancio.jpg)
 Hace una semana que me cambié de departamento, aunque es un proceso que nunca resulta agradable por todo el cansancio que involucra, más gastos, más reordenar todo, en fin... Una lata, pero esta vez tuvo una tonalidad diferente... No sólo representaba cambiar de lugar al que llegar al final del día, sino también el dejar atrás muchas cosas... Arrancando con el montón de basura que no sé porqué aún mantenía en casa :P
 
 A pesar de que me dolió la espalda por unos 3 días, me lastimé la mano y no pude ir al gimnasio, me manché con pintura, me dolieron los talones y terminé molido, mientras estaba rendido en el piso tenía una sonrisa estúpida... simplemente me sentía a gusto... El nuevo departamento es al menos 3 veces más grande que el anterior, de hecho sólo en mi habitación tengo un montón de espacio libre (lo cual se siente muy bien)...

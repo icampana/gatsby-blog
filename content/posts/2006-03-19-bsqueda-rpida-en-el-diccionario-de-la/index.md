@@ -12,9 +12,9 @@ title: Búsqueda rápida en el diccionario de la RAE
 wordpress_id: 943
 ---
 
-[![](http://photos1.blogger.com/blogger/5311/455/200/ejemplo_boton.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/ejemplo_boton.jpg)A pesar de que algunos por ahí parece que no conocen mucho el significado de la palabra ortografía :P (Sorry si alguien se ofende), hay otras personas a las que creo les interesará mucho este pequeño tip.
+[![](https://photos1.blogger.com/blogger/5311/455/200/ejemplo_boton.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/ejemplo_boton.jpg)A pesar de que algunos por ahí parece que no conocen mucho el significado de la palabra ortografía :P (Sorry si alguien se ofende), hay otras personas a las que creo les interesará mucho este pequeño tip.
 
-Es apenas un link con una pizca de javascript (pa los que no saben y les interesa saber leer [aquí](http://es.wikipedia.org/wiki/Javascript)), que permite buscar directamente una palabra en el diccionario de la [RAE (Real Academia Española)](http://www.rae.es/) sin necesidad de abrir la página y muestra directamente el resultado.
+Es apenas un link con una pizca de javascript (pa los que no saben y les interesa saber leer [aquí](https://es.wikipedia.org/wiki/Javascript)), que permite buscar directamente una palabra en el diccionario de la [RAE (Real Academia Española)](http://www.rae.es/) sin necesidad de abrir la página y muestra directamente el resultado.
 
 Si usas el navegador Firefox inclusive puedes tener un extra, lo agregas a tus links de la barra de marcadores y le especificas que se abra en la barra lateral y listo, tienes un botón que te permite buscar una palabra y se abre a un costado de la página en la que estás, de forma que no tienes que abrir otra página y no pierdes de vista lo que estabas leyendo.
 

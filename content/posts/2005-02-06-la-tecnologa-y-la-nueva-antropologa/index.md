@@ -29,7 +29,7 @@ Pensar que las herramientas hechas por el hombre siempre terminan cambiando al h
 
 Imaginen la diferencia, mientras aquellos cercanos a mi edad a los 5 años jugabamos con un Atari y nos deleitabamos con Pong o Galaga, ahora un niño de la misma edad lo mínimo que pide es un game cube, en 20 años más qué habrá? :S La verdad esto quizá suene a una queja, pero más bien es una reflexión, por la forma como corren los tiempos actuales.
 
-Adicionalmente, hace unos días conversaba con mi "[ahijado](http://fhernando.111mb.com/)" (je je.. así le dicen, porque lo tengo a mi cargo en la Ofi.. je je) en una pequeña charla fuera del trabajo, nos dimos cuenta que hay la tendencia a romper los esquemas de los informáticos típicos...
+Adicionalmente, hace unos días conversaba con mi "[ahijado](https://fhernando.111mb.com/)" (je je.. así le dicen, porque lo tengo a mi cargo en la Ofi.. je je) en una pequeña charla fuera del trabajo, nos dimos cuenta que hay la tendencia a romper los esquemas de los informáticos típicos...
 
 O sino quien se hubiese imaginado un Ing. informático que es vocalista de un grupo de Heavy Metal (Lancelot) u otro que escriba poesías y cuentos , o un Ing. Informático que sea vice-campeón sudamericano de potencia (levantamiento de pesas, esa va para Lynex.. je je).
 

@@ -19,7 +19,7 @@ Tomó un poco de tiempo tomar la decisión de operarme para realizar la correcci
 
 A pesar de todo decidí lanzarme al ruedo, principalmente por 2 razones, una porque luego de 10 años y con el avance gradual de la disminución de visión, ya estaba cansado de tener que levantarme en la mañana y buscar los anteojos antes de hacer cualquier cosa, o andar como loco hasta recordar dónde los había dejado (tomando en cuenta lo despistado que soy :P ). Además está la experiencia de las miles de personas que se han realizado la misma operación en base a la cirugía laser.
 
-El método estándar es [Lasik](http://en.wikipedia.org/wiki/LASIK), en mi caso la técnica aplicada fue [PRK (Photorefractive keratectomy)](http://en.wikipedia.org/wiki/Photorefractive_keratectomy), por lo cual la recuperación fue mucho más lenta y dolorosa, en la operación Lasik una persona puede volver a sus actividades al día siguiente con la protección de gafas especiales... En mi caso pasé 5 días sin poder ver con protectores especiales para dormir y echado en una cama :S
+El método estándar es [Lasik](https://en.wikipedia.org/wiki/LASIK), en mi caso la técnica aplicada fue [PRK (Photorefractive keratectomy)](http://en.wikipedia.org/wiki/Photorefractive_keratectomy), por lo cual la recuperación fue mucho más lenta y dolorosa, en la operación Lasik una persona puede volver a sus actividades al día siguiente con la protección de gafas especiales... En mi caso pasé 5 días sin poder ver con protectores especiales para dormir y echado en una cama :S
 
 La experiencia fue una mezcla de sensaciones, desde paz y descanso, hasta desesperación e impotencia. Poder escuchar movimiento a tu alrededor y no saber qué pasa, tener ganas de hacer cosas por tu propia cuenta y encontrarte con que no puedes dar pie con bola sin golpear algo o a alguien.
 
@@ -33,4 +33,4 @@ Suena raro puesto en esos términos, pero es la verdad, no es lo mismo hasta ver
 
 Reconocer las formas que parecían tan comunes ahora con una tonalidad diferente, con texturas que se pueden distinguir de manera mucho más real. Es como haber entrado finalmente a esa tienda donde estaban muchas cosas que querías y tan sólo te habías limitado a verlas detrás de la vitrina.
 
-Keywords: [personal](http://technorati.com/tags/personal), [Lasik](http://technorati.com/tags/lasik), [PRK](http://technorati.com/tags/prk)
+Keywords: [personal](https://technorati.com/tags/personal), [Lasik](http://technorati.com/tags/lasik), [PRK](http://technorati.com/tags/prk)

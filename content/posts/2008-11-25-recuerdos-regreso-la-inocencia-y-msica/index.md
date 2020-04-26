@@ -18,7 +18,7 @@ wordpress_id: 833
 
 Estas últimas semanas he estado haciendo un viaje en el tiempo y sin haberlo planificado, desde volver a pasar muchísimo tiempo con mi mejor amigo del colegio hasta volver a hacer cosas que prácticamente ya tenía olvidadas. De repente me volví a sentir como si el tiempo no hubiera pasado, como si la única preocupación tendría que ser el pensar en qué vamos a hacer el fin de semana.
 
-Coincidentemente este fin de semana tuve la oportunidad de conocer al [Capitán Memo](http://www.capitanmemo.cl/), se presentó junto a [mis hermanos](http://www.nijidays.wordpress.com/) en el Auditorio del Banco Central... Algunos dirán y ese quién demonios es? Si tuvieron infancia en los ochentas, entonces lo recordarán. Aunque él no aparecía directamente, era su trabajo el que se podía escuchar cada vez que estábamos sentados frente a la tele viendo nuestros dibujos animados favoritos. Él hizo las versiones hispanas de las canciones de las series animadas que más conocimos, entre ellas:
+Coincidentemente este fin de semana tuve la oportunidad de conocer al [Capitán Memo](https://www.capitanmemo.cl/), se presentó junto a [mis hermanos](http://www.nijidays.wordpress.com/) en el Auditorio del Banco Central... Algunos dirán y ese quién demonios es? Si tuvieron infancia en los ochentas, entonces lo recordarán. Aunque él no aparecía directamente, era su trabajo el que se podía escuchar cada vez que estábamos sentados frente a la tele viendo nuestros dibujos animados favoritos. Él hizo las versiones hispanas de las canciones de las series animadas que más conocimos, entre ellas:
 
 - Capitán Futuro
 - He-Man

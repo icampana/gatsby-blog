@@ -16,7 +16,7 @@ tags:
 
 Últimamente en lo único que he podido pensar es en cómo he estado dejando pasar mi vida de largo bajo la promesa de un futuro mejor, desde niño siempre fui un soñador, llegando al punto inclusive de imaginarse cuentos fabulosos estando despierto, pensando en cómo sería un gran inventor o de cómo podría crear una pintura que se coma los grafitis (toda la vida los he odiado).
 
-Luego pasó el tiempo y seguí soñando, con una perspectiva diferente quizá, con otro color y con otros matices. Después de unos cuantos golpes con la realidad me di cuenta que si quería conseguir alcanzar mis sueños debería esforzarme y pelear, no es cuestión de sueño ni de tiempo, si yo no hago nada para convertirlos en realidad no iban a salir de mi cabeza y materializarse (aunque a veces me gustaría tener el anillo de [linterna verde](http://en.wikipedia.org/wiki/Green_Lantern) :P).
+Luego pasó el tiempo y seguí soñando, con una perspectiva diferente quizá, con otro color y con otros matices. Después de unos cuantos golpes con la realidad me di cuenta que si quería conseguir alcanzar mis sueños debería esforzarme y pelear, no es cuestión de sueño ni de tiempo, si yo no hago nada para convertirlos en realidad no iban a salir de mi cabeza y materializarse (aunque a veces me gustaría tener el anillo de [linterna verde](https://en.wikipedia.org/wiki/Green_Lantern) :P).
 
 Ahora, dedicado a la empresa y tratar de establecer lo que yo espero sea mi "futuro", me recordaron que en el camino he ido dejando muchas cosas de lado, inclusive descuidado a las personas que quiero, justamente por quienes digo que me esfuerzo y trato de lograr mis objetivos.
 

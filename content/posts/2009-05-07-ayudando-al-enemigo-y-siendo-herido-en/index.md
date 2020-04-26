@@ -16,7 +16,7 @@ title: ¡Ayudando al enemigo y siendo herido en el intento!
 wordpress_id: 767
 ---
 
-[![](./6404.jpg)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SgKVmAlsFbI/AAAAAAAABfI/Lh2Old4iezU/s1600-h/6404.jpg)Realmente el título es una exageración de lo que pasó, pero me puso a pensar de cualquier manera, además asumo que llamó la atención de más de un@ :P
+[![](./6404.jpg)](https://1.bp.blogspot.com/_T2UWuNJg3dQ/SgKVmAlsFbI/AAAAAAAABfI/Lh2Old4iezU/s1600-h/6404.jpg)Realmente el título es una exageración de lo que pasó, pero me puso a pensar de cualquier manera, además asumo que llamó la atención de más de un@ :P
 
 Desde que entré al colegio recuerdo haber escuchado la historia sobre la rivalidad entre 2 colegios, el Cristóbal Colón (el mío) y el San José La Salle... Aunque no llegamos a la violencia extrema ni nada por el estilo vi más de una pelea bajo el pretexto de dicha rivalidad, inclusive alguna vez vi a uno de mis profesores enfrentarse a un profesor de ese colegio por defendernos (la verdad es que el tarado del profesor del la Salle le pegó a uno de mis compañeros).
 

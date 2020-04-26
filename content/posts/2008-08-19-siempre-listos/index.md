@@ -17,7 +17,7 @@ title: Siempre Listos
 wordpress_id: 865
 ---
 
-[![](./baden-powel.png)](http://1.bp.blogspot.com/_T2UWuNJg3dQ/SKpOVuwWKVI/AAAAAAAAA0k/7XtAksfgWx4/s1600-h/baden+powel.png)
+[![](./baden-powel.png)](https://1.bp.blogspot.com/_T2UWuNJg3dQ/SKpOVuwWKVI/AAAAAAAAA0k/7XtAksfgWx4/s1600-h/baden+powel.png)
 
 <blockquote>"El camino verdadero para conseguir la felicidad pasa por hacer felices a los demás. Intentad dejar este mundo un poco mejor de como os lo encontrásteis y, cuando os llegue la hora de morir, podréis morir felices sintiendo que de ningún modo habréis perdido vuestro tiempo sino que habréis hecho todo lo posible. Así, estad "Siempre Listos" para vivir felices y morir felices: aferraos siempre a vuestra promesa Scout, aún cuando hayáis dejado de ser muchachos, y que Dios os ayude a hacerlo así."
 

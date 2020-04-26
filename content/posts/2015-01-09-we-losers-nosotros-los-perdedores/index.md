@@ -20,7 +20,7 @@ wordpress_id: 718
 
 Una palabra famosa, o más bien infame del idioma inglés se convirtió en parte de la jerga común de los jóvenes latinoamericanos (y algunos ya no tan jóvenes también), con la cual se calificaba o marcaba a las personas que no coincidían con el estándar, que no eran populares o que simplemente no encajaban dentro de un grupo, pasamos a ser conocidos como "Los losers".
 
-Acabo de decir que pasamos a ser conocidos, porque yo fui (soy) parte de ese grupo, los "[parias](http://lema.rae.es/drae/?val=paria)" de la sociedad actual.
+Acabo de decir que pasamos a ser conocidos, porque yo fui (soy) parte de ese grupo, los "[parias](https://lema.rae.es/drae/?val=paria)" de la sociedad actual.
 
 Hoy en día se ha tratado de reivindicar el concepto, intentando de alguna manera resarcir lo que causó el trato despectivo que normalmente recibían esos grupos, series de televisión como **Glee** se enfocan en la idea de que los Losers tienen dotes que los hacen especiales y muestran un poco más el lado humano.
 

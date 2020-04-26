@@ -16,7 +16,7 @@ tags:
   - Sexo
 ---
 
-Vale recalcar que no es mi intención dejar en el olvido el blog, simplemente que no siempre me resulta fácil dedicarle tiempo a escribir las cosas que pasan por mi loca cabeza (últimamente ha sido más que nada cosa de desorden), en fin, vamos pa' allá. Estar subscrito al [círculo de lectores](http://www.circulodelectores.com.ec/) a veces puede resultar más que interesante.
+Vale recalcar que no es mi intención dejar en el olvido el blog, simplemente que no siempre me resulta fácil dedicarle tiempo a escribir las cosas que pasan por mi loca cabeza (últimamente ha sido más que nada cosa de desorden), en fin, vamos pa' allá. Estar subscrito al [círculo de lectores](https://www.circulodelectores.com.ec/) a veces puede resultar más que interesante.
 
 La verdad es que hace mucho que no me dedicaba a la lectura por mero placer, se había vuelto una necesidad en el caso de la investigación y el trabajo. Mientras revisaba la lista de libros del catálogo (sin encontrar algo que me sonara simpático), el encargado de promocionar los libros me mostró uno que a primera vista me sacó una buena carcajada, "Cómo volver loca a una mujer en la cama".
 

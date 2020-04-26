@@ -17,4 +17,4 @@ tags:
 
 Para quienes usen GNU/Linux y alguna vez han querido entrar a la página de Pacificard o la de la Presidencia del Ecuador:
 
-[Acá está la solución](http://caletalinux.blogspot.com/2009/06/corrigiendo-el-error-de-navegacion-de.html)
+[Acá está la solución](https://caletalinux.blogspot.com/2009/06/corrigiendo-el-error-de-navegacion-de.html)

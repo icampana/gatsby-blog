@@ -15,21 +15,21 @@ tags:
   - Personal
 ---
 
-En base al meme que me pasaron [Cuando mis dedos acarician las teclas: El famoso meme de las 6 cosas](http://ivan.campananaranjo.com/2007/01/27/el-famoso-meme-de-las-6-cosas/):
+En base al meme que me pasaron [Cuando mis dedos acarician las teclas: El famoso meme de las 6 cosas](https://ivan.campananaranjo.com/2007/01/27/el-famoso-meme-de-las-6-cosas/):
 
 Antes que nada, de dónde salió el término "meme" para una esto XD.
 
-Actualización: Me olvidaba que existe la wikipedia :P, ahora sí me quedó claro qué es un "[meme](http://es.wikipedia.org/wiki/Meme)". A mi parecer no es más que una cadena al estilo "chismógrafo" que existía cuando estaba en la escuela (hace muchos miau) y servía para enterarse sobre detalles de tus amigos o conocidos, típico siempre aparecía una amiga con uno de esos. En fin, meme suena al menos más decente... ja ja.
+Actualización: Me olvidaba que existe la wikipedia :P, ahora sí me quedó claro qué es un "[meme](https://es.wikipedia.org/wiki/Meme)". A mi parecer no es más que una cadena al estilo "chismógrafo" que existía cuando estaba en la escuela (hace muchos miau) y servía para enterarse sobre detalles de tus amigos o conocidos, típico siempre aparecía una amiga con uno de esos. En fin, meme suena al menos más decente... ja ja.
 
 6 cosas que me gustaría hacer antes de morir:
 
 - Dar una caminata relajada por _Les Champs-Elysées (Los campos elíseos)_ en París.
 
-- Volar sin necesidad de un avión (me sirve si es con alas delta al menos, la idea es sentir el viento sin tener que ser "[The rocketeer](http://en.wikipedia.org/wiki/Rocketeer)").
+- Volar sin necesidad de un avión (me sirve si es con alas delta al menos, la idea es sentir el viento sin tener que ser "[The rocketeer](https://en.wikipedia.org/wiki/Rocketeer)").
 - Entender 100% a las mujeres ( lo sé, es misión imposible, pero la esperanza es lo último que se pierde :P ).
 - Tener un hijo/a y aprender a ser padre.
 
-- Ver un exoesqueleto para humanos 100% funcional ([Cada vez más cerca](http://www.youtube.com/watch?v=P6nX5q3gVUM)).
+- Ver un exoesqueleto para humanos 100% funcional ([Cada vez más cerca](https://www.youtube.com/watch?v=P6nX5q3gVUM)).
 - Ver a mi país saliendo a flote y con una distribución de la riqueza más justa.
 
 6 cosas que hago mejor:
@@ -81,4 +81,4 @@ Actualización: Me olvidaba que existe la wikipedia :P, ahora sí me quedó clar
 - Sé tejer con crochet (al igual que aprendí serigrafía, cerámica y algo de pintura por mi mamá :P)
 - A los 15 años tuve una mutación.. je je.. Realmente fue un accidente en el que estuve inconsciente hasta que me llevaron al hospital (más o menos unos 10 minutos, casi me dan por perdido). Pero le digo mutación porque al estar cerca de desaparecer comencé a valorar muchas cosas y cambió mi percepción del mundo.
 - Me encanta hacer las cosas por mi mismo (desde pintar mi cuarto hasta hacer las instalaciones eléctricas de mi casa, excepto lo que no aprendí con mis tíos).
-  Ufa, cuando me pasó esto [Nita-](http://nitadp.blospot.com/) dijo que estaba fácil, pero vaya que me ha costado... Al final se me ocurrieron más cosas que poner, pero en fin, 6 pidieron, 6 tendrán.
+  Ufa, cuando me pasó esto [Nita-](https://nitadp.blospot.com/) dijo que estaba fácil, pero vaya que me ha costado... Al final se me ocurrieron más cosas que poner, pero en fin, 6 pidieron, 6 tendrán.

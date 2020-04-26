@@ -23,13 +23,13 @@ Recuerdo hace unos 8 años cuando tuve una profesora de la universidad que vino 
 
 A pesar de esto, en Guayaquil no ha sido una costumbre permanente el consumo de café, quizá por el clima cálido, hemos estado acostumbrados a consumi bebidas frías más que bebidas calientes, aún así, en los últimos años comenzó a tomar más fuerza el consumo de café en diferentes lugares de la ciudad, con ello la aparición de algunos sitios en los que los guayaquileños buscar espacios para departir, sin llegar a que nos acostumbremos a probar algo mejor que el café instantáneo o las mezclas rápidas y sin mayor preocupación.
 
-Hace casi un año conocí a Luis Quiroga, un chileno de voz pausada, siempre dispuesto a conversar, con trato amable y con muchas historias e ideas en la cabeza, pasó buena parte de su vida en Suecia y ahora convirtió a Guayaquil en su nuevo hogar. Una de las ideas por la nos conocimos fue el proyecto [Ecuador Sol](http://ecuadorsol.ec/), que busca promover el turismo en Guayaquil y playas para turistas en general, pero enfocados especialmente en Suecia. Algo que me sorprendió cuando supe la noticia es que además de ese proyecto estaba la idea de montar un café en Urdesa, lo cual a simple vista podría parecer algo nada fuera de lo común, pero realmente tiene un factor diferenciador de gran importancia.
+Hace casi un año conocí a Luis Quiroga, un chileno de voz pausada, siempre dispuesto a conversar, con trato amable y con muchas historias e ideas en la cabeza, pasó buena parte de su vida en Suecia y ahora convirtió a Guayaquil en su nuevo hogar. Una de las ideas por la nos conocimos fue el proyecto [Ecuador Sol](https://ecuadorsol.ec/), que busca promover el turismo en Guayaquil y playas para turistas en general, pero enfocados especialmente en Suecia. Algo que me sorprendió cuando supe la noticia es que además de ese proyecto estaba la idea de montar un café en Urdesa, lo cual a simple vista podría parecer algo nada fuera de lo común, pero realmente tiene un factor diferenciador de gran importancia.
 
 El nombre del lugar es Kaffe & Fika, esto está en sueco, la primera palabra es fácil de entenderla, pues no necesita mayor traducción por su semejanza al español, pero la segunda me dejó intrigado, por ello pasé a buscar el significado en Internet.
 
-De acuerdo a la Wikipedia, la definición de [Fika](http://es.wikipedia.org/wiki/Fika) es:
+De acuerdo a la Wikipedia, la definición de [Fika](https://es.wikipedia.org/wiki/Fika) es:
 
-<blockquote>[![](./IMG_4810-1.jpg)](http://1.bp.blogspot.com/-YxXdQfUMJpw/TdC7_jsBywI/AAAAAAAACOg/X2iiu4vhaTc/s1600/IMG_4810.jpg)Fika es una institución social en Suecia: significa tomar una "pausa del café" del trabajo o de otras actividades y beber un café con sus colegas, amigos, o familia. Esta práctica de tomar una pausa para un café y un bocado ligero (algunas galletas, tarta (torta), o un emparedado) entre comidas más substanciales como almuerzo y la temprana cena. Los suecos están entre los mayores consumidores de café en el mundo.</blockquote>
+<blockquote>[![](./IMG_4810-1.jpg)](https://1.bp.blogspot.com/-YxXdQfUMJpw/TdC7_jsBywI/AAAAAAAACOg/X2iiu4vhaTc/s1600/IMG_4810.jpg)Fika es una institución social en Suecia: significa tomar una "pausa del café" del trabajo o de otras actividades y beber un café con sus colegas, amigos, o familia. Esta práctica de tomar una pausa para un café y un bocado ligero (algunas galletas, tarta (torta), o un emparedado) entre comidas más substanciales como almuerzo y la temprana cena. Los suecos están entre los mayores consumidores de café en el mundo.</blockquote>
 
 El lugar es acogedor, con algo que Luis ha querido resaltar como punto importante, el poder tomar un buen café, preparado con mucho cuidado y para asegurar un excelente sabor. Algo que también va de acorde al concepto de Fika es que es un buen lugar para compartir con amigos, escuchar buena música y conversar tranquilamente, es un sitio de amigos y amantes del café.
 
@@ -41,20 +41,20 @@ Para los más curiosos, acá unas cuantas fotos del lugar y finalmente cómo lle
 
 <table cellpadding="0" cellspacing="0" align="center" border="1" ><tbody >
 <tr >   
-<td >[![](./IMG_4801-1.jpg)](http://4.bp.blogspot.com/-GAD7MOdnVQ8/TdC76l4NfdI/AAAAAAAACOM/vSKI6hqBKME/s1600/IMG_4801.jpg)
+<td >[![](./IMG_4801-1.jpg)](https://4.bp.blogspot.com/-GAD7MOdnVQ8/TdC76l4NfdI/AAAAAAAACOM/vSKI6hqBKME/s1600/IMG_4801.jpg)
 </td>  
-<td >[![](./IMG_4804-1.jpg)](http://1.bp.blogspot.com/-Q2a7ybuShLA/TdC77gs7_BI/AAAAAAAACOQ/8aLXgVN0Ze8/s1600/IMG_4804.jpg)
+<td >[![](./IMG_4804-1.jpg)](https://1.bp.blogspot.com/-Q2a7ybuShLA/TdC77gs7_BI/AAAAAAAACOQ/8aLXgVN0Ze8/s1600/IMG_4804.jpg)
 </td>
 <td >![](./IMG_4811-1.jpg)
 </td>  </tr>
 <tr >
 <td >![](./IMG_4805-1.jpg)
 </td>  
-<td >[![](./IMG_4809-1.jpg)](http://1.bp.blogspot.com/-Durwt_gD1Ng/TdC7-kI160I/AAAAAAAACOc/25o0mjBnKUw/s1600/IMG_4809.jpg)
+<td >[![](./IMG_4809-1.jpg)](https://1.bp.blogspot.com/-Durwt_gD1Ng/TdC7-kI160I/AAAAAAAACOc/25o0mjBnKUw/s1600/IMG_4809.jpg)
 </td>  
-<td >[![](./IMG_4807-1.jpg)](http://1.bp.blogspot.com/-_eNSM2-P72s/TdC79qaPoaI/AAAAAAAACOY/t9u1Rq6Kb0Q/s1600/IMG_4807.jpg)
+<td >[![](./IMG_4807-1.jpg)](https://1.bp.blogspot.com/-_eNSM2-P72s/TdC79qaPoaI/AAAAAAAACOY/t9u1Rq6Kb0Q/s1600/IMG_4807.jpg)
 </td> </tr>
 <tr >
-<td colspan="3" align="center" >[![](./IMG_4799-1.jpg)](http://4.bp.blogspot.com/-T_skoPbcvkM/TdC75sJ8oHI/AAAAAAAACOI/Oq1eIms_LiY/s1600/IMG_4799.jpg)
+<td colspan="3" align="center" >[![](./IMG_4799-1.jpg)](https://4.bp.blogspot.com/-T_skoPbcvkM/TdC75sJ8oHI/AAAAAAAACOI/Oq1eIms_LiY/s1600/IMG_4799.jpg)
 </td> </tr>
 </tbody></table>

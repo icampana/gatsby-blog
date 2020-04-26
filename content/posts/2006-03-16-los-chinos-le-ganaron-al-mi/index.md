@@ -11,7 +11,7 @@ categories:
   - Sin categoría
 ---
 
-[![](http://www.informativos.telecinco.es/imgsed/portatil_060315_300.jpg)](http://www.informativos.telecinco.es/imgsed/portatil_060315_300.jpg)Me enteré por [Telecinco](http://www.informativos.telecinco.es/ordenadores_portatiles/china/baratos/dn_21975.htm) que en China a partir de Junio comenzarán a vender laptops de 100 dólares. A diferencia del plan que tenía el MIT(como dirían algunos agringados el EM-AY-TI ) en conjunto con las Naciones Unidas, esto no es para favorecer a las naciones en desarrollo, sino simplemente para vender.
+[![](https://www.informativos.telecinco.es/imgsed/portatil_060315_300.jpg)](http://www.informativos.telecinco.es/imgsed/portatil_060315_300.jpg)Me enteré por [Telecinco](http://www.informativos.telecinco.es/ordenadores_portatiles/china/baratos/dn_21975.htm) que en China a partir de Junio comenzarán a vender laptops de 100 dólares. A diferencia del plan que tenía el MIT(como dirían algunos agringados el EM-AY-TI ) en conjunto con las Naciones Unidas, esto no es para favorecer a las naciones en desarrollo, sino simplemente para vender.
 
 De paso algo interesante es que el MIT y la ONU tenían planeado sacar las primeras computadoras para el 2007, es decir, si esto fuera una carrera, ganaron por bastante :P
 

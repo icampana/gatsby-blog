@@ -20,7 +20,7 @@ Ahora, no sólo podemos leer esas noticias con programas especiales, sino que ta
 Navegando por ahí encontré el Feed2Js que convierte cualquier contenido válido de RSS a un pequeño snippet de Javascript ( no es de más de 3 o 4 líneas) que podemos copiar y pegar en nuestros sitios para tener la información al día.
 
 La dirección es la siguiente:
-[http://jade.mcli.dist.maricopa.edu/feed/index.php?s=build](http://jade.mcli.dist.maricopa.edu/feed/index.php?s=build)
+[http://jade.mcli.dist.maricopa.edu/feed/index.php?s=build](https://jade.mcli.dist.maricopa.edu/feed/index.php?s=build)
 
 Para variar es un proyecto opensource, así que quienes quieran hacerle cambios o mejoras están libres de hacerlo y de paso hostearlo por allí :P
 

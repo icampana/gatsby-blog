@@ -11,7 +11,7 @@ categories:
   - Sin categoría
 ---
 
-![Eclipse Lunar](http://amautacorp.com/staff/e-van/pictures/luna_roja.jpg) Por inusual que parezca siempre me he sentido extrañamente influenciado por la luna, cada vez que se acerca la luna llena. Hoy sin saberlo me había estado sintiendo bastante extraño, de forma un poco inexplicable hasta que una amiga me dijo por la noche, ¿estás viendo el eclipse lunar?
+![Eclipse Lunar](https://amautacorp.com/staff/e-van/pictures/luna_roja.jpg) Por inusual que parezca siempre me he sentido extrañamente influenciado por la luna, cada vez que se acerca la luna llena. Hoy sin saberlo me había estado sintiendo bastante extraño, de forma un poco inexplicable hasta que una amiga me dijo por la noche, ¿estás viendo el eclipse lunar?
 
 Luego de escuchar aquella frase entendí todo, es parte de esa extraña atracción la que me vuelve quizá un poco más animal de lo normal. Decidí salir de casa a verlo con mis propios ojos, lo que encontré fue indescriptible, una luna que parecía desangrarse mientras despedía sus rayos luminosos a la vez. Embobado por el espectáculo intenté captar la imagen con la lente de mi cámara, pero no fue suficiente, se necesita mucho más que eso para captar la esencia del momento.
 

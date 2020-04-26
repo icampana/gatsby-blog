@@ -12,7 +12,7 @@ title: robaMe!!
 wordpress_id: 983
 ---
 
-[![](http://photos1.blogger.com/blogger/5311/455/320/robo_de_M.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/robo_de_M.jpg)Por problemas económicos no pude pagar 2 meses que tenía pendientes de mi servicio de telefonía movil, por lo cual procedieron a cortarme las llamadas salientes primero y luego las llamadas entrantes, está bien, me parece lógico porque ha sido mi problema el no cancelar mis cuentas a tiempo, lo que verdaderamente me sacó de mis casillas fue que la semana pasada llegó el estado de cuenta en el cual me están cobrando el mes completo incluido el valor de los mensajes cuando ya no puedo hacer uso de ninguno de los servicios por los que se supone que me cobran.
+[![](https://photos1.blogger.com/blogger/5311/455/320/robo_de_M.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/robo_de_M.jpg)Por problemas económicos no pude pagar 2 meses que tenía pendientes de mi servicio de telefonía movil, por lo cual procedieron a cortarme las llamadas salientes primero y luego las llamadas entrantes, está bien, me parece lógico porque ha sido mi problema el no cancelar mis cuentas a tiempo, lo que verdaderamente me sacó de mis casillas fue que la semana pasada llegó el estado de cuenta en el cual me están cobrando el mes completo incluido el valor de los mensajes cuando ya no puedo hacer uso de ninguno de los servicios por los que se supone que me cobran.
 
 El día de hoy al acercarme a la matriz del proveedor que tengo a pagar parte de mi deuda y para hablar con la gente de servicios al cliente para que solucionen mi problema, me encuentro con la sorpresa que el ejecutivo de cuentas me recibe con una sonrisa burlona sabrá Dios porqué. Escucha mi problema manteniendo el cuerpo echado hacia atrás, apenas sosteniendo el mouse con un par de dedos, vuelve a sonreir y me dice, eso es normal, aunque Ud. no pueda hacer llamadas ni enviar mensajes igual le cobramos el servicio completo, si no puede usar sus minutos es problema suyo porque no pagar a tiempo, nosotros le estamos dando los minutos. La sonrisa que estaba tratando de mantener frente al tipo comienza a desaparecer de mi rostro y pregunto si no es eso ilógico, porque cómo voy a pagar algo que no he podido usar, ni oler siquiera y la respuesta es así son las reglas que sólo cambia la facturación el momento que no se puede siquiera recibir llamadas, lamentablemente no puedo estar seguro de aquello porque el contrato de servicios que firmé está en mi casa y no recuerdo si existía alguna clausula que lo especificara, pero que yo recuerde no existe algo así.
 
@@ -36,4 +36,4 @@ En pocas palabras, no sólo abusan de los usuarios, sino también del estado y n
 
 Una vez más, róbaMe!!
 
-Keywords: [Movistar](http://technorati.com/tag/Movistar), [Ecuador](http://technorati.com/tag/Ecuador)
+Keywords: [Movistar](https://technorati.com/tag/Movistar), [Ecuador](http://technorati.com/tag/Ecuador)

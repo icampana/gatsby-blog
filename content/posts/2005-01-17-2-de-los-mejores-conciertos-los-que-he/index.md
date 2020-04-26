@@ -14,6 +14,6 @@ title: Los mejores conciertos de mi vida
 wordpress_id: 1027
 ---
 
-[![](http://photos1.blogger.com/img/39/1190/320/tickets.jpg)](http://photos1.blogger.com/img/39/1190/640/tickets.jpg)
+[![](https://photos1.blogger.com/img/39/1190/320/tickets.jpg)](http://photos1.blogger.com/img/39/1190/640/tickets.jpg)
 
 Dos de los mejores conciertos a los que he logrado ir hasta ahora, Cake porque fui mi primer concierto fuera de casa y de paso con un grupo que desconocía, pero me terminó gustando... Y obviamente el concierto del maestro Santana, inolvidable!

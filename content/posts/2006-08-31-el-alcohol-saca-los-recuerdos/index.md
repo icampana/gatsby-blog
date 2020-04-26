@@ -98,4 +98,4 @@ Y bebe el agua, por agua.</blockquote>
 
 Me pregunto ¿y tú? ¿Bebes el vino por vino y el agua por agua?
 
-Keywords: [alcohol](http://www.technorati.com/tags/alcohol), [pensamientos](http://www.technorati.com/tags/pensamientos)
+Keywords: [alcohol](https://www.technorati.com/tags/alcohol), [pensamientos](http://www.technorati.com/tags/pensamientos)

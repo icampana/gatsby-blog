@@ -17,7 +17,7 @@ title: Funk Mocca!
 wordpress_id: 762
 ---
 
-[![](./4738_98611447296_674927296_1922889_4749393_n.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/ShoL3iWPi7I/AAAAAAAABgs/xxqwtHsQIl4/s1600-h/4738_98611447296_674927296_1922889_4749393_n.jpg)Finalmente nos presentamos en el festival de Artes de la Universidad Santa María, aunque era un concurso realmente nosotros no fuimos con la idea de que teníamos que ganar o que íbamos a competir, simplemente queríamos poder hacer la música que queríamos y personalmente desde hace mucho quería tener el gusto de tocar con mis hermanos.
+[![](./4738_98611447296_674927296_1922889_4749393_n.jpg)](https://2.bp.blogspot.com/_T2UWuNJg3dQ/ShoL3iWPi7I/AAAAAAAABgs/xxqwtHsQIl4/s1600-h/4738_98611447296_674927296_1922889_4749393_n.jpg)Finalmente nos presentamos en el festival de Artes de la Universidad Santa María, aunque era un concurso realmente nosotros no fuimos con la idea de que teníamos que ganar o que íbamos a competir, simplemente queríamos poder hacer la música que queríamos y personalmente desde hace mucho quería tener el gusto de tocar con mis hermanos.
 
 A final de cuentas hubo algunos problemas con el audio, se supone que era Gallardo quien ponía el sonido, pero el servicio fue pésimo, no tenían idea de lo que hacían, en la 2da canción se notaba mucho más porque ni siquiera se alcanzaba a escuchar bien la voz, en fin... En todo caso lo que había que hacer era disfrutar del rato y tratar de que saliera lo mejor posible...
 

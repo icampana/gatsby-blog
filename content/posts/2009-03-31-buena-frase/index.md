@@ -11,7 +11,7 @@ categories:
   - Sin categoría
 ---
 
-Esto me pasa por escribir sandeces en el [facebook](http://www.facebook.com).. ja ja.. la frase que puse fue: "Quiero tener vacaciones pagadas... de por vida!!"
+Esto me pasa por escribir sandeces en el [facebook](https://www.facebook.com).. ja ja.. la frase que puse fue: "Quiero tener vacaciones pagadas... de por vida!!"
 
 Ante lo cual tuve la respuesta más loca y acertada del mundo.. ja ja:
 

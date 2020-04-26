@@ -19,6 +19,6 @@ Ya que en este momento tiempo y dinero son recursos limitados para mi :P lo más
 
 Para esto sí voy a necesitar ayuda de quienes lean esto, si tienes un blog con mayor razo'n, si quieres apoyar la idea publica un post con el link a la encuesta que está abajo, si el proyecto avanza les doy crédito como mi equipo de investigacion XD
 
-Bue, en fin... acá va el link a la [encuesta](http://www.freesurveysonline.com/fso/AskSurvey.fso?Survey=7425&CheckID=6642)
+Bue, en fin... acá va el link a la [encuesta](https://www.freesurveysonline.com/fso/AskSurvey.fso?Survey=7425&CheckID=6642)
 
 Actualización: A partir del 17 de febrero la encuesta fue oficialmente cerrada, ya no puede ser accedida. A todos los que aportaron, muchas gracias.

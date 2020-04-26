@@ -15,7 +15,7 @@ title: Lo necesario y lo superficial
 wordpress_id: 860
 ---
 
-[![](./dsc03482-Modificada.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SLTuyjUi5II/AAAAAAAAA1s/uLuOmW5FM0A/s1600-h/dsc03482+%28Modificada%29.jpg)
+[![](./dsc03482-Modificada.jpg)](https://3.bp.blogspot.com/_T2UWuNJg3dQ/SLTuyjUi5II/AAAAAAAAA1s/uLuOmW5FM0A/s1600-h/dsc03482+%28Modificada%29.jpg)
 Además de ser el título de una canción de los Cruks en Karnak que me gusta mucho, representa un poco lo que me puse a pensar en estos días, aunque es muy diferente a lo que la canción representa, la frase va más apegada a la idea.
 
 Arrancando con la loca idea (pero temporal) de dejarme el bigote (ya se enterarán del porqué :P) he reordenado algunas prioridades en mi vida y me la he pasado cambiando algunas cosas, entre esas una de las más raras y normalmente menos importante es mi apariencia, siempre me ha gustado lucir "bien" (sin mucha parafernalia, ni preocupación por la moda), pero pocas veces he querido "engreírme" comprando por ejemplo ropa muy costosa o muy "a la moda".

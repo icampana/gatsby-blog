@@ -23,7 +23,7 @@ Cuando comencé a crear sitios webs (mi primer encuentro con el HTML fue en 1996
 
 ![El Universo](./Captura-de-pantalla-2019-01-28-a-las-19.03.16.png)
 
-El ejemplo del diseño de una web [bastante conocida](http://www.eluniverso.com) en 1997 con los elementos básicos que había. (gracias a [The Internet Archive Wayback Machine](https://web.archive.org/web/19970430004359/http://www.eluniverso.com/)).
+El ejemplo del diseño de una web [bastante conocida](https://www.eluniverso.com) en 1997 con los elementos básicos que había. (gracias a [The Internet Archive Wayback Machine](https://web.archive.org/web/19970430004359/http://www.eluniverso.com/)).
 
 Pero fuera de la apariencia el proceso era bastante sencillo, había que crear un documento de texto con las etiquetas para dar algo de formato, enlazar los contenidos, cargar unas cuantas imágenes en el servidor y listo, teníamos una página web que podía ser visitada por quien quisiera en cualquier parte del mundo. Hoy en día tenemos páginas sumamente vistosas, que requieren componentes del lado del servidor para procesar nuestros datos y pueden demandar mucho de la máquina cliente.
 
@@ -51,7 +51,7 @@ Verdaderamente no se puede regresar por completo a eso, pero un grupo de desarro
 
 Gatsby es un generador de sitios estáticos que utilizando una fuente de datos (puede ser otro sitio, archivos físicos, una base de datos, etc... hasta una hoja de excel!) genera una página web que incluye las buenas prácticas y mejoras que necesitamos para tener un sitio web rápido y atractivo.
 
-[![GatsbyJS](./gatsby-logo-150x150.png)Gatsby JS](http://gatsbyjs.org "Gatsby Logo") un creador de sitios estáticos
+[![GatsbyJS](./gatsby-logo-150x150.png)Gatsby JS](https://gatsbyjs.org "Gatsby Logo") un creador de sitios estáticos
 
 Lo mejor es que al final lo que genera son archivos estáticos (HTML, JS y CSS) así que el costo de los recursos para poder tener un sitio web vuelven a ser los de 1997, sólo un espacio donde publicar archivos, sin necesidad de ningún lenguaje de programación y sin los riesgos de seguridad de una aplicación completa. De esa forma por ejemplo [una compañía](https://www.gatsbyjs.org/blog/2018-06-14-escalade-sports-from-5000-to-5-in-hosting/) pasó de pagar $5,000 dólares al mes en hosting a apenas $5
 

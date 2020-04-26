@@ -20,7 +20,7 @@ tags:
 
 Asumo que a muchos como a mi les habrá llegado hasta por rebote el famoso correo de que Supermaxi o Fybeca se aprovecha de nosotros con las donaciones y que lo "echan al gasto" para ahorrarse impuestos declarándolo como donaciones de la empresa.
 
-Escribo esto simplemente porque ya me exasperé de recibirlo tantas veces y de paso es **FALSO**.  Primero que nada, es un [**HOAX**](http://es.wikipedia.org/wiki/Bulo)(Bulo en español) o una simple cadena igual que la de esos que nos hacen creer que si reenviamos el correo se va a salvar un niño en la conchinchina porque monitorean nuestros correos y por **GASTAR** **DINERO** en eso van a regalarle algo para que sea feliz antes de morir a cuenta de que nosotros le hagamos perder el **TIEMPO** a un millón de personas.
+Escribo esto simplemente porque ya me exasperé de recibirlo tantas veces y de paso es **FALSO**.  Primero que nada, es un [**HOAX**](https://es.wikipedia.org/wiki/Bulo)(Bulo en español) o una simple cadena igual que la de esos que nos hacen creer que si reenviamos el correo se va a salvar un niño en la conchinchina porque monitorean nuestros correos y por **GASTAR** **DINERO** en eso van a regalarle algo para que sea feliz antes de morir a cuenta de que nosotros le hagamos perder el **TIEMPO** a un millón de personas.
 
 Bueno, para quienes les interese saber, de acuerdo a la ley tributaria actual del Ecuador, no existe la figura de donaciones como reductor de impuestos, eso existe en otros países como E.E.U.U. Así que con esa premisa todo el correo es simplemente basura, pero adicionalmente, lo único que hacen es cambiarle 2 a 3 palabras, más el nombre de la empresa y lo vuelven a regar, es decir que empeoran más la situación.
 

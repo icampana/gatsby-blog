@@ -16,7 +16,7 @@ tags:
 
 Esta vez quiero hablar de las mujeres, pero no de las que nos quitan el aliento al caminar, ni de las que muestran cada una de las delicadas líneas de su cuerpo, sino de las que están siempre detrás de nosotros, de aquellas que no les importa sacrificar todo por nosotros sin esperar nada a cambio, apenas un sencillo te quiero.
 
-Suena un poco cursi, pero realmente me puse a pensar sobre ello durante este fin de semana... Luego de pasar algunas horas conversando con mi mamá y luego con la mamá de mi [enamorada](http://nitadp.blogspot.com/) se cruzaron un montón de imágenes por mi cabeza, especialmente luego de escuchar cómo sacó fuerzas y valentía para poder salvar a su hija de lo que pudo haber sido su fin.
+Suena un poco cursi, pero realmente me puse a pensar sobre ello durante este fin de semana... Luego de pasar algunas horas conversando con mi mamá y luego con la mamá de mi [enamorada](https://nitadp.blogspot.com/) se cruzaron un montón de imágenes por mi cabeza, especialmente luego de escuchar cómo sacó fuerzas y valentía para poder salvar a su hija de lo que pudo haber sido su fin.
 
 Mientras escuchaba la historia estaba un poco aterrado imaginándome la sangre y la impresión al ver a su hija en riesgo (la historia completa no la cuento porque le quitaría el derecho a Nita- :P) Algunas de las cosas que pensé fueron: sería yo capaz de soportar ver a una hija corriendo tal peligro y permanecer calmado, sin volverme loco... apenas escuchaba la historia estaba aterrado... y eso que no tengo hijos, pero el sólo pensar en mis hermanos, en la situación, me congelaba, me quería inclusive hacer llorar de imaginarme en la situación de su padre, realmente se me partiría el alma.
 

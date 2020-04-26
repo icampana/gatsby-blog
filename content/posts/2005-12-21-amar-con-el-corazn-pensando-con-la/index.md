@@ -15,7 +15,7 @@ No sé si el título haya sido precisamente bien escogido, pero fue lo primero q
 
 Desde hace algún tiempo he conversado sobre el tema con un par de amigas, principalmente porque se han decepcionado de nosotros (los hombres), al final se quedan sin ganas de volver a ver uno ni siquiera pintado en la pared. Hay quienes inclusive cambian su forma de comportarse y de tratar, quedan heridas por dentro y sin poder dejar de pensar en que la siguiente persona con la que se topen les dará igual o peor trato.
 
-Sé que es difícil sobreponerse a una experiencia amarga, pero como comentaba hace unos días con uno de mis panas ([el viejo Lucho](http://decod.blogspot.com/)) , no se gana nada echándole la culpa a los demás, creyendo que todo es culpa del resto, lo mejor es convertirse en parte de la solución.
+Sé que es difícil sobreponerse a una experiencia amarga, pero como comentaba hace unos días con uno de mis panas ([el viejo Lucho](https://decod.blogspot.com/)) , no se gana nada echándole la culpa a los demás, creyendo que todo es culpa del resto, lo mejor es convertirse en parte de la solución.
 
 Por otro lado acepto también que muchas veces nosotros los hombres al pensar más con los genitales que con la cabeza solemos cometer muchos errores (el que diga que nunca ha cometido un error de esos que venga para postularlo a beato y de una vez comenzar a hacerle la estatua). Pero tampoco creo que no seamos capaces de querer y demostrarle a una persona que somos capaces de querer y de enamorarnos.
 

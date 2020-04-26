@@ -33,4 +33,4 @@ Si le sumamos el elemento de tecnología, ahora sí incluyendo lo que correspond
 En resumen, debemos cuidar lo que transmitimos a nuestros pares, dentro de nuestro círculo de amigos, familia y trabajo... Sin darnos cuenta lo que logremos a nuestro alrededor puede terminar cambiando a un grupo mucho más grande y definiendo reacciones...
 
 PD: Por si quieren ver el video original, aquí está el link:
-[www.ted.com/talks/nicholas_christakis_the_hidden_influence_of_social_networks.html](http://www.ted.com/talks/nicholas_christakis_the_hidden_influence_of_social_networks.html)
+[www.ted.com/talks/nicholas_christakis_the_hidden_influence_of_social_networks.html](https://www.ted.com/talks/nicholas_christakis_the_hidden_influence_of_social_networks.html)

@@ -15,6 +15,6 @@ tags:
 
 “Tratar de mejorarse a sí mismo es una empresa que suele dar mejor resultado que tratar de mejorar a los demás”.
 
-[NOEL CLARASÓ](http://es.wikipedia.org/wiki/Noel_Claras%C3%B3)
+[NOEL CLARASÓ](https://es.wikipedia.org/wiki/Noel_Claras%C3%B3)
 
-Visto en el Diario [El Universo](http://www.eluniverso.com/) del día 28 de julio de 2008
+Visto en el Diario [El Universo](https://www.eluniverso.com/) del día 28 de julio de 2008

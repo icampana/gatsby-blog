@@ -17,13 +17,13 @@ title: Entre amigos...
 wordpress_id: 840
 ---
 
-[![](./Imagen052.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SQK1xZSIs8I/AAAAAAAAA_Q/_34mVLM9oAY/s1600-h/Imagen052.jpg)"Siempre he dependido de la bondad de los extraños"
+[![](./Imagen052.jpg)](https://2.bp.blogspot.com/_T2UWuNJg3dQ/SQK1xZSIs8I/AAAAAAAAA_Q/_34mVLM9oAY/s1600-h/Imagen052.jpg)"Siempre he dependido de la bondad de los extraños"
 
 Blanche Dubois en ‘Un tranvía llamado deseo’
 
 Aunque la foto es un tanto vieja el escenario no ha cambiado, las mismas personas el mismo lugar pero en diferente época, los caballeros que ven ahí son Hector Napolitano (El Viejo Napo), Miguel Segovia (Segovita) y Juan Carlos Vergara (El Jefe Vergara). El motivo de reunión, el cumpleaños de Rubén Segovia (hermano de Segovita).
 
-Fui a parar en Ojos de Perro Azul (un bar muy agradable en la zona rosa de Guayaquil por si a algún turista le interesa.. El nombre también es un [cuento corto de Gabriel García Marquez](http://www.literatura.us/garciamarquez/perroazul.html)) realmente por casualidad, salía de ver la película XXY (ya comentaré luego al respecto) con unos amigos y me llamaron para juntarnos un rato, pues un amigo había regresado hace poco de un viaje por Argentina... Decidí ir y me encontré con muchas caras conocidas más otras desconocidas.
+Fui a parar en Ojos de Perro Azul (un bar muy agradable en la zona rosa de Guayaquil por si a algún turista le interesa.. El nombre también es un [cuento corto de Gabriel García Marquez](https://www.literatura.us/garciamarquez/perroazul.html)) realmente por casualidad, salía de ver la película XXY (ya comentaré luego al respecto) con unos amigos y me llamaron para juntarnos un rato, pues un amigo había regresado hace poco de un viaje por Argentina... Decidí ir y me encontré con muchas caras conocidas más otras desconocidas.
 
 Lo que me sorprendió y motivó este artículo fue que al llegar de repente nos estaban saludando y el mismo cumpleañero nos invitó a sentarnos con el resto del grupo, le dije que aún nos faltaba un amigo a lo que él respondió: "Pero si esta noche todos somos amigos, estamos entre amigos".
 

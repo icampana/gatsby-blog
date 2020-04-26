@@ -11,7 +11,7 @@ categories:
   - Sin categoría
 ---
 
-Últimamente he estado revisando todas las canciones de mi colección que no he escuchado en años (gracias al fabuloso [Amarok](http://amarok.kde.org/)) y me he encontrado con joyitas que casi mi memoria había olvidado, aunque todavía me quedan unos cuantos días de música por escuchar.
+Últimamente he estado revisando todas las canciones de mi colección que no he escuchado en años (gracias al fabuloso [Amarok](https://amarok.kde.org/)) y me he encontrado con joyitas que casi mi memoria había olvidado, aunque todavía me quedan unos cuantos días de música por escuchar.
 
 Para esos rockeros que le gustan los elfos (como dice un amigo a la música considerada como Metal Sinfónico), acá una de las canciones viejas de Mago de Oz, pero que sigue siendo vigente y es muy buena:
 

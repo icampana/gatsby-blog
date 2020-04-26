@@ -16,6 +16,6 @@ title: WTF en una piscina!
 wordpress_id: 751
 ---
 
-[![](./img_1273.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/Ske-0klEFXI/AAAAAAAACBs/PmgoxLluvVs/s1600-h/img_1273.jpg)
+[![](./img_1273.jpg)](https://4.bp.blogspot.com/_T2UWuNJg3dQ/Ske-0klEFXI/AAAAAAAACBs/PmgoxLluvVs/s1600-h/img_1273.jpg)
 
 Todas las reglas para una piscina me parecen normales excepto la resaltada... ja ja ja.. qué les habrá pasado XD

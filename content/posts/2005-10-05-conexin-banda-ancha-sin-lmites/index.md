@@ -17,8 +17,8 @@ Se ha creado un sitio web para recolectar firmas y enviar una carta a uno de los
 
 En fin, estos datos y otros más se han recolectado en la carta justamente para tratar de hacer que nos escuchen y nos tomen en cuenta, por lo que he leído la respuesta ha sido favorable, no se obtiene una solución aún, pero al menos nos están escuchando.
 
-Para quien quiera leer la [carta](http://sinlimites.hosting2.net/index.php?id=carta), siga este [link](http://sinlimites.hosting2.net/index.php?id=carta).
+Para quien quiera leer la [carta](https://sinlimites.hosting2.net/index.php?id=carta), siga este [link](http://sinlimites.hosting2.net/index.php?id=carta).
 
 Y si al final están de acuerdo con lo que se propone ahí, es cuestión de firmar y apoyar la propuesta, quizá no podemos ser nosotros directamente los que logremos el cambio, pero si convencemos a los "tomadores de decisiones" las cosas pueden ir tomando un buen rumbo.
 
-Keywords: [Banda Ancha](http://www.technorati.com/tag/Banda+Ancha), [Ecuador](http://www.technorati.com/tag/Ecuador)
+Keywords: [Banda Ancha](https://www.technorati.com/tag/Banda+Ancha), [Ecuador](http://www.technorati.com/tag/Ecuador)

@@ -21,7 +21,7 @@ Esto me causó gracia, justo antes de irme a dormir me fijo en el mensaje person
 
 <blockquote>"El odio nace del querer demasiado a alguien. Odiar a alguien es darle demasiado importancia (y a veces ni la tiene)."</blockquote>
 
-Pensé que algo le había pasado y se había inspirado para escribir algo así, pero resulta que simplemente es parte de una colección de frases de odio, por si alguien quiere revisarla, acá [el link](http://www.frasescelebres.net/frases-de-odio.html).
+Pensé que algo le había pasado y se había inspirado para escribir algo así, pero resulta que simplemente es parte de una colección de frases de odio, por si alguien quiere revisarla, acá [el link](https://www.frasescelebres.net/frases-de-odio.html).
 
 Lamentablemente ya no hay nada que inventar, todas las cosas que hayamos pensado como experiencias de los seres humanos no son nuevas, llevamos ya unos cuantos miles de años y aunque el escenario cambia la base del argumento no cambia, las mismas historias repitiéndose a lo largo del tiempo.
 

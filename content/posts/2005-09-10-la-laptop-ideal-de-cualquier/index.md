@@ -12,7 +12,7 @@ title: La laptop ideal de cualquier informático!
 wordpress_id: 982
 ---
 
-[![](http://photos1.blogger.com/blogger/5311/455/200/laptop_atom.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/laptop_atom.jpg)Hace unos pocos días se hizo el anuncio del lanzamiento de esta laptop de la compañía AtomChip, que estará disponible para finales de año.
+[![](https://photos1.blogger.com/blogger/5311/455/200/laptop_atom.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/laptop_atom.jpg)Hace unos pocos días se hizo el anuncio del lanzamiento de esta laptop de la compañía AtomChip, que estará disponible para finales de año.
 
 ¿Qué tiene de especial?
 
@@ -27,8 +27,8 @@ Y como para variar las dimensiones son las siguientes:
 - Profundidad: 22cm
   Lo único malo es que pesa algo así como 1.9Kg y pues eso como que me quebraría el hombro(bueno, no realmente, pero sí me causaría dolor al final del día después de cargarla de un lado para el otro), quizá a Andufo no le pese tanto como a mi... je je.
 
-Esto es por listar parte de las características más destacadas del bixo este, pero si quieren saber más pueden verlo en la [página oficial](http://atomchip.com/_wsn/page4.html).
+Esto es por listar parte de las características más destacadas del bixo este, pero si quieren saber más pueden verlo en la [página oficial](https://atomchip.com/_wsn/page4.html).
 
 Lo malo es que aún no tiene precio fijado y asumo que irá por los cielos, pero bue, si alguien quiere invertir en una de esas tendría buen tiempo para darle uso, o si me la quieren regalar por navidad mejor aún, je je je :P
 
-Keywords: [Tecnología](http://technorati.com/tag/Tecnolog%EDa), [Informática](http://technorati.com/tag/Informatica), [Atomchip](http://technorati.com/tag/AtomChip)
+Keywords: [Tecnología](https://technorati.com/tag/Tecnolog%EDa), [Informática](http://technorati.com/tag/Informatica), [Atomchip](http://technorati.com/tag/AtomChip)

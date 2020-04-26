@@ -17,7 +17,7 @@ title: Recordar viejos tiempos
 wordpress_id: 842
 ---
 
-[![](./Cains-BallRoom.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SPuRQvZHUhI/AAAAAAAAA_I/roCzWG9PU_E/s1600-h/Cain%27s+BallRoom.jpg)A muchas personas les he escuchado decir esa frase, que quieren recordar viejos tiempos, hacer que las cosas sean como antes o volver a vivir las mismas experiencias, lamentablemente, por más ganas e intenciones que se pueda tener, no hay forma de volver atrás, las condiciones nunca serán las mismas, las personas tienen reacciones y formas de actuar diferentes con el paso del tiempo.
+[![](./Cains-BallRoom.jpg)](https://3.bp.blogspot.com/_T2UWuNJg3dQ/SPuRQvZHUhI/AAAAAAAAA_I/roCzWG9PU_E/s1600-h/Cain%27s+BallRoom.jpg)A muchas personas les he escuchado decir esa frase, que quieren recordar viejos tiempos, hacer que las cosas sean como antes o volver a vivir las mismas experiencias, lamentablemente, por más ganas e intenciones que se pueda tener, no hay forma de volver atrás, las condiciones nunca serán las mismas, las personas tienen reacciones y formas de actuar diferentes con el paso del tiempo.
 
 A veces la ilusión de pensar que vamos a recuperar algo de lo que se quedó ahí en ese tiempo, en ese momento, con esas personas nos hace aventurarnos, aunque quizá el resultado pueda ser bueno, será por lo nuevo que encontramos en base a los recuerdos anteriores, pero para nada se puede basar únicamente en esos recuerdos.
 

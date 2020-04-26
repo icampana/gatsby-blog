@@ -15,7 +15,7 @@ tags:
   - Pensamientos
 ---
 
-<blockquote>"Señor, dame corazón para perdonar a mis enemigos y concédeme la gracia de verlos ahorcados un día" - [Juan Montalvo](http://es.wikipedia.org/wiki/Juan_Montalvo)</blockquote>
+<blockquote>"Señor, dame corazón para perdonar a mis enemigos y concédeme la gracia de verlos ahorcados un día" - [Juan Montalvo](https://es.wikipedia.org/wiki/Juan_Montalvo)</blockquote>
 
 <blockquote></blockquote>
 

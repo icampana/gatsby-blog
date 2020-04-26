@@ -11,7 +11,7 @@ categories:
   - Sin categoría
 ---
 
-[Pepe](http://pepezurita.blogspot.com/2006/01/cinco-extraos-hbitos.html) me ha retado y estas son las cosas más extrañas que hago (aunque me tardé un poquito en responder :P ) :
+[Pepe](https://pepezurita.blogspot.com/2006/01/cinco-extraos-hbitos.html) me ha retado y estas son las cosas más extrañas que hago (aunque me tardé un poquito en responder :P ) :
 
 - Leo periódicos así como revistas de atrás para adelante, no sé porqué pero me siento raro si comienzo a leer por la primera página siempre comienzo por la última y termino por la primera.
 - Cada vez que veo una película en mi casa y hay canguil (palomitas de maíz) me encanta ponerle limón encima (sabe riquísimo). Bueno, aunque eso ya se ha convertido en costumbre de mi familia, porque a todos nos gusta :P
@@ -22,4 +22,4 @@ categories:
 - Si me sirven algo(de tomar o comer) tengo la "necesidad" de terminármelo pronto, es como si no pudiera soportar que esté mucho tiempo frente a mí. (Eso no es conveniente cuando se trata de bebidas alcohólicas :S ).
   Me hubiera gustado pasar el reto a otros bloggeros, pero no tengo tantos conocidos que tengan un blog y a quienes se los podría pasar probablemente no lo contesten o alguien más ya los ha retado, así que ni modo XD.
 
-Keywords: [Rarezas](http://www.technorati.com/tags/rarezas), [Personal](http://www.technorati.com/tags/personal)
+Keywords: [Rarezas](https://www.technorati.com/tags/rarezas), [Personal](http://www.technorati.com/tags/personal)

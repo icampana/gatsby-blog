@@ -13,7 +13,7 @@ title: Ecuador entre los 10 mejores destinos para turismo de aventura según Nat
 wordpress_id: 977
 ---
 
-[![](http://photos1.blogger.com/blogger/5311/455/320/riachuelo.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/riachuelo.jpg)Hoy me encontré con esa noticia en el periódico, mientras leía los detalles de la Feria Internacional de Turismo y de cómo se va a emplear 1 millón de dólares para promocionar al Ecuador en Estados Unidos y Canadá como destino turístico. Muy buena la idea creo yo, pues hay mucho que mostrar aún en el país. Me parece interesante que se trate de explotar el turismo de aventura en las distintas regiones.
+[![](https://photos1.blogger.com/blogger/5311/455/320/riachuelo.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/riachuelo.jpg)Hoy me encontré con esa noticia en el periódico, mientras leía los detalles de la Feria Internacional de Turismo y de cómo se va a emplear 1 millón de dólares para promocionar al Ecuador en Estados Unidos y Canadá como destino turístico. Muy buena la idea creo yo, pues hay mucho que mostrar aún en el país. Me parece interesante que se trate de explotar el turismo de aventura en las distintas regiones.
 
 Luego pensando un poco de forma un tanto cómica, me imaginé un afiche promocional diciendo:
 
@@ -31,5 +31,5 @@ En fin todas las formas de "aventura" que vivimos día a día algunos para salir
 
 PD: Para esto, aún tengo la pica de ir a Mindo y aún no he puesto ni un sólo pie en las islas Galápagos, espero que algún rato se pueda :P.
 
-Via: [El Universo](http://www.eluniverso.com/2005/09/24/9/793415c0b74b43d8b2edad862cf1ddd5.html?EUID=)
-Keywords: [Turismo](http://www.technorati.com/tag/Turismo), [Ecuador](http://www.technorati.com/tag/Ecuador), [Aventura](http://www.technorati.com/tag/Aventura)
+Via: [El Universo](https://www.eluniverso.com/2005/09/24/9/793415c0b74b43d8b2edad862cf1ddd5.html?EUID=)
+Keywords: [Turismo](https://www.technorati.com/tag/Turismo), [Ecuador](http://www.technorati.com/tag/Ecuador), [Aventura](http://www.technorati.com/tag/Aventura)

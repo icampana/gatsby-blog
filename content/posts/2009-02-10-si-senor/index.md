@@ -17,7 +17,7 @@ title: ¡Sí Señor!
 wordpress_id: 795
 ---
 
-![](http://www.iwatchstuff.com/2007/11/06/yes-man-carrey-set.jpg)Sí señor! o Yes Man! La película que vi hace poco, espero no dañarle la película a nadie, pero me quedé con las ganas de comentar luego de analizarla un poco. La idea del "motivador" de hecho existe y es un concepto que se usa normalmente para conseguir que las personas se vuelvan más receptivas al mensaje que le quieres entregar, el de hablar siempre en positivo, aunque sea algo negativo darle la vuelta y ponerlo en positivo.
+![](https://www.iwatchstuff.com/2007/11/06/yes-man-carrey-set.jpg)Sí señor! o Yes Man! La película que vi hace poco, espero no dañarle la película a nadie, pero me quedé con las ganas de comentar luego de analizarla un poco. La idea del "motivador" de hecho existe y es un concepto que se usa normalmente para conseguir que las personas se vuelvan más receptivas al mensaje que le quieres entregar, el de hablar siempre en positivo, aunque sea algo negativo darle la vuelta y ponerlo en positivo.
 
 Muchas veces me han tachado personalmente de "calculador", en el sentido de que en mi cabeza todo debe tener un orden y que debo haber evaluado los posibles resultados. En general ese esquema es el que me ha ayudado, pero tampoco puedo negar que ha hecho que deje pasar algunas oportunidades por pensármelo demasiado.
 

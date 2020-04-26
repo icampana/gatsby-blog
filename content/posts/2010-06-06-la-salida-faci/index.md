@@ -15,7 +15,7 @@ tags:
   - Pensamientos
 ---
 
-[![](./caminante.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/TAsBIS0Ag8I/AAAAAAAACJk/eYSmSF2RWgg/s1600/caminante.jpg)
+[![](./caminante.jpg)](https://3.bp.blogspot.com/_T2UWuNJg3dQ/TAsBIS0Ag8I/AAAAAAAACJk/eYSmSF2RWgg/s1600/caminante.jpg)
 
 Con el paso del tiempo cada vez es más común ver anuncios de todo tipo que nos dicen cómo bajar de peso sin esfuerzo, cómo tener mejor sueldo sin esfuerzo, inclusive cómo ser felices sin esfuerzo, todo bajo la luz de alguna fórmula mágica o una solución que nos acorte el camino... Es como si quisieran que toda nuestra vida se basara en un infomercial...
 

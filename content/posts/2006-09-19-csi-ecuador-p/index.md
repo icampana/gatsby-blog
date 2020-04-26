@@ -19,7 +19,7 @@ La verdad es que de CSI tuvo poco (ya me gustaría poder ser como esos tipos y p
 
 La idea es que en una empresa "amiga" que se dedica a la comercialización de bienes raíces me habían contactado hace un buen tiempo para que los ayudara con la publicación de su página web, montar un poco la infraestructura informática y por último querían que les montara un sistema de correo masivo (cosa que no me simpatiza). Al final de cuentas no me dio el tiempo, además de que el ambiente no era muy agradable y peor aún la retribución monetaria, así que decidí decir que no y salirme del embrollo.
 
-Al poco tiempo me pidieron que les recomendara a alguien, no podían conseguir a alguien de confianza, hasta que finalmente decidieron llamar a un muchacho (estudiante de la [USCG](http://www.ucsg.edu.ec/)) que les había hecho su primer intento de página web. Una vez más me llamaron y me presentaron al tipo pidiendo que le diera un par de luces y que lo guiara un poco, di un par de indicaciones (comenzando con recomendarle que leyera la ley de comercio electrónico del Ecuador).
+Al poco tiempo me pidieron que les recomendara a alguien, no podían conseguir a alguien de confianza, hasta que finalmente decidieron llamar a un muchacho (estudiante de la [USCG](https://www.ucsg.edu.ec/)) que les había hecho su primer intento de página web. Una vez más me llamaron y me presentaron al tipo pidiendo que le diera un par de luces y que lo guiara un poco, di un par de indicaciones (comenzando con recomendarle que leyera la ley de comercio electrónico del Ecuador).
 
 Hasta ahí, fin de la historia para mi, una que otra llamada ocasional con alguna pregunta y me olvidé del tema, hasta hace un par de días en que recibí una llamada que me dejó helado, era del gerente de esa empresa, me preguntaba qué podía hacer con el chico, pues había estado robando información de la empresa y vendiéndosela a la competencia.
 
@@ -29,7 +29,7 @@ Fui, como diríamos por acá "hecho el cojudo" - para quienes no entiendan el t�
 
 Lo peor es que no sólo era sucio, sino de paso tonto, pues había dejado pistas por todos lados en ese computador, inclusive en los elementos de correo estaban las pruebas de que estaba ofreciendo a la competencia armar un sitio web idéntico al de la empresa en la que trabajaba actualmente :S
 
-Revisando la [Ley de comercio electrónico del Ecuador](http://www.corpece.org.ec/documentos/ley/ley_ce.htm), me encontré con este parrafo que corresponde a este tipo de delitos:
+Revisando la [Ley de comercio electrónico del Ecuador](https://www.corpece.org.ec/documentos/ley/ley_ce.htm), me encontré con este parrafo que corresponde a este tipo de delitos:
 
 <blockquote>Si la divulgación o la utilización fraudulenta se realiza por parte de la persona o personas encargadas de la custodia o utilización legítima de la información, éstas serán sancionadas con pena de reclusión menor de seis a nueve años y multa de dos mil a diez mil dólares de los Estados Unidos de Norteamérica.</blockquote>
 
@@ -41,4 +41,4 @@ Me pregunto ahora: ¿Acaso este tipo no recibió nunca formación ética en su c
 
 ¡Por el amor de Dios! Si tanto nos quejamos del país y su nivel de corrupción, comencemos en casa, estamos tan acostumbrados a las "mentiritas" o a las "vivezas" que no nos damos cuenta del daño que puede causar eso a la larga, si un niño se acostumbra a decir "mentiritas" por sus padres (la típica, si me llama fulanita dile que no estoy), ¿Cómo podemos esperar que sea una persona limpia a futuro?
 
-Keywords: [seguridad](http://www.technorati.com/tags/seguridad), [personal](http://www.technorati.com/tags/personal), [leyes](http://www.technorati.com/tags/leyes), [corrupción](http://www.technorati.com/tags/corrupci%C3%83%C2%B3n)
+Keywords: [seguridad](https://www.technorati.com/tags/seguridad), [personal](http://www.technorati.com/tags/personal), [leyes](http://www.technorati.com/tags/leyes), [corrupción](http://www.technorati.com/tags/corrupci%C3%83%C2%B3n)

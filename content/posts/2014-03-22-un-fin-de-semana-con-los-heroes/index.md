@@ -17,7 +17,7 @@ title: Un fin de semana con los "Héroes Innecesarios"
 wordpress_id: 719
 ---
 
-[![](./diego_cumple-1.jpg)](http://3.bp.blogspot.com/-vBUuZHGm0a0/Uyx7n76P4BI/AAAAAAAACsQ/KJFx18DeKOI/s1600/diego_cumple.jpg) Hace ya 2 semanas que recibí un correo dirigido hacia [Guayaquil en Bici](http://guayaquilenbici.org/), contándonos que había un par de argentinos que estaban recorriendo Sudamérica en bicicleta, que habían salido desde Santa Fe y ya estaban en Ecuador, específicamente en Guayaquil.
+[![](./diego_cumple-1.jpg)](https://3.bp.blogspot.com/-vBUuZHGm0a0/Uyx7n76P4BI/AAAAAAAACsQ/KJFx18DeKOI/s1600/diego_cumple.jpg) Hace ya 2 semanas que recibí un correo dirigido hacia [Guayaquil en Bici](http://guayaquilenbici.org/), contándonos que había un par de argentinos que estaban recorriendo Sudamérica en bicicleta, que habían salido desde Santa Fe y ya estaban en Ecuador, específicamente en Guayaquil.
 
 Curiosidades del destino, habían coincidido con 2 fechas especiales, una era el 8 de marzo (día internacional de la mujer) por la cual se había organizado un evento especial llamado "Rodada de Altura", el cual es de ámbito latinoamericano y ellos querían estar presentes el día del evento para registrar la actividad y conocer un poco más.
 
@@ -35,4 +35,4 @@ En nuestras vidas a menudo nos encontramos con momentos difíciles en los que si
 
 Es por ello que creo que Diego y Mariano no son unos Héroes Innecesarios, son realmente muy necesarios, son el tipo de ejemplos que hace falta ver para ponernos a pensar, para decir hoy voy a dar un paso adelante, recorrer un poco más, buscar lo que realmente me hace feliz, y si no lo conozco, seguir buscando, sin importar el destino el camino nos dará experiencias y probablemente no sólo una respuesta, sino sabiduría y abrir los ojos lo suficiente como para notar las cosas que estando ahí, tan cerca se nos hacen tan difíciles de disfrutar o de notar.
 
-Les recomiendo que le den un "me gusta" a su [fan page en Facebook](https://www.facebook.com/ASantaFe18924Km), y le den una mirada a lo que escriben periódicamente en su [blog](http://asantafe18924.blogspot.com/), para saber en qué parte de Sudamérica están, y ver fotografías impresionantes de las cosas que han visto y encontrado en el camino, quizá en algún momento los puedan conocer y compartir con ellos.
+Les recomiendo que le den un "me gusta" a su [fan page en Facebook](https://www.facebook.com/ASantaFe18924Km), y le den una mirada a lo que escriben periódicamente en su [blog](https://asantafe18924.blogspot.com/), para saber en qué parte de Sudamérica están, y ver fotografías impresionantes de las cosas que han visto y encontrado en el camino, quizá en algún momento los puedan conocer y compartir con ellos.

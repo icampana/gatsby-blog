@@ -15,9 +15,9 @@ tags:
   - Sexo
 ---
 
-[![](./Volver-Loca-1.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/TSyV-pln0jI/AAAAAAAACNU/6DPg-7jebUU/s1600/Volver-Loca.jpg)
+[![](./Volver-Loca-1.jpg)](https://4.bp.blogspot.com/_T2UWuNJg3dQ/TSyV-pln0jI/AAAAAAAACNU/6DPg-7jebUU/s1600/Volver-Loca.jpg)
 
-Hace algunos años escribí un [pequeño artículo](http://ivan.campananaranjo.com/2007/03/22/cmo-volver-loca-una-mujer-en-la-cama/) sobre un libro que compré llamado "Cómo volver loca a una mujer en la cama", no era algo específico o con muchos detalles, más bien hacía una reflexión sobre lo que me llevó a comprarlo y lo que encontré en sus primeras páginas, ahora revisando las estadísticas de mi blog me entero que muchas personas terminan llegando a mi página específicamente por ese tema, a pesar de que escribí algo muy sencillo, así que pensé que si tanto les interesa, escribiré una mezcla de lo que leí en aquel libro y parte de lo que yo considero son cosas importantes en ese aspecto.
+Hace algunos años escribí un [pequeño artículo](https://ivan.campananaranjo.com/2007/03/22/cmo-volver-loca-una-mujer-en-la-cama/) sobre un libro que compré llamado "Cómo volver loca a una mujer en la cama", no era algo específico o con muchos detalles, más bien hacía una reflexión sobre lo que me llevó a comprarlo y lo que encontré en sus primeras páginas, ahora revisando las estadísticas de mi blog me entero que muchas personas terminan llegando a mi página específicamente por ese tema, a pesar de que escribí algo muy sencillo, así que pensé que si tanto les interesa, escribiré una mezcla de lo que leí en aquel libro y parte de lo que yo considero son cosas importantes en ese aspecto.
 
 Al no ser un profesional titulado en sexología o algo relacionado como para poder hablar del tema con respaldo "legal", creo que si alguna mujer o un experto/a lee esto y considera que hay cosas que no son ciertas o deben mejorarse, son bienvenidas a opinar, argumentar y ayudar.
 
@@ -77,4 +77,4 @@ Creo que es con lo que puedo aportar, como dije anteriormente, no creo que esté
 
 Enjoy....
 
-**PD:** Para los que quieran leer un poco más o enterarse de tips, alguien que encontré por casualidad en Internet y hace comentarios muy interesantes es la sexóloga Alessia Di Bari, es una mexicana joven y sin miedo de abordar diferentes temas, la pueden encontrar en twitter: como [@sexologadibari](http://twitter.com/sexologadibari), en Facebook en [este grupo](http://es-la.facebook.com/group.php?gid=111673212179002), y su blog: [http://alessiadibari.wordpress.com/](http://alessiadibari.wordpress.com/)
+**PD:** Para los que quieran leer un poco más o enterarse de tips, alguien que encontré por casualidad en Internet y hace comentarios muy interesantes es la sexóloga Alessia Di Bari, es una mexicana joven y sin miedo de abordar diferentes temas, la pueden encontrar en twitter: como [@sexologadibari](https://twitter.com/sexologadibari), en Facebook en [este grupo](http://es-la.facebook.com/group.php?gid=111673212179002), y su blog: [http://alessiadibari.wordpress.com/](http://alessiadibari.wordpress.com/)

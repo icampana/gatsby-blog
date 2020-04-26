@@ -16,7 +16,7 @@ title: Guayaquil pueblo chico y las incongruencias de sus votos
 wordpress_id: 769
 ---
 
-[![](./ciudad324.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SfXNRiu9SMI/AAAAAAAABeE/P_yLxrBA_fY/s1600-h/ciudad324.jpg)El día de ayer (26 de abril de 2009) tuvimos elecciones en Ecuador y me tocó el deber cívico de estar en una de las JRV (Juntas Receptoras del Voto), razón por la cual entré a las 7 de la mañana al Colegio 28 de mayo y salí a las 10 de la noche :S
+[![](./ciudad324.jpg)](https://3.bp.blogspot.com/_T2UWuNJg3dQ/SfXNRiu9SMI/AAAAAAAABeE/P_yLxrBA_fY/s1600-h/ciudad324.jpg)El día de ayer (26 de abril de 2009) tuvimos elecciones en Ecuador y me tocó el deber cívico de estar en una de las JRV (Juntas Receptoras del Voto), razón por la cual entré a las 7 de la mañana al Colegio 28 de mayo y salí a las 10 de la noche :S
 
 En fin, no es que me pueda quejar, fue cansado, pero igual es bueno ver cómo funciona el proceso de votaciones del otro lado, nunca había estado en mesa. ¿Que si lo repetiría? Pues si me lo piden sí, claro que preferiría que no me lo pidan.. ja ja ja...
 

@@ -13,7 +13,7 @@ tags:
   - Curiosidades
 ---
 
-Desde hace un tiempo me comenzaron a llegar notificaciones de los correos de un par de amigas y amigos sobre una página llamada "[Sexy o No](http://www.sexyono.com)", como casi siempre, no le presto atención a esas invitaciones (ya que son bots que sólo quieren conseguir más visitas), a menos que sea algo que suene muy interesante.
+Desde hace un tiempo me comenzaron a llegar notificaciones de los correos de un par de amigas y amigos sobre una página llamada "[Sexy o No](https://www.sexyono.com)", como casi siempre, no le presto atención a esas invitaciones (ya que son bots que sólo quieren conseguir más visitas), a menos que sea algo que suene muy interesante.
 
 Pasaron los días y siguieron apareciendo invitaciones, decidí revisar de qué se trataba ante tanta insistencia, la idea es sencilla, publica tu foto haz que otros la califiquen y trata de conocer gente que te parezca agradable o a la que tú le parezcas agradable.
 
@@ -23,10 +23,10 @@ No sé si mi concepción esté equivocada, pero hasta donde yo recuerdo, sexy no
 
 Creo que ser sexy va más asociado a una actitud, hay mujeres que con sólo una mirada, una sonrisa o hasta diciendo algo pueden derretir a cualquiera, sin necesidad de haber mostrado nada extra, eso es ser realmente sexy.
 
-Para aterrizar un poco las cosas he consultado con el [diccionario de la RAE](http://www.rae.es/), de acuerdo a su definición:
+Para aterrizar un poco las cosas he consultado con el [diccionario de la RAE](https://www.rae.es/), de acuerdo a su definición:
 
 <blockquote>Sexy.-  adj. Que tiene atractivo físico y sexual. _Es muy _sexy_._</blockquote>
 
 Según dicha concepción no está limitado el significado, puede o no incluir el mostrar el cuerpo, en fin, aunque no puedo negar que cuando los hombres vemos "carne" no deja de ser atrayente, también hace que se activen los instintos básicos, así que... Uds. deciden chicas, quieren ser consideradas carne o mujeres sexys??
 
-Keywords: [personal](http://www.technorati.com/tags/personal), [sexy](http://www.technorati.com/tags/sexy)
+Keywords: [personal](https://www.technorati.com/tags/personal), [sexy](http://www.technorati.com/tags/sexy)

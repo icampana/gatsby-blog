@@ -16,7 +16,7 @@ tags:
   - Recuerdos
 ---
 
-![](http://www.minuto59.com/wp-content/uploads/2008/05/sex-and-the-city.gif)Una amiga a la que he llegado a apreciar mucho en los últimos meses (especialmente por escucharme y tenerme paciencia) estuvo a punto de hacerse acreedora a un pasaje ida y vuelta a puteadasgratis.com (noo, no existe el dominio así que ni lo busquen, es figurativo).
+![](https://www.minuto59.com/wp-content/uploads/2008/05/sex-and-the-city.gif)Una amiga a la que he llegado a apreciar mucho en los últimos meses (especialmente por escucharme y tenerme paciencia) estuvo a punto de hacerse acreedora a un pasaje ida y vuelta a puteadasgratis.com (noo, no existe el dominio así que ni lo busquen, es figurativo).
 
 ¿El motivo? De lo más bizarro, mientras comíamos con un par de amigos a alguien del lugar donde estábamos le sonó el teléfono con el ringtone de Sex And The City y mis amigos comenzaron a bromear sobre el porqué a las mujeres les gusta tanto esa serie, básicamente la idea de la broma era ponerse en plan machista y decir que era porque las tipas de la serie representaban una ilusión de mujeres liberales que las mujeres latinas no van a alcanzar en mucho.
 

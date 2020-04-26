@@ -21,11 +21,11 @@ Esto lo publiqué en mi blog dedicado a linux, debido a su extensión debi divid
 
 Aquí los links para quienes deseen leerlo y sacarle provecho:
 
-[Parte 1](http://caletalinux.blogspot.com/2006/11/armando-una-oficina-o-aula-de-clase.html) (Explicación del porqué hacerlo, costos, beneficios, etc.)
-[Parte 2](http://caletalinux.blogspot.com/2006/11/armando-una-oficina-o-aula-de-clase_12.html) (Instrucciones paso a paso de cómo levantar los servicios y configurarlos)
+[Parte 1](https://caletalinux.blogspot.com/2006/11/armando-una-oficina-o-aula-de-clase.html) (Explicación del porqué hacerlo, costos, beneficios, etc.)
+[Parte 2](https://caletalinux.blogspot.com/2006/11/armando-una-oficina-o-aula-de-clase_12.html) (Instrucciones paso a paso de cómo levantar los servicios y configurarlos)
 
 Como nota curiosa, de hecho yo utilicé el proceso descrito en la 2da parte para hacer que la computadora de mi papá (una máquina bastante viejita) funcione como terminal de la máquina que está en mi habitación, de esa forma puede tener un mejor rendimiento sin necesidad de comprar hardware nuevo.
 
 Si alguien encuentra algo que crean que deba añadirse o necesite mayor explicación, siéntanse libres de comentarmelo.
 
-Keywords: [Linux](http://www.technorati.com/tags/linux), [tutoriales](http://www.technorati.com/tags/tutoriales), [experimentos](http://www.technorati.com/tags/experimentos)
+Keywords: [Linux](https://www.technorati.com/tags/linux), [tutoriales](http://www.technorati.com/tags/tutoriales), [experimentos](http://www.technorati.com/tags/experimentos)

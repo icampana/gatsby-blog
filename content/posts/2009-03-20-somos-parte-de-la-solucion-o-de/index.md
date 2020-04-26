@@ -17,7 +17,7 @@ title: ¿Somos parte de la solución o del problema?
 wordpress_id: 784
 ---
 
-[![](./einstein.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/ScK3xflcKTI/AAAAAAAABZw/StisfsXmtfc/s1600-h/einstein.jpg)
+[![](./einstein.jpg)](https://2.bp.blogspot.com/_T2UWuNJg3dQ/ScK3xflcKTI/AAAAAAAABZw/StisfsXmtfc/s1600-h/einstein.jpg)
 
 Ante la crisis que hay actualmente, que realmente no es nueva, es más vieja que todos nosotros, la mejor forma de explicar la solución:
 

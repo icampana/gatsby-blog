@@ -17,7 +17,7 @@ tags:
 
 Desde hace muchos años han existido métodos utilizados por científicos, médicos, psiquiatras, vendedores y demás para de cierta forma "reprogramar" a una persona, o hacerlo creer que lo que se le está diciendo es lo que realmente quiere hacer.
 
-Pero, acabo de leer en [este artículo del New York Times](http://www.nytimes.com/2008/09/05/science/05brain.html?_r=3&partner=rssnyt&emc=rss&oref=slogin&oref=slogin&oref=slogin) que científicos de varias universidades e institutos lograron por primera vez "grabar" a las células de memoria buscar un recuerdo en nuestro cerebro. Pudiendo identificar cómo se recupera la información y dónde está ubicada en el cerebro.
+Pero, acabo de leer en [este artículo del New York Times](https://www.nytimes.com/2008/09/05/science/05brain.html?_r=3&partner=rssnyt&emc=rss&oref=slogin&oref=slogin&oref=slogin) que científicos de varias universidades e institutos lograron por primera vez "grabar" a las células de memoria buscar un recuerdo en nuestro cerebro. Pudiendo identificar cómo se recupera la información y dónde está ubicada en el cerebro.
 
 De acuerdo a esto cada vez que recordamos algo volvemos a vivirlo, generando nuevamente la misma sensación de alegría, felicidad, ira, rabia, dolor o enojo. Pero al mismo tiempo abre una puerta a posibilidades tan locas como las presentadas en algunas películas, para darles una idea: "Matrix", "Ghost in the Shell", "Eternal Sunshine of the Spotless Mind", "Demolition man".
 

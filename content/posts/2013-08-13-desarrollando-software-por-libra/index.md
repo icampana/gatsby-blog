@@ -17,13 +17,13 @@ title: Desarrollando software por libra...
 wordpress_id: 722
 ---
 
-Este simpático dibujo que publicó [Alejandro](http://alejandrovaras.blogspot.com/) en su perfil personal aunque me causó gracia por detrás va arrastrando un mensaje muy fuerte, y es algo que al día de hoy seguimos enfrentando en el mercado del desarrollo de software.  Si lo pusiéramos en términos sencillos se resume en "hacer software es algo que cualquiera puede hacer".
+Este simpático dibujo que publicó [Alejandro](https://alejandrovaras.blogspot.com/) en su perfil personal aunque me causó gracia por detrás va arrastrando un mensaje muy fuerte, y es algo que al día de hoy seguimos enfrentando en el mercado del desarrollo de software.  Si lo pusiéramos en términos sencillos se resume en "hacer software es algo que cualquiera puede hacer".
 
 La intangibilidad del software ha hecho que siempre sea difícil de cuantificar, a pesar de que tengamos el título de ingenieros para el común de la gente seguimos siendo los "técnicos de computadoras" o simplemente los "que arreglan aparatos".  He llegado a recibir comentarios tan cómicos como "oye, se me dañó el equipo de sonido, crees que lo puedas revisar? ¿Tú no sabes de eso, no es lo que estudiaste?".
 
 La verdad es que eso no puede estar más alejado de la realidad, muchas veces se confunde lo que somos y lo que hacemos.  La forma que normalmente utilizo para representarlo es con la comparación entre un veterinario y un médico, claro ambos se encargan de tratar enfermos, pero en lo que se parecen es poco y no pueden ni por lejos ser comparados.
 
-Sin embargo este [artículo en technorati](http://technorati.com/business/article/computer-science-vs-information-studies-vs/) resume bastante bien la diferencia básica y la confusión que se suele crear entre "Ciencias de la Computación" (Computer Science) e Informática.
+Sin embargo este [artículo en technorati](https://technorati.com/business/article/computer-science-vs-information-studies-vs/) resume bastante bien la diferencia básica y la confusión que se suele crear entre "Ciencias de la Computación" (Computer Science) e Informática.
 
 <blockquote>"Computer science is the grand-pappy of the Information Revolution. Heavy in math and theory, computer scientists solidly learn the foundation of computer methods. Comp-sci covers everything: networking, programming, theory, practice."</blockquote>
 

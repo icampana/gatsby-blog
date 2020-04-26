@@ -17,8 +17,8 @@ Esta es la opción que podrá encontrar en los e-books, muchas personas consider
 
 En caso de que no desee estar frente a la pantalla de su computador durante mucho tiempo sólo para leer un libro puede optar por pasarlo a su PDA(asistente digital personal) conocidas en nuestro medio como Palms,Pocket PCs o agendas electrónicas y llevar toda una colección de libros en su bolsillo. El costo de una herramienta de este estilo actualmente puede ir desde los $100 hasta loas $700 para las más sofisticadas, para hacer uso de los e-books se puede usar las más económicas, pero se recomienda tener al menos 32Mb de Ram y una buena resolución.
 
-Un buen punto de partida es la página [Gaiferos.com](http://www.gaiferos.com/), la cual tiene una amplia colección de libros en español ordenados por categorías y que son totalmente gratuitos.
+Un buen punto de partida es la página [Gaiferos.com](https://www.gaiferos.com/), la cual tiene una amplia colección de libros en español ordenados por categorías y que son totalmente gratuitos.
 
-O puede entrar a la biblioteca de [LibroDot.com](http://www.librodot.com/) que también incluye una amplia selección, inclusive se puede encontrar autores ecuatorianos.
+O puede entrar a la biblioteca de [LibroDot.com](https://www.librodot.com/) que también incluye una amplia selección, inclusive se puede encontrar autores ecuatorianos.
 
 En la red podrá encontrar muchos más sitios de este tipo, que tanto regalan o venden los libros, dependiendo de lo que desee conseguir.

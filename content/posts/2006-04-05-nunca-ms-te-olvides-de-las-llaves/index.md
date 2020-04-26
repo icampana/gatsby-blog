@@ -14,11 +14,11 @@ tags:
   - Tecnología
 ---
 
-[![](http://www.ounae.com/dotclear/images/Robotica/rfidleavehome_01.jpg)](http://www.ounae.com/dotclear/images/Robotica/rfidleavehome_01.jpg)Para los despistados como yo, un invento que reconoce los objetos que hayan sido "marcados" con un chip RFID, de esta forma si alguno de esos objetos se están quedando en casa inmediatamente el bichito de la foto se encarga de avisarme que se me está quedando tal o cual objeto.
+[![](https://www.ounae.com/dotclear/images/Robotica/rfidleavehome_01.jpg)](http://www.ounae.com/dotclear/images/Robotica/rfidleavehome_01.jpg)Para los despistados como yo, un invento que reconoce los objetos que hayan sido "marcados" con un chip RFID, de esta forma si alguno de esos objetos se están quedando en casa inmediatamente el bichito de la foto se encarga de avisarme que se me está quedando tal o cual objeto.
 
 Otra posible opción es lo contrario, salí con tales cosas y al regresar me puede avisar cuales se me quedaron, en teoría las aplicaciones son infinitas, pues un chip RFID se puede utilizar como un sticker que le pego a cualquier cosa y el costo es muy bajo (menos de \$1).
 
 En fin, con qué cosas más saldrán estos orientales :S
 
-Via: [ubiks.net](http://ubiks.net/local/blog/jmt/archives3/005193.html)
-Keywords: [RFID](http://www.technorati.com/tag/rfid), [tecnología](http://www.technorati.com/tag/tecnología)
+Via: [ubiks.net](https://ubiks.net/local/blog/jmt/archives3/005193.html)
+Keywords: [RFID](https://www.technorati.com/tag/rfid), [tecnología](http://www.technorati.com/tag/tecnología)

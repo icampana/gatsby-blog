@@ -14,7 +14,7 @@ tags:
   - Recuerdos
 ---
 
-Acabo de leer el blog de [Efecto Drago](http://ivan.campananaranjo.com/2007/04/21/embriagados-por-brisas-del-guayas/), en el cual hace referencia a un artículo de Santiago Roldós que salió en la revista Vistazo en el que habla sobre el "efecto" de las convivencias que teníamos en el colegio Cristóbal Colón, definitivamente tengo que comprar el número de esa revista, me ha hecho recordar mi paso por el Cristóbal.
+Acabo de leer el blog de [Efecto Drago](https://ivan.campananaranjo.com/2007/04/21/embriagados-por-brisas-del-guayas/), en el cual hace referencia a un artículo de Santiago Roldós que salió en la revista Vistazo en el que habla sobre el "efecto" de las convivencias que teníamos en el colegio Cristóbal Colón, definitivamente tengo que comprar el número de esa revista, me ha hecho recordar mi paso por el Cristóbal.
 
 Es verdad que siendo pelado(niño, para los que no conozcan la jerga ecuatoriana) tratan de hacerte creer que si te masturbas te va a caer casi casi un ejército de ángeles a darte palo y luego escupirte en la cara por sucio e inmoral :P.
 

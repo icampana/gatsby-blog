@@ -16,11 +16,11 @@ title: El primer emo ecuatoriano??
 wordpress_id: 876
 ---
 
-[![](./Medardo.jpg)](http://3.bp.blogspot.com/_T2UWuNJg3dQ/SJCL1hZeh1I/AAAAAAAAAho/THJ9XEqnXVI/s1600-h/Medardo.jpg)No es mi intención desmerecer o desacreditar a nuestro insigne poeta que fue parte de la "generación decapitada" (un grupo de poetas que murieron jóvenes), pero de acuerdo al concepto manejado por muchos jóvenes hoy en día se refiere a un estilo de vida asociado con su sensibilidad y la relación que tienen con su entorno, lo cual coincide con el perfil de [Medardo Angel Silva](http://es.wikipedia.org/wiki/Medardo_%C3%81ngel_Silva).
+[![](./Medardo.jpg)](https://3.bp.blogspot.com/_T2UWuNJg3dQ/SJCL1hZeh1I/AAAAAAAAAho/THJ9XEqnXVI/s1600-h/Medardo.jpg)No es mi intención desmerecer o desacreditar a nuestro insigne poeta que fue parte de la "generación decapitada" (un grupo de poetas que murieron jóvenes), pero de acuerdo al concepto manejado por muchos jóvenes hoy en día se refiere a un estilo de vida asociado con su sensibilidad y la relación que tienen con su entorno, lo cual coincide con el perfil de [Medardo Angel Silva](http://es.wikipedia.org/wiki/Medardo_%C3%81ngel_Silva).
 
 Buscando por internet me encontré con esta definición que coincide con las ideas que alguna vez escuché a un par de chicos que se consideraban a sí mismos como "emo"
 
-<blockquote>[**Definición de EMO, como Adjetivo**](http://enterhits.blogspot.com/2008/03/definicin-de-emo.html):  
+<blockquote>[**Definición de EMO, como Adjetivo**](https://enterhits.blogspot.com/2008/03/definicin-de-emo.html):  
 Como adjetivo, "emo" puede describirse como un estilo de comportamiento o un estado general de infelicidad o melancolía y muy sensibles. Es un estilo de vida que la gente adopta; en especial las personas de edad joven.</blockquote>
 
 En el caso del poeta Medardo Angel Silva, quien nació en Guayaquil, escribió un sinnúmero de poemas, entre los 17 y los 21 años (las causas de su muerte no quedaron claras, se presume suicidio por una decepción amorosa). Uno de los factores que incidieron en su actitud frente al mundo es que en el Guayaquil de ese entonces él vivió frente al cementerio, viendo desde su niñez como todo los días pasaban cortejos fúnebres, además perdió a su padre a muy corta edad.

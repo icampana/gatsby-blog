@@ -15,7 +15,7 @@ tags:
 
 Para quienes tienen o tenían en mente votar por "Alvarito" en las próximas elecciones, aquí un pequeño resumen del tipo de cosas "extrañas" que rodean a este personaje:
 
-[http://www.forbes.com/billionaires/free_forbes/2003/0317/108.html](http://www.forbes.com/billionaires/free_forbes/2003/0317/108.html)
+[http://www.forbes.com/billionaires/free_forbes/2003/0317/108.html](https://www.forbes.com/billionaires/free_forbes/2003/0317/108.html)
 
 Un artículo del año 2003 de la revista Forbes narra cómo llegó a apoderarse de la herencia de sus hermanos de manera un tanto dudosa.
 

@@ -38,7 +38,7 @@ Hace un buen tiempo un amigo que vive en los Estados Unidos vino a visitar a su 
 
 Al conversar me enteré que había cambiado el gimnasio por entrenamiento en casa, utilizando videos de ejercicios. En primera instancia no me parecía factible, ni que se pudiera lograr algún cambio sin ir a un gimnasio, pero ante los resultados que había visto en él, decidí investigar un poco más.
 
-El programa que él utilizó se llama **P90X** de la compañía [Beachbody](http://www.beachbody.com/) es súper famoso en EEUU, ha sido utilizado por varios famosos: **Pink, Taylor Lautner, Sheryl Crow, Jeny Garth, Demi Moore, Ashton Kutcher, Usher, Ewan McGregor** entre otros.
+El programa que él utilizó se llama **P90X** de la compañía [Beachbody](https://www.beachbody.com/) es súper famoso en EEUU, ha sido utilizado por varios famosos: **Pink, Taylor Lautner, Sheryl Crow, Jeny Garth, Demi Moore, Ashton Kutcher, Usher, Ewan McGregor** entre otros.
 
 Hasta ahí sigue sonando como a comercial de TV y no me sonaba nada creíble, así que pasé al siguiente punto, investigar en internet y ver reseñas, especialmente algunas que parecieran creíbles y que no fueran auspiciadas. En general encontré muy buenos comentarios, algunos en contra, pero nada malo realmente, tan sólo opiniones diferentes con respecto al programa.
 
@@ -54,11 +54,11 @@ En general me gustó, es como tener un entrenador personal que podemos llamar cu
 
 La pregunta más importante, una vez que terminé mi primera ronda, logré algo? Estos son parte de los resultados que registré después de 3 meses:
 
-[![](./antes_despues_p90X.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/TSn2Ib170rI/AAAAAAAACNI/uS6TUzWnqDA/s1600/antes_despues_p90X.jpg)
+[![](./antes_despues_p90X.jpg)](https://2.bp.blogspot.com/_T2UWuNJg3dQ/TSn2Ib170rI/AAAAAAAACNI/uS6TUzWnqDA/s1600/antes_despues_p90X.jpg)
 
 Resultado después de 3 meses
 
-[![](./frontal_flexionado.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/TSn6gHhetRI/AAAAAAAACNM/XLKyz8Spc7I/s1600/frontal_flexionado.jpg)
+[![](./frontal_flexionado.jpg)](https://4.bp.blogspot.com/_T2UWuNJg3dQ/TSn6gHhetRI/AAAAAAAACNM/XLKyz8Spc7I/s1600/frontal_flexionado.jpg)
 
 Si bien no se comparan con los resultados que otras personas han obtenido, yo me sentí más que satisfecho con lo que logré, tomando en cuenta que lo hago en mi casa, sin poner un pie en un gimnasio, a mi ritmo y en mi propio horario.
 

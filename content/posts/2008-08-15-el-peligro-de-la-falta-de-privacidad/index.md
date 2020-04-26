@@ -16,7 +16,7 @@ title: El peligro de la falta de privacidad
 wordpress_id: 867
 ---
 
-[![](./ftsurv.jpg)](http://2.bp.blogspot.com/_T2UWuNJg3dQ/SKVH8UohLzI/AAAAAAAAA0I/S7S_iSKi0Wg/s1600-h/ftsurv.jpg)El momento que a alguno de nosotros se le metió la idea en la cabeza por X razón de comenzar a escribir en un blog, ya sea por hobbie, por necedad o por el simple hecho de tener una ventana al mundo, todos corremos el mismo riesgo, no saber hasta qué punto podemos ser nosotros mismos sin dar demasiada información sobre lo que somos y lo que hacemos.
+[![](./ftsurv.jpg)](https://2.bp.blogspot.com/_T2UWuNJg3dQ/SKVH8UohLzI/AAAAAAAAA0I/S7S_iSKi0Wg/s1600-h/ftsurv.jpg)El momento que a alguno de nosotros se le metió la idea en la cabeza por X razón de comenzar a escribir en un blog, ya sea por hobbie, por necedad o por el simple hecho de tener una ventana al mundo, todos corremos el mismo riesgo, no saber hasta qué punto podemos ser nosotros mismos sin dar demasiada información sobre lo que somos y lo que hacemos.
 
 ¿Cuál es el riesgo de esto? Simple, hay muchísima gente que le tiene miedo o pavor a escuchar la palabra "hacker", piensan que es un tipo a lo Morpheus (de Matrix) que va a venir y les va a partir la cara y luego se va a conectar con un aparato misterioso a su computador para revelar toda la información... La verdad es que aunque sí se necesita tener un conocimiento moderado o avanzado para poder "hackear" a alguien, la técnica más comunmente utilizada y la más efectiva es la Ingeniería Social.
 

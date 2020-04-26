@@ -11,7 +11,7 @@ categories:
   - Sin categoría
 ---
 
-[Rudd-o](http://www.rudd-o.com) hace algunos días me puso la [tarea](http://rudd-o.com/archives/2006/01/30/meme-del-dia-mi-peor-accidente-de-transito/) de contar mi peor accidente de tránsito, la gente que me conoce desde el colegio probablemente la ha escuchado muchas veces, otros lo escucharan por primera vez. Aprovechando la situación he decidido contar la historia diferente a como siempre lo solía hacer, lo contaré no como sucedió cronológicamente, sino de la forma como yo lo viví (ya luego entenderán a que me refiero).
+[Rudd-o](https://www.rudd-o.com) hace algunos días me puso la [tarea](http://rudd-o.com/archives/2006/01/30/meme-del-dia-mi-peor-accidente-de-transito/) de contar mi peor accidente de tránsito, la gente que me conoce desde el colegio probablemente la ha escuchado muchas veces, otros lo escucharan por primera vez. Aprovechando la situación he decidido contar la historia diferente a como siempre lo solía hacer, lo contaré no como sucedió cronológicamente, sino de la forma como yo lo viví (ya luego entenderán a que me refiero).
 
 En los días en los que "descubrí" Internet (estaba a mediados de 4to curso del colegio) me la pasaba conectado por las madrugadas chateando y leyendo chorradas, razón por la cual casi siempre al día siguiente estaba dormido durante las primeras horas del día (eso me hacía acreedor a una buena puteada diaria por llegar tarde al cole).
 

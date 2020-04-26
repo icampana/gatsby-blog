@@ -23,4 +23,4 @@ La aplicación es sencilla, útil y lo mejor de todo, gratis :P... Esto sumado a
 
 Me pareció graciosa la idea de tratar de ponerle audio al micro cuento que escribí el lunes, acá por si quieren escuchar la calidad del servicio... ja ja.. aunque no se asusten, como diría un amigo, esa es mi voz "peluda" XD
 
-<blockquote>[Tentación](http://audioboo.fm/boos/46341-tentacion-micro-cuento)</blockquote>
+<blockquote>[Tentación](https://audioboo.fm/boos/46341-tentacion-micro-cuento)</blockquote>

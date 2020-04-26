@@ -13,7 +13,7 @@ categories:
 
 Alguno de los que pasan por aquí y leen esto han escuchado acaso la Marcha turca de la ruinas de Atena, compuesto por Beethoven... ?? Pues les cuento que sí y no sólo una vez, sino miles de veces. La han repetido, la han tarateado inclusive.. je je je... a que no adivinan cuál es??
 
-Pues [aquí](http://www.amautacorp.com/staff/e-van/sounds/mchturca2.mid) la versión en formato [MIDI](javascript:;) para que la escuchen y lo confirmen.
+Pues [aquí](https://www.amautacorp.com/staff/e-van/sounds/mchturca2.mid) la versión en formato [MIDI](javascript:;) para que la escuchen y lo confirmen.
 
 Ahora sí, la reconocen?? quien diga que no es porque en su vida ha visto el chavo del ocho!! Es impresionante como [Chespirito](javascript:;) ha utilizado montones de elementos clásicos, desde Chapplin hasta Beethoven para armar sus comedias, las cuales por cierto a pesar de su sencillez siguen haciéndonos reír una y otra vez a pesar de que pasen los años... El mismo chiste que hemos visto desde pequeños y que ya conocemos de memoria nos sigue haciendo reir más de 15 años después...
 
