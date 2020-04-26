@@ -19,7 +19,8 @@ collections:
   - name: "blog"
     label: "Blog Posts"
     label_singular: "Blog Post"
-    path: "content/posts/{{slug}}/index"
+    folder: "content/posts"
+    path: "{{slug}}/index"
     identifier_field: "title"
     create: true
     extension: "md"
