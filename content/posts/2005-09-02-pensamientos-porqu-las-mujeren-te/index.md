@@ -12,7 +12,7 @@ title: 'Pensamientos: ¿Porqué las mujeren te buscan más cuando no estás libr
 wordpress_id: 986
 ---
 
-[![](https://photos1.blogger.com/blogger/5311/455/320/happy-girlfriend1.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/happy-girlfriend1.jpg)¿Será cierto lo que dice la canción sobre las mujeres, donde dice que a ellas les gustan los hombres casados?
+[![](https://photos1.blogger.com/blogger/5311/455/320/happy-girlfriend1.jpg)](https://photos1.blogger.com/blogger/5311/455/1600/happy-girlfriend1.jpg)¿Será cierto lo que dice la canción sobre las mujeres, donde dice que a ellas les gustan los hombres casados?
 
 Pos tengo mis dudas, pero en una conversación reciente salió el tema de cómo típicamente cuando estás soltero(entiéndase por esto, sin pelada, sólo triste y abandonado, bueno, casi.. je je :P) y andas con las hormonas en ebullición no hay una que te pesque, pero cuando estás amarrado es como si de repente te envolviera un halo mágico que hace que te vean más atractivo de lo normal?
 

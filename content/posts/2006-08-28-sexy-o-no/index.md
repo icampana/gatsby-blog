@@ -29,4 +29,4 @@ Para aterrizar un poco las cosas he consultado con el [diccionario de la RAE](ht
 
 Según dicha concepción no está limitado el significado, puede o no incluir el mostrar el cuerpo, en fin, aunque no puedo negar que cuando los hombres vemos "carne" no deja de ser atrayente, también hace que se activen los instintos básicos, así que... Uds. deciden chicas, quieren ser consideradas carne o mujeres sexys??
 
-Keywords: [personal](https://www.technorati.com/tags/personal), [sexy](http://www.technorati.com/tags/sexy)
+Keywords: [personal](https://www.technorati.com/tags/personal), [sexy](https://www.technorati.com/tags/sexy)

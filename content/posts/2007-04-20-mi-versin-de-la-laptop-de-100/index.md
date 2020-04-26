@@ -18,7 +18,7 @@ wordpress_id: 910
 ---
 
 Laptop Tuning!  
-[![](https://farm1.static.flickr.com/175/465836267_a877d86a9a_m.jpg)](http://www.flickr.com/photos/76321258@N00/465836267/)  
+[![](https://farm1.static.flickr.com/175/465836267_a877d86a9a_m.jpg)](https://www.flickr.com/photos/76321258@N00/465836267/)  
  [Finalizando la capa de pinturaa](https://www.flickr.com/photos/76321258@N00/465836267/)
 
 [![](./DSC00673.jpg)](https://2.bp.blogspot.com/_T2UWuNJg3dQ/RigiyjGRX5I/AAAAAAAAAB8/A0csMbBd2bQ/s1600-h/DSC00673.JPG)  

@@ -12,7 +12,7 @@ title: Mi primer programa para celular
 wordpress_id: 970
 ---
 
-[![](https://photos1.blogger.com/blogger/5311/455/320/midp.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/midp.jpg)Después de todo parece que la falta de Internet en la casa sirve de algo, hace unos días vendí [mi Palm](http://ivan.campananaranjo.com/2005/09/28/palm-m515/), más que nada porque realmente le estaba dando muy poco uso(las citas y los contactos los sincronizo con el móvil y la compu), además el dinero nunca viene mal.
+[![](https://photos1.blogger.com/blogger/5311/455/320/midp.jpg)](https://photos1.blogger.com/blogger/5311/455/1600/midp.jpg)Después de todo parece que la falta de Internet en la casa sirve de algo, hace unos días vendí [mi Palm](https://ivan.campananaranjo.com/2005/09/28/palm-m515/), más que nada porque realmente le estaba dando muy poco uso(las citas y los contactos los sincronizo con el móvil y la compu), además el dinero nunca viene mal.
 
 Una de las pocas cosas que realmente sí extrañaba de la Palm es un programita que tenía que servía para llevar la lista de los préstamos que hacía y en qué gastaba mi dinero (tengo una memoria que da terror en cuanto a eso). Así que revisando un poco pensé en buscar alguna alternativa temporal que fuera mejor que el lápiz y el papel.
 
@@ -30,4 +30,4 @@ Y por último, los que tengan plan con Movistar, tienen bloqueado el menú de ap
 
 Se reciben comentarios, propuestas de mejora, adiciones, cadenas, relojes de oro, dinero en efectivo, juas juas... Por lo menos si le es útil a alguien, que envíe una tarjetita de agradecimiento :P
 
-Keywords: [Nokia](https://www.technorati.com/tag/Nokia), [MIDP](http://www.technorati.com/tag/MIDP), [Software](http://www.technorati.com/tag/Software)
+Keywords: [Nokia](https://www.technorati.com/tag/Nokia), [MIDP](https://www.technorati.com/tag/MIDP), [Software](https://www.technorati.com/tag/Software)

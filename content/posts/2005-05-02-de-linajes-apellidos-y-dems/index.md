@@ -12,7 +12,7 @@ title: De linajes, apellidos y demás...
 wordpress_id: 1002
 ---
 
-[![](https://photos1.blogger.com/img/39/1190/320/escudos_armas.jpg)](http://photos1.blogger.com/img/39/1190/640/escudos_armas.jpg)
+[![](https://photos1.blogger.com/img/39/1190/320/escudos_armas.jpg)](https://photos1.blogger.com/img/39/1190/640/escudos_armas.jpg)
 
 De acuerdo al sitio [linajes.net](https://www.linajes.net/) estos son los escudos de armas correspondientes a mis 2 apellidos :P
 

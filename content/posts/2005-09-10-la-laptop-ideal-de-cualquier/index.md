@@ -12,7 +12,7 @@ title: La laptop ideal de cualquier informático!
 wordpress_id: 982
 ---
 
-[![](https://photos1.blogger.com/blogger/5311/455/200/laptop_atom.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/laptop_atom.jpg)Hace unos pocos días se hizo el anuncio del lanzamiento de esta laptop de la compañía AtomChip, que estará disponible para finales de año.
+[![](https://photos1.blogger.com/blogger/5311/455/200/laptop_atom.jpg)](https://photos1.blogger.com/blogger/5311/455/1600/laptop_atom.jpg)Hace unos pocos días se hizo el anuncio del lanzamiento de esta laptop de la compañía AtomChip, que estará disponible para finales de año.
 
 ¿Qué tiene de especial?
 
@@ -31,4 +31,4 @@ Esto es por listar parte de las características más destacadas del bixo este, 
 
 Lo malo es que aún no tiene precio fijado y asumo que irá por los cielos, pero bue, si alguien quiere invertir en una de esas tendría buen tiempo para darle uso, o si me la quieren regalar por navidad mejor aún, je je je :P
 
-Keywords: [Tecnología](https://technorati.com/tag/Tecnolog%EDa), [Informática](http://technorati.com/tag/Informatica), [Atomchip](http://technorati.com/tag/AtomChip)
+Keywords: [Tecnología](https://technorati.com/tag/Tecnolog%EDa), [Informática](https://technorati.com/tag/Informatica), [Atomchip](https://technorati.com/tag/AtomChip)

@@ -28,4 +28,4 @@ Como nota curiosa, de hecho yo utilicé el proceso descrito en la 2da parte para
 
 Si alguien encuentra algo que crean que deba añadirse o necesite mayor explicación, siéntanse libres de comentarmelo.
 
-Keywords: [Linux](https://www.technorati.com/tags/linux), [tutoriales](http://www.technorati.com/tags/tutoriales), [experimentos](http://www.technorati.com/tags/experimentos)
+Keywords: [Linux](https://www.technorati.com/tags/linux), [tutoriales](https://www.technorati.com/tags/tutoriales), [experimentos](https://www.technorati.com/tags/experimentos)

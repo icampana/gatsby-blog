@@ -16,7 +16,7 @@ title: 10 razones por las que los emprendedores deberían tomar más vacaciones
 wordpress_id: 884
 ---
 
-[![](./galapagos1.jpg)](https://4.bp.blogspot.com/_T2UWuNJg3dQ/SINc0dl5xJI/AAAAAAAAAgQ/lDceVimqRIc/s1600-h/galapagos1.jpg)Poniéndome un poco al día luego de tener más tiempo libre de lo habitual me he encontrado con [este artículo](http://www.carlosmantero.com/10-razones-por-las-que-los-emprendedores-deberian-tomar-mas-vacaciones/) que trata de recordarnos a los "emprendedores" la importancia de saber poner pausas y no dejar que tu proyecto te coma la vida.
+[![](./galapagos1.jpg)](https://4.bp.blogspot.com/_T2UWuNJg3dQ/SINc0dl5xJI/AAAAAAAAAgQ/lDceVimqRIc/s1600-h/galapagos1.jpg)Poniéndome un poco al día luego de tener más tiempo libre de lo habitual me he encontrado con [este artículo](https://www.carlosmantero.com/10-razones-por-las-que-los-emprendedores-deberian-tomar-mas-vacaciones/) que trata de recordarnos a los "emprendedores" la importancia de saber poner pausas y no dejar que tu proyecto te coma la vida.
 
 No podría estar más de acuerdo, por mi lado estuve igual hasta el año pasado, casi sin parar, ahora estoy tratando de tomarlo un poco más suave, teniendo en cuenta las cosas y personas que me importan, el año pasado las vacaciones fueron a Santiago de Chile y Buenos Aires, este año espero que sea para El Cuzco a ver las ruinas de Machu Pichu o sino a las Galápagos (que las tengo pendientes desde hace un montón).
 

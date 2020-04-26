@@ -21,4 +21,4 @@ Adicionalmente ofrecen un conjunto de [herramientas](https://co.mments.com/accou
 
 Lo único malo (o al menos que me gustaría que tuviera) es que hay que agregar cada "conversación", "discusión" o "post" a la que quieras hacerle el seguimiento. Sería interesante agregar un blog cualquiera y que notifique sobre los comentarios que hay en general en todo el blog (aunque la verdad es pedir bastante al ser gratis :P ).
 
-Keywords: [novedades](https://www.technorati.com/tags/novedades), [commentarios](http://www.technorati.com/tags/comentarios), [blogger](http://www.technorati.com/tags/blogger)
+Keywords: [novedades](https://www.technorati.com/tags/novedades), [commentarios](https://www.technorati.com/tags/comentarios), [blogger](https://www.technorati.com/tags/blogger)

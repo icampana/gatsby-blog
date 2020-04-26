@@ -18,7 +18,7 @@ wordpress_id: 773
 
 [![](./img_0875.jpg)](https://2.bp.blogspot.com/_T2UWuNJg3dQ/Se2utRupucI/AAAAAAAABdM/Cu5xB9vBZ0E/s1600-h/img_0875.jpg)
 
-El día de mañana (22 de abril) se celebra el día de la tierra, por ese motivo el grupo de ciclismo [Ecuador Aventura](https://ecuadoraventura.org/) organizó un ciclopaseo a [General Villamil(Playas)](http://es.wikipedia.org/wiki/Cant%C3%B3n_Playas), es la playa más cercana a la ciudad (al menos que yo sepa), sin embargo sigue estando a 96 Km de Guayaquil. Por ello para poder hacer un recorrido que todos pudiéramos cubrir (hay gente de todas las edades) se hizo la partida desde Cerecita y otro grupo salió desde Progreso (el último tramo donde se recorrían cerca de 30 kilómetros)
+El día de mañana (22 de abril) se celebra el día de la tierra, por ese motivo el grupo de ciclismo [Ecuador Aventura](https://ecuadoraventura.org/) organizó un ciclopaseo a [General Villamil(Playas)](https://es.wikipedia.org/wiki/Cant%C3%B3n_Playas), es la playa más cercana a la ciudad (al menos que yo sepa), sin embargo sigue estando a 96 Km de Guayaquil. Por ello para poder hacer un recorrido que todos pudiéramos cubrir (hay gente de todas las edades) se hizo la partida desde Cerecita y otro grupo salió desde Progreso (el último tramo donde se recorrían cerca de 30 kilómetros)
 
 Hace mucho tiempo había escuchado sobre este tipo de recorridos y me quedó la idea dando vueltas en la cabeza, por ello me animé a participar y ver si lograría llegar hasta el destino final. Después de todo, a pesar de que actualmente llevo un nivel de entrenamiento relativamente estable a nivel físico, un recorrido sobre carretera, con herramientas, bebidas y sol a cuestas no es lo mismo que entrar a un gimnasio y quedarse por un rato.
 

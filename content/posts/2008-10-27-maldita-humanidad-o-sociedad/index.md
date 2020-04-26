@@ -15,7 +15,7 @@ title: Maldita humanidad... ¿o Sociedad?
 wordpress_id: 839
 ---
 
-[![](./babelposter.jpg)](https://2.bp.blogspot.com/_T2UWuNJg3dQ/SQUMsS6pqHI/AAAAAAAABIg/TfXJfNMId-s/s1600-h/babelposter.jpg)Poniéndome al día nuevamente en películas, terminé viendo 2 películas un tanto viejas, del 2006 y 2007 respectivamente, [Babel](http://www.imdb.com/title/tt0449467/) y [XXY](http://www.imdb.com/title/tt0995829/). Aunque de temáticas muy diferentes ambas resaltaban problemas del mundo.
+[![](./babelposter.jpg)](https://2.bp.blogspot.com/_T2UWuNJg3dQ/SQUMsS6pqHI/AAAAAAAABIg/TfXJfNMId-s/s1600-h/babelposter.jpg)Poniéndome al día nuevamente en películas, terminé viendo 2 películas un tanto viejas, del 2006 y 2007 respectivamente, [Babel](https://www.imdb.com/title/tt0449467/) y [XXY](https://www.imdb.com/title/tt0995829/). Aunque de temáticas muy diferentes ambas resaltaban problemas del mundo.
 
 Por un lado en Babel muestran los diferentes conflictos que se pueden formar alrededor de un grupo de personas de distintas partes del mundo que sin saberlo están conectados y cada uno tiene un "idioma" diferente, desde los idiomas reconocibles fácilmente como el español, inglés, japonés y árabe, está el otro lenguaje que es el de las señas (para sordomudos). Esto nos recuerda la fragilidad de las relaciones interpersonales, si nosotros creemos que es difícil relacionarnos con nuestros vecinos o las personas cercanas, imaginen ahora con culturas y lenguajes totalmente diferentes y la resistencia a aceptar la realidad de las otras personas, siempre vamos a tratar de "medirlos" o adaptarlos en base a lo que nosotros consideramos como normal o como lo que nosotros consideramos que debe ser.
 

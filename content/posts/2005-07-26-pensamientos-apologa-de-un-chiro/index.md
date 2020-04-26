@@ -17,7 +17,7 @@ title: 'Pensamientos: Apología de un chiro...'
 wordpress_id: 991
 ---
 
-[![](https://photos1.blogger.com/blogger/5311/455/200/no_money.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/no_money.jpg)Ante todo para quien no conozca el léxico utilizado en Ecuador, se conoce como chiro a toda aquella persona que se encuentre con un límite de dinero bastante restringido (por no decir que es necesario controlar todos y cada uno de los gastos, en pocas palabras quien no tiene un centavo o apenas tiene uno partido por la mitad** :P**).
+[![](https://photos1.blogger.com/blogger/5311/455/200/no_money.jpg)](https://photos1.blogger.com/blogger/5311/455/1600/no_money.jpg)Ante todo para quien no conozca el léxico utilizado en Ecuador, se conoce como chiro a toda aquella persona que se encuentre con un límite de dinero bastante restringido (por no decir que es necesario controlar todos y cada uno de los gastos, en pocas palabras quien no tiene un centavo o apenas tiene uno partido por la mitad** :P**).
 
 Se puede comprobar el significado de esta y otras palabras ecuatorianas o netamente guayacas en el [Diccionario de términos del habla guayaquileña](https://www.geocities.com/NapaValley/1155/g_slang_ch.html) (Vale la pena revisar, muy chistoso y no sabía que teníamos tantos términos :P) En fin, no es un estado que sea de mi agrado, pero a veces es inevitable llegar a ese punto.
 

@@ -12,7 +12,7 @@ title: De alegrías mundiales y falsos patriotas
 wordpress_id: 937
 ---
 
-[![](https://photos1.blogger.com/blogger/5311/455/200/bandera_ecuador.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/bandera_ecuador.jpg)Un poco tarde pero no he querido quedarme con la espinita en la garganta, es decir, con ganas de expresar lo que ha pasado por mi cabeza a partir de este mundial de fútbol.
+[![](https://photos1.blogger.com/blogger/5311/455/200/bandera_ecuador.jpg)](https://photos1.blogger.com/blogger/5311/455/1600/bandera_ecuador.jpg)Un poco tarde pero no he querido quedarme con la espinita en la garganta, es decir, con ganas de expresar lo que ha pasado por mi cabeza a partir de este mundial de fútbol.
 
 Muchos lo saben y para quien no lo sepa, no me gusta el fútbol (para los que salen con las bromas típicas para informáticos, NO ni siquiera en juegos de compu), pero no hay que negar que sí me emocionó mucho ver los partidos de la selección ecuatoriana en este mundial, principalmente porque representaba las ilusiones de muchas personas y porque era una oportunidad de mostrar otra cara del país, principalmente en Europa donde ya ha quedado una marca por la cantidad de ecuatorianos que han migrado hacia allí de forma irregular.
 
@@ -29,4 +29,4 @@ En resumen, no digo que no debamos celebrar cuando alguno de nuestros deportista
 Actualización: Acabo de recibir un correo de una colega que me comenta sobre una entrevista que le hicieron a un par de jugadores de la selección que salieron de un sector muy pobre de nuestro país, esto sí que es una buena razón para apoyar al fútbol:
 [Equipo lleva felicidad a todo un pueblo ( via Chron - HoustonCronicle.com)](https://www.chron.com/disp/story.mpl/sp/wc/lopez/4001531.html)
 
-Keywords: [Ecuador](https://www.technorati.com/tags/Ecuador), [Fútbol](http://www.technorati.com/tags/Fútbol), [Selección](http://www.technorati.com/tags/Selección), [Patriota](http://www.technorati.com/tags/Patriota)
+Keywords: [Ecuador](https://www.technorati.com/tags/Ecuador), [Fútbol](https://www.technorati.com/tags/Fútbol), [Selección](https://www.technorati.com/tags/Selección), [Patriota](https://www.technorati.com/tags/Patriota)

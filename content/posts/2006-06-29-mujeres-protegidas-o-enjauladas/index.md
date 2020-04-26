@@ -14,7 +14,7 @@ title: ¿Mujeres protegidas o enjauladas?
 wordpress_id: 936
 ---
 
-[![](https://photos1.blogger.com/blogger/5311/455/200/wecanhelp.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/wecanhelp.jpg)Hace mucho tiempo tuve una relación muy bonita, en donde tuve que recordar muchas cosas que había olvidado pues llevaba mucho tiempo sin tener una pareja estable (principalmente porque nuestra "querida" universidad no dejaba tiempo para nada).
+[![](https://photos1.blogger.com/blogger/5311/455/200/wecanhelp.jpg)](https://photos1.blogger.com/blogger/5311/455/1600/wecanhelp.jpg)Hace mucho tiempo tuve una relación muy bonita, en donde tuve que recordar muchas cosas que había olvidado pues llevaba mucho tiempo sin tener una pareja estable (principalmente porque nuestra "querida" universidad no dejaba tiempo para nada).
 
 Entre presiones externas y un viaje que tuve que realizar fuera del país (estuve 7 meses fuera), la relación se debilitó y terminamos, sí me dolió, pero quedamos en buenos términos y mantuvimos la amistad.
 
@@ -46,5 +46,5 @@ Algo de mis creencias, las personas NO cambian, tan sólo se adaptan. En el caso
 
 La única forma de lograr un cambio es cuando son las mismas personas quienes lo quieren generar, no puede ser creado por otra persona, necesita convicción, muchísimo esfuerzo y toma tiempo.
 
-Keywords: [Relaciones](https://www.technorati.com/tags/Relaciones), [Personal](http://www.technorati.com/tags/Personal), [Mujeres
+Keywords: [Relaciones](https://www.technorati.com/tags/Relaciones), [Personal](https://www.technorati.com/tags/Personal), [Mujeres
 ](https://www.technorati.com/tags/Mujeres)

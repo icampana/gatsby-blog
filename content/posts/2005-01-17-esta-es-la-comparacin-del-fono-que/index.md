@@ -12,5 +12,5 @@ title: No Content Found
 wordpress_id: 1030
 ---
 
-[![](https://photos1.blogger.com/img/39/1190/320/telefonos.jpg)](http://photos1.blogger.com/img/39/1190/640/telefonos.jpg)  
+[![](https://photos1.blogger.com/img/39/1190/320/telefonos.jpg)](https://photos1.blogger.com/img/39/1190/640/telefonos.jpg)  
 Esta es la comparación del fono que encontré mientras levantaba el polvo de mi cuarto y mi teléfono actual, eso que el actual también ya está listo para enviarlo al bote de la basura... je je je

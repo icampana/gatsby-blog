@@ -12,7 +12,7 @@ title: 'Curiosidades: Comics gratis!'
 wordpress_id: 987
 ---
 
-[![](https://photos1.blogger.com/blogger/5311/455/320/pvcomics2.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/pvcomics2.jpg)Caminando por el bosque con un monstruo me encontré, como no tenía nombre de Esteban me acordé... je je, digo navegando en Internet, bueno, tampoco me encontré un monstruo y para quien lo pensara, tampoco hablo de mi pana Esteban, simplemente fue el primer nombre que se me vino a la cabeza, pero en fin la cosa es que lo encontré :P
+[![](https://photos1.blogger.com/blogger/5311/455/320/pvcomics2.jpg)](https://photos1.blogger.com/blogger/5311/455/1600/pvcomics2.jpg)Caminando por el bosque con un monstruo me encontré, como no tenía nombre de Esteban me acordé... je je, digo navegando en Internet, bueno, tampoco me encontré un monstruo y para quien lo pensara, tampoco hablo de mi pana Esteban, simplemente fue el primer nombre que se me vino a la cabeza, pero en fin la cosa es que lo encontré :P
 
 Una vez más navegando y buscando una cosa en específico encontré otra cosa que no tiene nada que ver, un sitio de comics on-line gratuitos llamado [PV Comics](https://www.pvcomics.com/).
 

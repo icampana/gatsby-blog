@@ -41,4 +41,4 @@ Me pregunto ahora: ¿Acaso este tipo no recibió nunca formación ética en su c
 
 ¡Por el amor de Dios! Si tanto nos quejamos del país y su nivel de corrupción, comencemos en casa, estamos tan acostumbrados a las "mentiritas" o a las "vivezas" que no nos damos cuenta del daño que puede causar eso a la larga, si un niño se acostumbra a decir "mentiritas" por sus padres (la típica, si me llama fulanita dile que no estoy), ¿Cómo podemos esperar que sea una persona limpia a futuro?
 
-Keywords: [seguridad](https://www.technorati.com/tags/seguridad), [personal](http://www.technorati.com/tags/personal), [leyes](http://www.technorati.com/tags/leyes), [corrupción](http://www.technorati.com/tags/corrupci%C3%83%C2%B3n)
+Keywords: [seguridad](https://www.technorati.com/tags/seguridad), [personal](https://www.technorati.com/tags/personal), [leyes](https://www.technorati.com/tags/leyes), [corrupción](https://www.technorati.com/tags/corrupci%C3%83%C2%B3n)

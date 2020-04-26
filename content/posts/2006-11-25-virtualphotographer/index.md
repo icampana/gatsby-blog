@@ -16,7 +16,7 @@ title: virtualPhotographer
 wordpress_id: 919
 ---
 
-[![](https://www.optikvervelabs.com/images/composite.jpg)](http://www.optikvervelabs.com/images/composite.jpg)Las típicas cosas que se suelen encontrar mientras no las estás buscando, pero en este caso fue un muy buen hallazgo.
+[![](https://www.optikvervelabs.com/images/composite.jpg)](https://www.optikvervelabs.com/images/composite.jpg)Las típicas cosas que se suelen encontrar mientras no las estás buscando, pero en este caso fue un muy buen hallazgo.
 
 [Virtual Photographer](https://www.optikvervelabs.com/) es un plugin gratuito que puede servir para Fireworks o Photoshop que permite aplicar un sinnúmero de efectos que le darán una apariencia más profesional.
 
@@ -24,6 +24,6 @@ Lo probé utilizando Fireworks y un par de fotos que tenía a la mano y la verda
 
 Aquí un ejemplo:
 
-[![](https://photos1.blogger.com/x/blogger/5311/455/320/648772/e-van_collage.jpg)](http://photos1.blogger.com/x/blogger/5311/455/1600/179045/e-van_collage.jpg)
+[![](https://photos1.blogger.com/x/blogger/5311/455/320/648772/e-van_collage.jpg)](https://photos1.blogger.com/x/blogger/5311/455/1600/179045/e-van_collage.jpg)
 
-Keywords: [Imágenes](https://www.technorati.com/tags/im%C3%A1genes), [trucos](http://www.technorati.com/tags/trucos)
+Keywords: [Imágenes](https://www.technorati.com/tags/im%C3%A1genes), [trucos](https://www.technorati.com/tags/trucos)

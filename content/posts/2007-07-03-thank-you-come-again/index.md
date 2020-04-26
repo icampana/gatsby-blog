@@ -16,7 +16,7 @@ title: Thank you, come again!
 wordpress_id: 906
 ---
 
-[![](https://farm2.static.flickr.com/1006/686780170_b6765b12fb.jpg?v=0)](http://farm2.static.flickr.com/1006/686780170_b6765b12fb.jpg?v=0)Probablemente esto ya es noticia vieja para algunos, la cadena de supermercados 7-11 decidió convertir la apariencia de sus locales para que luzcan como el kwik-E-mart, el mini-mercado de Apu Nahasapeemapetilon, en los Simpsons.
+[![](https://farm2.static.flickr.com/1006/686780170_b6765b12fb.jpg?v=0)](https://farm2.static.flickr.com/1006/686780170_b6765b12fb.jpg?v=0)Probablemente esto ya es noticia vieja para algunos, la cadena de supermercados 7-11 decidió convertir la apariencia de sus locales para que luzcan como el kwik-E-mart, el mini-mercado de Apu Nahasapeemapetilon, en los Simpsons.
 
 Todo esto para promocionar la película de los Simpsons.
 

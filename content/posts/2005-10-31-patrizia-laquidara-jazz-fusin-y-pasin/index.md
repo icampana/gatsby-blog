@@ -12,7 +12,7 @@ title: Patrizia Laquidara, jazz, fusión y pasión
 wordpress_id: 967
 ---
 
-[![](https://photos1.blogger.com/blogger/5311/455/200/laquidara2.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/laquidara2.jpg)[![](http://photos1.blogger.com/blogger/5311/455/200/laquidara.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/laquidara.jpg)[![](http://photos1.blogger.com/blogger/5311/455/1600/bentivoglio03.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/bentivoglio03.jpg)Casi sin pensarlo o planificarlo llegué a escuchar el nombre de esta artista italiana que me dejó estupefacto, no sólo llama la atención por su belleza, sino por su sencillez y por la increíble voz que tiene.
+[![](https://photos1.blogger.com/blogger/5311/455/200/laquidara2.jpg)](https://photos1.blogger.com/blogger/5311/455/1600/laquidara2.jpg)[![](https://photos1.blogger.com/blogger/5311/455/200/laquidara.jpg)](https://photos1.blogger.com/blogger/5311/455/1600/laquidara.jpg)[![](https://photos1.blogger.com/blogger/5311/455/1600/bentivoglio03.jpg)](https://photos1.blogger.com/blogger/5311/455/1600/bentivoglio03.jpg)Casi sin pensarlo o planificarlo llegué a escuchar el nombre de esta artista italiana que me dejó estupefacto, no sólo llama la atención por su belleza, sino por su sencillez y por la increíble voz que tiene.
 
 Días atrás había leído en el diario sobre la presentación de esta artista, realmente no le presté mucha atención excepto porque me habían comentado sobre la posibilidad de ir, así que me predispuse para disfrutar de la velada, después de todo me encanta la música en casi todas sus representaciones.
 

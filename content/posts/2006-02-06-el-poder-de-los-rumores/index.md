@@ -11,7 +11,7 @@ categories:
   - Sin categoría
 ---
 
-[![](https://www.emergencemarketing.com/images/whisper%20small.jpg)](http://www.emergencemarketing.com/images/whisper%20small.jpg)Ante todo, debo confesar que al escribir este post me encontraba un tanto enojado, aún así trataré de mantener la cabeza fría para ser lo más objetivo posible.
+[![](https://www.emergencemarketing.com/images/whisper%20small.jpg)](https://www.emergencemarketing.com/images/whisper%20small.jpg)Ante todo, debo confesar que al escribir este post me encontraba un tanto enojado, aún así trataré de mantener la cabeza fría para ser lo más objetivo posible.
 
 "Si no tienes nada bueno que decir de alguien, entonces no digas nada".
 

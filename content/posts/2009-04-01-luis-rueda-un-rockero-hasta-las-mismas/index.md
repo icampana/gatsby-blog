@@ -20,7 +20,7 @@ Para quienes lleguen por acá y no sean de Ecuador o no conozcan la jerga que a 
 
 Justo durante la mudanza de un depa al otro encontré que entre mis pertenencias tenía un disco de Luis Rueda, ni siquiera sé porqué estaba ahí cogiendo polvo, revisé mi colección de música en la compu y no lo había digitalizado, así que lo hice y procedí a escuchar el disco de corrido (el disco era: Yo Lucho & Lo Demás Rueda), recordaba algunas de las canciones, pero otras ni siquiera me sonaban el nombre, así que le presté atención a todas y cada una, siempre me ha gustado su música, desde la época de la Trifullka que era más básica la música, pero siempre llena de fuerza...
 
-Mientras le quería hacer escuchar una canción en específico a una amiga terminé encontrando dos cosas, una el [blog de Luis Rueda](https://luisrueda.blogspot.com/) y dos otro blog donde se pueden descargar una canción de ese disco que es muuuuy buena, sea llama transparente y la pueden escuchar [acá (el blog de Palulo)](http://palulo.ec/blog/transparente/).
+Mientras le quería hacer escuchar una canción en específico a una amiga terminé encontrando dos cosas, una el [blog de Luis Rueda](https://luisrueda.blogspot.com/) y dos otro blog donde se pueden descargar una canción de ese disco que es muuuuy buena, sea llama transparente y la pueden escuchar [acá (el blog de Palulo)](https://palulo.ec/blog/transparente/).
 
 En fin, ya estoy de seguidor de la página de Luis Rueda y espero que este pequeño post ayude a promocionar un poco más la música de este músico ecuatoriano que lleva ya buen tiempo sacando adelante su música con esfuerzo y merece ocupar su lugar.
 

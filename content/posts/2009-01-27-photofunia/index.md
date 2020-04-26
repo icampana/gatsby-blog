@@ -16,7 +16,7 @@ title: Photofunia
 wordpress_id: 802
 ---
 
-Aunque originalmente iba a escribir sobre mi viacrucis para tratar de renovar mi licencia de conducir y mandar a la punta de un cuerno a la [CTG](https://www.ctg.gov.ec/) (ya llevo 2 días sin que me atiendan) he preferido hablar sobre algo más divertido que aunque a mi me llegó tarde (medio mundo ya lo está utilizando) me parece super entretenido, el sitio [PhotoFunia](http://www.photofunia.com/).
+Aunque originalmente iba a escribir sobre mi viacrucis para tratar de renovar mi licencia de conducir y mandar a la punta de un cuerno a la [CTG](https://www.ctg.gov.ec/) (ya llevo 2 días sin que me atiendan) he preferido hablar sobre algo más divertido que aunque a mi me llegó tarde (medio mundo ya lo está utilizando) me parece super entretenido, el sitio [PhotoFunia](https://www.photofunia.com/).
 
 Este sitio permite subir una fotografía, detecta los rostros de la imagen y permite aplicar efectos muy simpáticos que crean ilusiones bastante convincentes algunas y otras muy chistosas, en todo caso como dicen los de Coca Cola®... Enjoy...
 

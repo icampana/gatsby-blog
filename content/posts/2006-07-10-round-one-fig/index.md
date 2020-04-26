@@ -20,4 +20,4 @@ Lo encontró sin querer mi hermano en el [foro de Mike Portnoy](https://www.mike
 
 Aparte está este jueguito en flash : [http://widelec.org/zidane.html](https://www.gazzetta.it/openxlink.shtml?http://widelec.org/zidane.html)
 
-Keywords: [Fútbol](https://www.technorati.com/tags/Futbol), [Chistes](http://www.technorati.com/tags/Chistes), [Zidane](http://www.technorati.com/tags/Zidane)
+Keywords: [Fútbol](https://www.technorati.com/tags/Futbol), [Chistes](https://www.technorati.com/tags/Chistes), [Zidane](https://www.technorati.com/tags/Zidane)

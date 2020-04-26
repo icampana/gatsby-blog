@@ -22,4 +22,4 @@ categories:
 - Si me sirven algo(de tomar o comer) tengo la "necesidad" de terminármelo pronto, es como si no pudiera soportar que esté mucho tiempo frente a mí. (Eso no es conveniente cuando se trata de bebidas alcohólicas :S ).
   Me hubiera gustado pasar el reto a otros bloggeros, pero no tengo tantos conocidos que tengan un blog y a quienes se los podría pasar probablemente no lo contesten o alguien más ya los ha retado, así que ni modo XD.
 
-Keywords: [Rarezas](https://www.technorati.com/tags/rarezas), [Personal](http://www.technorati.com/tags/personal)
+Keywords: [Rarezas](https://www.technorati.com/tags/rarezas), [Personal](https://www.technorati.com/tags/personal)

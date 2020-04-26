@@ -12,7 +12,7 @@ title: El software en Ecuador
 wordpress_id: 942
 ---
 
-[![](https://photos1.blogger.com/blogger/5311/455/200/logo-small_FLISOL.0.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/logo-small_FLISOL.0.jpg)La semana pasada (el 25 de marzo) se realizó el evento denominado [FLISOL](http://installfest.info/Ecuador) (Festival Latinoamericano de Instalación de Software Libre), el cual se realiza en distintas partes del mundo con la intención de promover el uso del software libre. En Ecuador se realizó en distintas ciudades, entre ellas Guayaquil, Quito, Cuenca, Sto. Domingo, Riobamba y otras más (disculpenme si no nombro todas, pero mi memoria no da pa' tanto :P ).
+[![](https://photos1.blogger.com/blogger/5311/455/200/logo-small_FLISOL.0.jpg)](https://photos1.blogger.com/blogger/5311/455/1600/logo-small_FLISOL.0.jpg)La semana pasada (el 25 de marzo) se realizó el evento denominado [FLISOL](https://installfest.info/Ecuador) (Festival Latinoamericano de Instalación de Software Libre), el cual se realiza en distintas partes del mundo con la intención de promover el uso del software libre. En Ecuador se realizó en distintas ciudades, entre ellas Guayaquil, Quito, Cuenca, Sto. Domingo, Riobamba y otras más (disculpenme si no nombro todas, pero mi memoria no da pa' tanto :P ).
 
 En Guayaquil la sede del evento fue la Universidad Santa María (de donde salí y ahora voy a ser profesor :D ). En general el evento tuvo buenos resultados, el auditorio se llenó y hubo mucha gente interesada en el software libre.
 

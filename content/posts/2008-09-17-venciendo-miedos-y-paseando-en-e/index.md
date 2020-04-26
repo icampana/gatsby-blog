@@ -22,7 +22,7 @@ wordpress_id: 847
 
 Desde hace un largo tiempo decidí pelear con algunos de los miedos que quedan en mi cabeza, entre ellos estaba el vértigo, así que he ido avanzando de a poco (aunque para algunos he ido muy lento... especialmente algunos impulsivos(as) que no toleran mi velocidad para hacer las cosas XD).
 
-En fin, siguiendo con mi idea de viajar esta vez el destino fue Baños de Agua Santa en la provincia de [Tungurahua](https://es.wikipedia.org/wiki/Tungurahua_%28provincia%29)(sí, sí, cerca del [volcán](http://es.wikipedia.org/wiki/Tungurahua_%28volc%C3%A1n%29)), este lugar de mi querido Ecuador es un pequeño pueblo, pero lleno de sorpresas, actualmente goza de mucha popularidad por la actividad del volcán, pero antes de eso igual había sido destino para muchos turistas extranjeros por la posibilidad de realizar actividades de turismo de aventura y ecológico.
+En fin, siguiendo con mi idea de viajar esta vez el destino fue Baños de Agua Santa en la provincia de [Tungurahua](https://es.wikipedia.org/wiki/Tungurahua_%28provincia%29)(sí, sí, cerca del [volcán](https://es.wikipedia.org/wiki/Tungurahua_%28volc%C3%A1n%29)), este lugar de mi querido Ecuador es un pequeño pueblo, pero lleno de sorpresas, actualmente goza de mucha popularidad por la actividad del volcán, pero antes de eso igual había sido destino para muchos turistas extranjeros por la posibilidad de realizar actividades de turismo de aventura y ecológico.
 
 En fin, algunas de las actividades que se pueden realizar son: Rafting, Canyoning, Puenting, Rappeling, Cabalgatas y caminatas por la selva (está cerca del oriente del país, o sea la selva amazónica) y otras yerbitas más.
 
@@ -33,7 +33,7 @@ El resultado final, un poco adolorido, pero muy divertido y no sé si puedo cons
 Para quien se quiera animar a conocer Baños, acá unas fotitos:
 
 <table style="width: auto;" ><tbody ><tr >
-<td >[![](https://lh3.ggpht.com/ivan.campana/SNCBiyrTonI/AAAAAAAAA2s/RWzq0IbUloA/s400/dsc03517.jpg)](http://picasaweb.google.com/lh/photo/OlMNKnLO9ZhdmyWGMUJAkw)
+<td >[![](https://lh3.ggpht.com/ivan.campana/SNCBiyrTonI/AAAAAAAAA2s/RWzq0IbUloA/s400/dsc03517.jpg)](https://picasaweb.google.com/lh/photo/OlMNKnLO9ZhdmyWGMUJAkw)
 </td></tr><tr >
 <td style="font-family: arial,sans-serif; font-size: 11px; text-align: right;" >De [Baños](https://picasaweb.google.com/ivan.campana/BaOs)
 </td></tr></tbody></table>

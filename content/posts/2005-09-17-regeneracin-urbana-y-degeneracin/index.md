@@ -12,7 +12,7 @@ title: Regeneración Urbana y Degeneración Social
 wordpress_id: 979
 ---
 
-[![](https://photos1.blogger.com/blogger/5311/455/200/gye1.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/gye1.jpg)Desde el año 2000 tenemos lo que se ha denominado la "Regeneración Urbana de la Ciudad de Guayaquil", se recuperó espacios que antes eran intransitables, se obtuvo nuevos espacios turísticos y se potenció los existentes. Es loable la tarea, no digo que sea perfecta (después de todo sigue siendo hecha por humanos), pero se ha intentado mantener un buen nivel y dotar de nuevos espacios.
+[![](https://photos1.blogger.com/blogger/5311/455/200/gye1.jpg)](https://photos1.blogger.com/blogger/5311/455/1600/gye1.jpg)Desde el año 2000 tenemos lo que se ha denominado la "Regeneración Urbana de la Ciudad de Guayaquil", se recuperó espacios que antes eran intransitables, se obtuvo nuevos espacios turísticos y se potenció los existentes. Es loable la tarea, no digo que sea perfecta (después de todo sigue siendo hecha por humanos), pero se ha intentado mantener un buen nivel y dotar de nuevos espacios.
 
 Algo que recordé hace poco justamente al pasar frente a la Universidad Estatal de Guayaquil es que cuando aún estaba en el colegio y pasaba por ese mismo lugar, en vez de ver los bonitos árboles y decoraciones que hay ahora veía niños pobres que a plena luz del día estaban drogados, pegados a una lata de cemento de contacto. La imagen actual es totalmente diferente, vemos parejas paseando por el lugar, te puedes inclusive recostar en alguna de las bancas a contemplar el Estero Salado.
 

@@ -16,7 +16,7 @@ title: Mis héroes...
 wordpress_id: 892
 ---
 
-[![](./1978_Superman_The_Movie.jpg)](https://4.bp.blogspot.com/_T2UWuNJg3dQ/SCy9FyXegRI/AAAAAAAAAXM/WZXAdWzXBo8/s1600-h/1978_Superman_The_Movie.jpg)[![](./beatles-the-let-it-be.jpg)](http://4.bp.blogspot.com/_T2UWuNJg3dQ/SCy-VyXegTI/AAAAAAAAAXc/KcWahuGWBpM/s1600-h/beatles-the-let-it-be.jpg)
+[![](./1978_Superman_The_Movie.jpg)](https://4.bp.blogspot.com/_T2UWuNJg3dQ/SCy9FyXegRI/AAAAAAAAAXM/WZXAdWzXBo8/s1600-h/1978_Superman_The_Movie.jpg)[![](./beatles-the-let-it-be.jpg)](https://4.bp.blogspot.com/_T2UWuNJg3dQ/SCy-VyXegTI/AAAAAAAAAXc/KcWahuGWBpM/s1600-h/beatles-the-let-it-be.jpg)
 
 Antes de cualquier crítica, vale recalcar que estos son más que otra cosa mis héroes "inspiracionales" (si es que existe el término). Los verdaderos héroes en mi vida siempre han sido y serán mis padres, mi familia y mis amigos.
 

@@ -14,7 +14,7 @@ title: Sobre los planes de gobierno
 wordpress_id: 928
 ---
 
-[![](https://photos1.blogger.com/blogger/5311/455/320/ghost_rider.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/ghost_rider.jpg)Después de ver tanto político en estos días y ante la proximidad de las elecciones, al menos sería bueno saber cuáles son las propuestas de cada uno de los diferentes candidatos. De acuerdo a la ley y en base al apoyo que brindará el Tribunal Supremo Electoral, dichos planes de gobierno deben estar disponibles para ser evaluados y poder tomar una decisión.
+[![](https://photos1.blogger.com/blogger/5311/455/320/ghost_rider.jpg)](https://photos1.blogger.com/blogger/5311/455/1600/ghost_rider.jpg)Después de ver tanto político en estos días y ante la proximidad de las elecciones, al menos sería bueno saber cuáles son las propuestas de cada uno de los diferentes candidatos. De acuerdo a la ley y en base al apoyo que brindará el Tribunal Supremo Electoral, dichos planes de gobierno deben estar disponibles para ser evaluados y poder tomar una decisión.
 
 Lo importante de esto no sólo es tenerlos disponibles, porque muchos están ahí inertes tan sólo publicados sin ser leídos. Propongo algo, si eres de los que tiene paciencia para leer y mejor aún escribir, porqué no explicarles a los que no les gusta leer mucho qué es lo que ofrece cada uno de los candidatos, claro siendo imparcial.
 

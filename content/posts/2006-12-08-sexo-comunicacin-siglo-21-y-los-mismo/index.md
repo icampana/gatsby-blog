@@ -14,7 +14,7 @@ title: Sexo, Comunicación, Siglo 21 y los mismo tabúes
 wordpress_id: 918
 ---
 
-[![](https://photos1.blogger.com/x/blogger/5311/455/320/992747/tabu.jpg)](http://photos1.blogger.com/x/blogger/5311/455/1600/869711/tabu.jpg)Escribo esto un poco tarde, pero no he querido olvidarlo. Una vez más mientras trataba de conciliar el sueño en Quito (a mi el frío me pone mal). Comencé a hacer zapping por algunos canales de televisión para matar el tiempo.
+[![](https://photos1.blogger.com/x/blogger/5311/455/320/992747/tabu.jpg)](https://photos1.blogger.com/x/blogger/5311/455/1600/869711/tabu.jpg)Escribo esto un poco tarde, pero no he querido olvidarlo. Una vez más mientras trataba de conciliar el sueño en Quito (a mi el frío me pone mal). Comencé a hacer zapping por algunos canales de televisión para matar el tiempo.
 
 Mientras iba avanzando me encontré con un par de programas de televisión sobre sexualidad... Ahora resulta que todos son sexólogos, que todos son eruditos del tema. Cada canal ha salido con su propuesta de "ayuda a las parejas" y demás. Algunos son bastante entretenidos, otros son bastante tontos y hay inclusive algunos que son simplemente pornografía disfrazada :S
 

@@ -77,4 +77,4 @@ Creo que es con lo que puedo aportar, como dije anteriormente, no creo que esté
 
 Enjoy....
 
-**PD:** Para los que quieran leer un poco más o enterarse de tips, alguien que encontré por casualidad en Internet y hace comentarios muy interesantes es la sexóloga Alessia Di Bari, es una mexicana joven y sin miedo de abordar diferentes temas, la pueden encontrar en twitter: como [@sexologadibari](https://twitter.com/sexologadibari), en Facebook en [este grupo](http://es-la.facebook.com/group.php?gid=111673212179002), y su blog: [http://alessiadibari.wordpress.com/](http://alessiadibari.wordpress.com/)
+**PD:** Para los que quieran leer un poco más o enterarse de tips, alguien que encontré por casualidad en Internet y hace comentarios muy interesantes es la sexóloga Alessia Di Bari, es una mexicana joven y sin miedo de abordar diferentes temas, la pueden encontrar en twitter: como [@sexologadibari](https://twitter.com/sexologadibari), en Facebook en [este grupo](https://es-la.facebook.com/group.php?gid=111673212179002), y su blog: [http://alessiadibari.wordpress.com/](https://alessiadibari.wordpress.com/)

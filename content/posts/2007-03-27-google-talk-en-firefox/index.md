@@ -16,7 +16,7 @@ title: Google Talk en Firefox
 wordpress_id: 911
 ---
 
-[![](https://farm1.static.flickr.com/157/431642738_c1d486d8aa_m.jpg)](http://farm1.static.flickr.com/157/431642738_c1d486d8aa_m.jpg)Algo super interesante que encontré mientras leía las noticias, todos los que tienen una cuenta con gmail ahora podrán utilizar google talk inclusive sin tenerlo instalado, a través del Google Talk Gadget.
+[![](https://farm1.static.flickr.com/157/431642738_c1d486d8aa_m.jpg)](https://farm1.static.flickr.com/157/431642738_c1d486d8aa_m.jpg)Algo super interesante que encontré mientras leía las noticias, todos los que tienen una cuenta con gmail ahora podrán utilizar google talk inclusive sin tenerlo instalado, a través del Google Talk Gadget.
 
 Es una pequeña aplicación en flash que permite acceder a las funcionalidades normales del google talk desde un navegador, lo mejor es que inclusive con [este tip](https://google.dirson.com/post/3267-talk-barra-lateral-firefox/), podremos tenerlo siempre abierto sin necesidad de cambiar de ventana mientras navegamos.
 

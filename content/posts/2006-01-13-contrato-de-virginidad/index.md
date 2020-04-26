@@ -15,7 +15,7 @@ title: ¡Contrato de virginidad!
 wordpress_id: 956
 ---
 
-[![](https://photos1.blogger.com/blogger/5311/455/200/contrato_virginidad.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/contrato_virginidad.jpg)La verdad es que la foto me salió muy mala (necesito cargar mi cámara digital a mano o comprarme un [Nokia serie N90](http://www.nokia.com/nseries/index.html) XD), pero bue, la historia igual la cuento.
+[![](https://photos1.blogger.com/blogger/5311/455/200/contrato_virginidad.jpg)](https://photos1.blogger.com/blogger/5311/455/1600/contrato_virginidad.jpg)La verdad es que la foto me salió muy mala (necesito cargar mi cámara digital a mano o comprarme un [Nokia serie N90](https://www.nokia.com/nseries/index.html) XD), pero bue, la historia igual la cuento.
 
 Hace unos días mientras visitaba a una amiga conversábamos sobre un montón de cosas y sacó a relucir algo que le parecía cómico después de muchos años.
 

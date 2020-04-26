@@ -12,7 +12,7 @@ title: No, I WILL NOT FIX your computer
 wordpress_id: 932
 ---
 
-[![](https://photos1.blogger.com/blogger/5311/455/320/wontfix.jpg)](http://photos1.blogger.com/blogger/5311/455/1600/wontfix.jpg)Esta semana recibí un regalo que representa buena parte del problema constante de los informáticos, me hubiera ayudado tenerla unos cuantos años antes :P
+[![](https://photos1.blogger.com/blogger/5311/455/320/wontfix.jpg)](https://photos1.blogger.com/blogger/5311/455/1600/wontfix.jpg)Esta semana recibí un regalo que representa buena parte del problema constante de los informáticos, me hubiera ayudado tenerla unos cuantos años antes :P
 
 Mucha gente con frecuencia asume que si eres informático (sin importar la especialización o carrera), tienes que saber todo sobre las computadoras y poder arreglárselo por un cómodo precio: GRATIS.
 
@@ -34,6 +34,6 @@ Vale la pena aclarar que no es falta de ganas de ayudar, a mis amigos y familiar
 
 En todo caso, si me ven algún día con esa camiseta puesta querrá decir que realmente no ando de ánimos de que me pregunten sobre algo de computadoras XD o en el mejor de los casos que era la única que tenía limpia... je je
 
-Keywords: [Informática](https://www.technorati.com/tags/inform%C3%83%C2%A1tica), [sociedad](http://www.technorati.com/tags/sociedad)
+Keywords: [Informática](https://www.technorati.com/tags/inform%C3%83%C2%A1tica), [sociedad](https://www.technorati.com/tags/sociedad)
 
 PD: La foto tiene mala calidad porque la tomé con el celular y de noche, luego la cambio por una de mejor calidad :P

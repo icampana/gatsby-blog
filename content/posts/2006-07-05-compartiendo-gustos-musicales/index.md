@@ -11,7 +11,7 @@ categories:
   - Sin categoría
 ---
 
-[![](https://imagegen.last.fm/RadioHead/artists/icampana.gif)](http://www.last.fm/user/icampana/?chartstyle=RadioHead) Esto es lo que se puede considerar mi "top 10" musical de la semana, pero no tuve que memorizarlo ni anotarlo en un papel, simplemente es lo que me la he pasado escuchando mientras trabajo o mientras leo alguna que otra noticia. ¿Cómo lo hice?
+[![](https://imagegen.last.fm/RadioHead/artists/icampana.gif)](https://www.last.fm/user/icampana/?chartstyle=RadioHead) Esto es lo que se puede considerar mi "top 10" musical de la semana, pero no tuve que memorizarlo ni anotarlo en un papel, simplemente es lo que me la he pasado escuchando mientras trabajo o mientras leo alguna que otra noticia. ¿Cómo lo hice?
 
 Obtuve este cuadro creando mi perfil en [last.fm](https://last.fm), la idea de este website es crear una descripción "musical" de cada persona, de esta forma puedes conocer a otras personas que tengan tus mismos gustos, compartir opiniones, recomendar otros artistas o hasta llegar a reunirse (te indica inclusive quienes viven cerca de ti).
 
@@ -27,5 +27,5 @@ En mi caso particular esto me brinda una ventaja adicional, ya que el programa q
 
 Para quienes le guste mucho la música estoy seguro que lo disfrutarán, para quienes son curiosos, creo que les dará una grata sorpresa y para el resto, pues si les gusta lo aprovecharán, sino prendan la radio y busquen algo en FM o AM a ver si les simpatiza XD
 
-Keywords: [Música](https://www.technorati.com/tags/M%C3%83%C2%BAsica), [Last.fm](http://www.technorati.com/tags/last.fm), [Preferencias](http://www.technorati.com/tags/Preferencias), [Amarok,](http://www.technorati.com/tags/Amarok) [Audio,
+Keywords: [Música](https://www.technorati.com/tags/M%C3%83%C2%BAsica), [Last.fm](https://www.technorati.com/tags/last.fm), [Preferencias](https://www.technorati.com/tags/Preferencias), [Amarok,](https://www.technorati.com/tags/Amarok) [Audio,
 ](https://www.technorati.com/tags/Audio)

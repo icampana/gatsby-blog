@@ -26,6 +26,6 @@ Ah, me olvidaba, aparte las terminales de acceso eran terminales seriales Wyse, 
 
 Después de mucho esfuerzo, dolores de cabeza y pelear con software que fue diseñado para funcionar en una arquitectura de hace 15 años :S salimos a flote, todo funciona y muchísimo más rápido de lo que funcionaba antes.
 
-Por si a alguien le interesa, el servidor que utilizamos fue un [IBM x206M](https://www-03.ibm.com/servers/eserver/xseries/hardware/tower/x206m/), [Ubuntu Linux](http://www.ubuntu.com/) y el RMCOBOL de Liant. Vaya viajecito :S
+Por si a alguien le interesa, el servidor que utilizamos fue un [IBM x206M](https://www-03.ibm.com/servers/eserver/xseries/hardware/tower/x206m/), [Ubuntu Linux](https://www.ubuntu.com/) y el RMCOBOL de Liant. Vaya viajecito :S
 
 Si alguien les dice que algo es imposible, simplemente respondan que no es cierto, toooodo es posible, con esfuerzo, muchas ganas y cruzando los dedos... ja ja ja ja.

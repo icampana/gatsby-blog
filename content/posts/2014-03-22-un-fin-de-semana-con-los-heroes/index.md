@@ -17,7 +17,7 @@ title: Un fin de semana con los "Héroes Innecesarios"
 wordpress_id: 719
 ---
 
-[![](./diego_cumple-1.jpg)](https://3.bp.blogspot.com/-vBUuZHGm0a0/Uyx7n76P4BI/AAAAAAAACsQ/KJFx18DeKOI/s1600/diego_cumple.jpg) Hace ya 2 semanas que recibí un correo dirigido hacia [Guayaquil en Bici](http://guayaquilenbici.org/), contándonos que había un par de argentinos que estaban recorriendo Sudamérica en bicicleta, que habían salido desde Santa Fe y ya estaban en Ecuador, específicamente en Guayaquil.
+[![](./diego_cumple-1.jpg)](https://3.bp.blogspot.com/-vBUuZHGm0a0/Uyx7n76P4BI/AAAAAAAACsQ/KJFx18DeKOI/s1600/diego_cumple.jpg) Hace ya 2 semanas que recibí un correo dirigido hacia [Guayaquil en Bici](https://guayaquilenbici.org/), contándonos que había un par de argentinos que estaban recorriendo Sudamérica en bicicleta, que habían salido desde Santa Fe y ya estaban en Ecuador, específicamente en Guayaquil.
 
 Curiosidades del destino, habían coincidido con 2 fechas especiales, una era el 8 de marzo (día internacional de la mujer) por la cual se había organizado un evento especial llamado "Rodada de Altura", el cual es de ámbito latinoamericano y ellos querían estar presentes el día del evento para registrar la actividad y conocer un poco más.
 
