@@ -13,7 +13,7 @@ La foto que abre este post muestra mi configuración estándar al estar fuera de
 
 La idea es que todo pueda caber dentro de una mochila y que no sea muy pesado como para poder moverte a cualquier lugar, mis lista (sin contar la laptop) está compuesta de los siguientes elementos:
 
-### Segundo Monitor Portátil
+## Segundo Monitor Portátil
 
 ![Lepow - Monitor portátil de 15,6 pulgadas Full HD 1080P USB tipo C pantalla IPS](monitor-portatil.jpg "Lepow - Monitor portátil de 15,6 pulgadas Full HD 1080P USB tipo C pantalla IPS")
 
@@ -25,7 +25,7 @@ Mi recomendación para esto, el [Lepow de 15,6 pulgadas](https://www.amazon.com/
 
 Como tip extra, el monitor portátil viene con su propio soporte plegable (casi invisible o a veces parte del mismo monitor), pero no permite elevarlo lo suficiente como para tener una postura más cómoda al trabajar, una solución práctica es llevar contigo un soporte para tablet, al ser el monitor muy ligero no tiene problemas en soportar el peso y permitirte elevarlo de forma cómoda, en mi caso resultó bastante práctico un [Soporte de aluminio KABCON](https://www.amazon.com/-/es/gp/product/B07DD7G77L/ref=ppx_od_dt_b_asin_title_s00)
 
-### Audífonos con cancelación de ruido
+## Audífonos con cancelación de ruido
 
 ![Soundcore by Anker Life Q30 ](anker-life-q30.jpg "Soundcore by Anker Life Q30 ")
 
@@ -33,7 +33,7 @@ No importa si estás en un hotel, una casa o una cafetería, siempre habrá ruid
 
 Lo principal a tomar en cuenta es que sean cómodos (puedes necesitar pasar muchas horas con estos puestos) y que la cancelación de ruido sea activa.
 
-### Micrófono con cancelación de ruido
+## Micrófono con cancelación de ruido
 
 ![Fifine michrophone](microphone.jpg "Fifine michrophone")
 
@@ -41,13 +41,13 @@ Los audífonos con ANC (Active Noise Cancellation) eliminan el ruido para nosotr
 
 Si prefieres no agregar más hardware a tu kit, una opción de software es [Krisp](https://krisp.ai/), una aplicación que permite eliminar el ruido del ambiente mientras estamos hablando, el único problema es que funciona en base a subscripción, así que tendrás que estar dispuesto a gastar unos $60 al año para usarlo, aunque tienen una versión gratuita que permite usarlo por 120 minutos por semana, pero para un trabajador remoto eso puede quedarse corto con mucha facilidad.
 
-### Teclado y mouse, externos y portátiles
+## Teclado y mouse, externos y portátiles
 
 ![Teclado Jellycomb](teclado.jpg "Teclado JellyComb")
 
 Al trabajar frente a un computador más de 6 horas al día eventualmente tu cuerpo te pasa "factura", por lo que la mala postura puede degenerar en el desarrollo del síndrome del tunel carpiano, lo cual no sólo merma nuestra productividad, sino que vuelve casi imposible trabajar sin dolor y en estos casos el teclado de un computador portatil rara vez es una buena alternativa.  En mi caso, mi fiel compañero de viajes es un [teclado Jellycomb](https://www.amazon.com/-/es/inal%C3%A1mbricos-compacto-silencioso-ordenador-port%C3%A1til/dp/B07VKL2V2M?ref_=ast_sto_dp) que dependiendo del modelo puede ir desde los $20 a $35 USD en Amazon.
 
-### Router LTE / 4G / 3G con Wifi
+## Router LTE / 4G / 3G con Wifi
 
 ![Huawei E5577Cs-321 4G LTE Mobile WiFi Hotspot](router-wifi.jpg "Huawei E5577Cs-321 4G LTE Mobile WiFi Hotspot")
 
