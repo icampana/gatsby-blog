@@ -18,7 +18,7 @@ class BlogPostTemplate extends React.Component {
       metaImage = this.props.data.site.siteMetadata.siteUrl + post.frontmatter.featuredImage.publicURL;
     }
 
-    const featuredImage = (post.frontmatter.featuredImage) ? post.frontmatter.featuredImage : undefined;
+    const featuredImage = (post.frontmatter.featuredImage && typeof post.frontmatter.featuredImage.childImageSharp !== null) ? post.frontmatter.featuredImage : undefined;
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
