@@ -1,5 +1,7 @@
 ---
 title: Kit de productividad de un nómada digital.
+path: "/2020/12/15-kit-de-productividad-de-un-nomada-digital"
+slug: kit-de-productividad-de-un-nomada-digital
 date: 2020-12-15T01:55:26.032Z
 featuredImage: 2020-02-13-15.40.15.jpg
 description: Cómo mantenerte productivo y cómodo al estar moviéndote por
