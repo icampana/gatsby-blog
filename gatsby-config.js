@@ -8,6 +8,7 @@ module.exports = {
       twitter: `icampana`,
       github: `icampana`,
       linkedin: `icampana`,
+      anchor: `e-van`,
     },
     image: '/images/logo.png',
   },
@@ -20,6 +21,13 @@ module.exports = {
       options: {
         path: `${__dirname}/content/posts`,
         name: `blog`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/pages`,
+        name: `page`,
       },
     },
     {

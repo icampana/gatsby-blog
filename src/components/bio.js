@@ -11,6 +11,7 @@ import Image from "gatsby-image";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTwitter, faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
+import { faPodcast } from '@fortawesome/free-solid-svg-icons';
 import { rhythm } from "../utils/typography";
 
 const Bio = () => {
@@ -30,6 +31,7 @@ const Bio = () => {
             twitter
             github
  	    linkedin
+	    anchor
           }
         }
       }
@@ -68,6 +70,10 @@ const Bio = () => {
         &nbsp;
         <a href={`https://linkedin.com/in/${social.linkedin}`} style={{ boxShadow: 'none' }}>
           <FontAwesomeIcon icon={ faLinkedin }  size='2x' />
+        </a>
+        &nbsp;
+        <a href={`https://anchor.fm/${social.anchor}`} style={{ boxShadow: 'none' }}>
+          <FontAwesomeIcon icon={ faPodcast }  size='2x' />
         </a>
       </div>
     </div>

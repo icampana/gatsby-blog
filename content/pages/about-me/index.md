@@ -3,7 +3,7 @@ author: ivan
 comments: false
 date: 2010-09-26 13:55:00+00:00
 layout: page
-link: http://ivan.campananaranjo.com/sobre-el-autor
+path: "/sobre-el-autor"
 slug: sobre-el-autor
 title: Sobre el autor
 wordpress_id: 1061

@@ -1,60 +1,65 @@
-const path = require(`path`)
-const _ = require("lodash")
-const { createFilePath } = require(`gatsby-source-filesystem`)
+const path = require(`path`);
+const _ = require("lodash");
+const { createFilePath } = require(`gatsby-source-filesystem`);
 
 exports.createPages = async ({ graphql, actions }) => {
-  const { createPage } = actions
+  const { createPage } = actions;
 
-  const tagTemplate = path.resolve("./src/templates/tags.js")
-  const blogPost = path.resolve(`./src/templates/blog-post.js`)
-  const result = await graphql(
-    `
-      {
-        allMarkdownRemark(
-          sort: { fields: [frontmatter___date], order: DESC }
-          limit: 1000
-        ) {
-          edges {
-            node {
-              fields {
-                slug
-              }
-              frontmatter {
-                title
-                path
-                featuredImage {
-                  childImageSharp{
-                    fluid{
-                      srcSetWebp
-                      src
-                      sizes
-                      tracedSVG
-                    }
-                  }
+  const tagTemplate = path.resolve("./src/templates/tags.js");
+  const blogPost = path.resolve(`./src/templates/blog-post.js`);
+  const pageComponent = path.resolve(`./src/templates/page.js`);
+  const genericQuery = (filterString) => `
+  {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: 1000,
+      filter: {fileAbsolutePath: { regex: "/${filterString}/" }}
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            path
+            featuredImage {
+              childImageSharp{
+                fluid{
+                  srcSetWebp
+                  src
+                  sizes
+                  tracedSVG
                 }
               }
             }
           }
         }
-        tagsGroup: allMarkdownRemark(limit: 2000) {
-          group(field: frontmatter___tags) {
-            fieldValue
-          }
-        }
       }
-    `
-  )
+    }
+    tagsGroup: allMarkdownRemark(limit: 2000) {
+      group(field: frontmatter___tags) {
+        fieldValue
+      }
+    }
+  }
+`;
+  const result = await graphql(genericQuery('content/posts'));
+  const pagesResult = await graphql(genericQuery('content/pages'));
 
   if (result.errors) {
-    throw result.errors
+    throw result.errors;
+  }
+
+  if (pagesResult.errors) {
+    throw result.errors;
   }
 
   // Create blog posts pages.
-  const posts = result.data.allMarkdownRemark.edges
-
+  const posts = result.data.allMarkdownRemark.edges;
   posts.forEach((post, index) => {
-    const previous = index === posts.length - 1 ? null : posts[index + 1].node
-    const next = index === 0 ? null : posts[index - 1].node
+    const previous = index === posts.length - 1 ? null : posts[index + 1].node;
+    const next = index === 0 ? null : posts[index - 1].node;
 
     createPage({
       path: post.node.frontmatter.path,
@@ -64,7 +69,7 @@ exports.createPages = async ({ graphql, actions }) => {
         previous,
         next,
       },
-    })
+    });
   });
 
   // Extract tag data from query
@@ -97,17 +102,29 @@ exports.createPages = async ({ graphql, actions }) => {
     });
   });
 
-}
+  // Create blog posts pages.
+  const pages = pagesResult.data.allMarkdownRemark.edges;
+  pages.forEach((post, index) => {
+    createPage({
+      path: post.node.frontmatter.path,
+      component: pageComponent,
+      context: {
+        slug: post.node.fields.slug,
+      },
+    });
+  });
+};
+
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions
+  const { createNodeField } = actions;
 
   if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
+    const value = createFilePath({ node, getNode });
     createNodeField({
       name: `slug`,
       node,
       value,
-    })
+    });
   }
 }

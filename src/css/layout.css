@@ -59,3 +59,15 @@ a.link {
 section h2 {
   @apply font-bold text-red-400;
 }
+
+ul.pageLinks {
+  list-style: none;
+  float: right;
+  font-weight: bold;
+}
+
+.pageLinks li {
+  float: left;
+  display: block;
+  padding: 10px;
+}
