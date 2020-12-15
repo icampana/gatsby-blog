@@ -8,6 +8,22 @@ import SEO from "../components/seo";
 import { rhythm, scale } from "../utils/typography";
 
 class BlogPostTemplate extends React.Component {
+
+  renderImage(featuredImage) {
+    if (typeof featuredImage !== 'undefined' &&
+        featuredImage !== null &&
+        featuredImage.childImageSharp !== null &&
+        typeof featuredImage.childImageSharp !== 'undefined') {
+      return (
+        <div className='w-24 min-w-full'>
+          <Img key={featuredImage.childImageSharp.fluid.src} fluid={featuredImage.childImageSharp.fluid} />
+        </div>
+      );
+    }
+
+    return '';
+  }
+
   render() {
     const post = this.props.data.markdownRemark;
     const siteTitle = this.props.data.site.siteMetadata.title;
@@ -17,8 +33,6 @@ class BlogPostTemplate extends React.Component {
     if (post.frontmatter.featuredImage) {
       metaImage = this.props.data.site.siteMetadata.siteUrl + post.frontmatter.featuredImage.publicURL;
     }
-
-    const featuredImage = (post.frontmatter.featuredImage && typeof post.frontmatter.featuredImage.childImageSharp !== null) ? post.frontmatter.featuredImage : undefined;
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -41,15 +55,9 @@ class BlogPostTemplate extends React.Component {
               <small className='mt-1 border-solid border-red-500 border-b-2'>{post.frontmatter.date}</small>
             </p>
           </header>
-          {
-            (featuredImage) ?
-            <section>
-              <div style={{textAlign: 'center'}}>
-                <Img key={featuredImage.childImageSharp.fluid.src} fluid={featuredImage.childImageSharp.fluid} />
-              </div>
-            </section>
-            : ''
-          }
+          <div>
+            { this.renderImage(post.frontmatter.featuredImage) }
+          </div>
 
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
           <hr
