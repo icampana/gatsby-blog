@@ -54,7 +54,9 @@ class BlogIndex extends React.Component {
               </h3>
               <small className='text-date'>{node.frontmatter.date}</small>
 
-              { this.renderImage(node.frontmatter.featuredImage) }
+              <Link style={{ boxShadow: 'none' }} to={node.frontmatter.path}>
+                { this.renderImage(node.frontmatter.featuredImage) }
+              </Link>
 
               <p className="py-8" dangerouslySetInnerHTML={{ __html: node.excerpt }} />
             </div>

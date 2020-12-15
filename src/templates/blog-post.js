@@ -1,5 +1,6 @@
 import React from "react";
 import { Link, graphql } from "gatsby";
+import Img from 'gatsby-image';
 
 import Bio from "../components/bio";
 import Layout from "../components/layout";
@@ -16,6 +17,8 @@ class BlogPostTemplate extends React.Component {
     if (post.frontmatter.featuredImage) {
       metaImage = this.props.data.site.siteMetadata.siteUrl + post.frontmatter.featuredImage.publicURL;
     }
+
+    const featuredImage = (post.frontmatter.featuredImage) ? post.frontmatter.featuredImage : undefined;
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -38,6 +41,16 @@ class BlogPostTemplate extends React.Component {
               <small className='mt-1 border-solid border-red-500 border-b-2'>{post.frontmatter.date}</small>
             </p>
           </header>
+          {
+            (featuredImage) ?
+            <section>
+              <div style={{textAlign: 'center'}}>
+                <Img key={featuredImage.childImageSharp.fluid.src} fluid={featuredImage.childImageSharp.fluid} />
+              </div>
+            </section>
+            : ''
+          }
+
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
           <hr
             style={{
@@ -101,6 +114,11 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         featuredImage {
           publicURL
+          childImageSharp{
+            fluid (maxWidth:700, maxHeight: 250){
+              ...GatsbyImageSharpFluid_tracedSVG
+            }
+          }
         }
       }
     }
