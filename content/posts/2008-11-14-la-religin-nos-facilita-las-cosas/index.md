@@ -4,7 +4,7 @@ categories:
 - Sin categoría
 comments: true
 date: 2008-11-14 10:10:00+00:00
-featuredImage: ./world_religion2.gif
+featuredImage: ./world_religion2.png
 layout: post
 path: /2008/11/la-religin-nos-facilita-las-cosas
 slug: la-religin-nos-facilita-las-cosas
