@@ -49,46 +49,31 @@ Las recomendaciones importantes, hay que mantener una buena forma al hacer los e
 
 Día 1
 
-- Burpees ([http://www.youtube.com/watch?v=PYfNA_lmkHM](https://www.youtube.com/watch?v=PYfNA_lmkHM))
-
-- Lateral Hops ([http://www.youtube.com/watch?v=bqbZqxqs8tY](https://www.youtube.com/watch?v=bqbZqxqs8tY))
-
-- Mountain Climbers ([http://www.youtube.com/watch?v=IzNHN06_sJ0](https://www.youtube.com/watch?v=IzNHN06_sJ0))
-
-- Squat Jumps ([http://www.youtube.com/watch?v=CVaEhXotL7M](https://www.youtube.com/watch?v=CVaEhXotL7M))
+- `video: [Burpees](https://www.youtube.com/watch?v=PYfNA_lmkHM)`
+- `video: [Lateral Hops](https://www.youtube.com/watch?v=bqbZqxqs8tY)`
+- `video: [Mountain Climbers](https://www.youtube.com/watch?v=IzNHN06_sJ0)`
+- `video: [Squat Jumps](https://www.youtube.com/watch?v=CVaEhXotL7M)`
 
 Día 2
-
-- Squat Jacks ([http://www.youtube.com/watch?v=LK3jSsdQ7M4](https://www.youtube.com/watch?v=LK3jSsdQ7M4))
-
-- Push Ups ([http://www.youtube.com/watch?v=HCapLWaJ_qY](https://www.youtube.com/watch?v=HCapLWaJ_qY))
-
-- Steam Engine ([http://www.youtube.com/watch?v=tf5AzZ0HrgA](https://www.youtube.com/watch?v=tf5AzZ0HrgA))
-
-- High Knees ([http://www.youtube.com/watch?v=ZZZoCNMU48U](https://www.youtube.com/watch?v=ZZZoCNMU48U))
+- `video: [Squat Jacks](https://www.youtube.com/watch?v=LK3jSsdQ7M4)`
+- `video: [Push Ups](https://www.youtube.com/watch?v=HCapLWaJ_qY)`
+- `video: [Steam Engine](https://www.youtube.com/watch?v=tf5AzZ0HrgA)`
+- `video: [High Knees](https://www.youtube.com/watch?v=ZZZoCNMU48U)`
 
 Día 3
-
-- Push Up Jacks ([http://www.youtube.com/watch?v=8uqIred6RkQ](https://www.youtube.com/watch?v=8uqIred6RkQ))
-
-- Jump Knee Tucks ([http://www.youtube.com/watch?v=BDA3DERQKFk](https://www.youtube.com/watch?v=BDA3DERQKFk))
-
-- Mountain Climbers ([http://www.youtube.com/watch?v=IzNHN06_sJ0](https://www.youtube.com/watch?v=IzNHN06_sJ0))
-
-- Jumping Jacks ([http://www.youtube.com/watch?v=c4DAnQ6DtF8](https://www.youtube.com/watch?v=c4DAnQ6DtF8))
+- `video: [Push Up Jacks](https://www.youtube.com/watch?v=8uqIred6RkQ)`
+- `video: [Jump Knee Tucks](https://www.youtube.com/watch?v=BDA3DERQKFk)`
+- `video: [Mountain Climbers](https://www.youtube.com/watch?v=IzNHN06_sJ0)`
+- `video: [Jumping Jacks](https://www.youtube.com/watch?v=c4DAnQ6DtF8)`
 
 Día 4
-
-- Burpees ([http://www.youtube.com/watch?v=PYfNA_lmkHM](https://www.youtube.com/watch?v=PYfNA_lmkHM))
-
-- Squat Jumps ([http://www.youtube.com/watch?v=CVaEhXotL7M](https://www.youtube.com/watch?v=CVaEhXotL7M))
-
-- Steam Engine ([http://www.youtube.com/watch?v=tf5AzZ0HrgA](https://www.youtube.com/watch?v=tf5AzZ0HrgA))
-
-- Lateral Hops ([http://www.youtube.com/watch?v=bqbZqxqs8tY](https://www.youtube.com/watch?v=bqbZqxqs8tY))
+- `video: [Burpees](https://www.youtube.com/watch?v=PYfNA_lmkHM)`
+- `video: [Squat Jumps](https://www.youtube.com/watch?v=CVaEhXotL7M)`
+- `video: [Steam Engine](https://www.youtube.com/watch?v=tf5AzZ0HrgA)`
+- `video: [Lateral Hops](https://www.youtube.com/watch?v=bqbZqxqs8tY)`
 
 Para poder llevar el control de los ejercicios es recomendable utilizar un cronómetro, o si tienen un smartphone pueden descargarse una aplicación para llevar el conteo, en el caso de Android esta herramienta es muy buena y es gratuita (con publicidad):
 
-[https://play.google.com/store/apps/details?id=sk.halmi.itimerad](https://play.google.com/store/apps/details?id=sk.halmi.itimerad)
+[Interval Timer 4 HIIT Workout](https://play.google.com/store/apps/details?id=sk.halmi.itimerad)
 
 Lo bueno es que utiliza una alarma sonora y puedes saber en qué momento debes arrancar y cuando tienes tus 10 segundos de descanso.
