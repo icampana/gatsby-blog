@@ -108,8 +108,12 @@ exports.createPages = async ({ graphql, actions }) => {
   // Create blog posts pages.
   const pages = pagesResult.data.allMarkdownRemark.edges;
   pages.forEach((post, index) => {
+
+    // If it has a frontmatter defined path use it instead.
+    const pagePath = (post.node.frontmatter.path) ? post.node.frontmatter.path : post.node.fields.slug;
+
     createPage({
-      path: post.node.fields.slug,
+      path: pagePath,
       component: pageComponent,
       context: {
         slug: post.node.fields.slug,
