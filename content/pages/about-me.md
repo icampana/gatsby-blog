@@ -1,18 +1,27 @@
 ---
-author: ivan
-comments: false
-date: 2010-09-26 13:55:00+00:00
-layout: page
-path: "/sobre-el-autor"
-slug: sobre-el-autor
-title: Sobre el autor
 wordpress_id: 1061
+path: /sobre-el-autor
+layout: page
+author: ivan
+slug: sobre-el-autor
+date: 2020-12-18T06:48:54.874Z
+comments: false
+title: Sobre el autor
 ---
+Iván Gabriel Campaña Naranjo, nacido en 1981 en Guayaquil, Ecuador.
 
-¿Quién Soy? Un profesional, otras veces un buen amigo, en ocasiones algo testarudo, pero siempre alguien con una sonrisa.
+* Ingeniero informático de Gestión por la [Universidad Técnica Federico Santa María](https://www.usm.cl/) (Campus Guayaquil) con un diplomado en Comunicación Aplicado a la Publicidad por la [Universidad Casa Grande](https://www.casagrande.edu.ec/).
+* Más de 16 años dedicándome a desarrollar experiencias digitales para empresas, startups y trabajando con diferentes culturas (España, EEUU, Argentina, Chile, Ecuador).
+* Co-Fundador de AmautaCorp S.A. / [DOMO Soluciones Web &T.I.](https://domo.ec/) / Mingamos
+* Alumni de la generación 15 de Startup Chile Seed.
+* Trabajando de forma remota desde 2016.
 
-Me intereso en el aprovechamiento y desarrollo del capital intelectual de mi país y del mundo. Siempre en búsqueda de nuevos retos, empeñado en encontrar soluciones a los obstáculos que se interponen a mis metas.
+### Tecnologías con las que trabajo:
 
-En pocas palabras, un soñador con los pies bien puestos sobre la tierra.
-
-Formalmente soy un ingeniero informático de gestión con un diplomado en comunicación aplicado a la publicidad, profesor universitario y emprendedor.
+* React
+* VueJS
+* Python
+* Drupal 7-8-9
+* AWS
+* Linux
+* OSX
