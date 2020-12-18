@@ -61,8 +61,11 @@ exports.createPages = async ({ graphql, actions }) => {
     const previous = index === posts.length - 1 ? null : posts[index + 1].node;
     const next = index === 0 ? null : posts[index - 1].node;
 
+    // If it has a frontmatter defined path use it instead.
+    const postPath = (post.node.frontmatter.path) ? post.node.frontmatter.path : post.node.fields.slug;
+
     createPage({
-      path: post.node.frontmatter.path,
+      path: postPath,
       component: blogPost,
       context: {
         slug: post.node.fields.slug,
@@ -106,7 +109,7 @@ exports.createPages = async ({ graphql, actions }) => {
   const pages = pagesResult.data.allMarkdownRemark.edges;
   pages.forEach((post, index) => {
     createPage({
-      path: post.node.frontmatter.path,
+      path: post.node.fields.slug,
       component: pageComponent,
       context: {
         slug: post.node.fields.slug,
