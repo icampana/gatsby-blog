@@ -58,6 +58,7 @@ a.link {
 
 section h2 {
   @apply font-bold text-red-400;
+  margin-top: 35px;
 }
 
 ul.pageLinks {
