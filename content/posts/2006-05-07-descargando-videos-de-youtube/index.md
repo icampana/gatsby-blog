@@ -4,7 +4,7 @@ categories:
 - Sin categoría
 comments: true
 date: 2006-05-07 03:08:00+00:00
-featuredImage: ./logo_tagline_sm.gif
+featuredImage: ./logo_tagline_sm.png
 layout: post
 path: /2006/05/descargando-videos-de-youtube
 slug: descargando-videos-de-youtube
@@ -12,7 +12,7 @@ title: Descargando videos de Youtube
 wordpress_id: 939
 ---
 
-[![](https://photos1.blogger.com/blogger/5311/455/320/logo_tagline_sm.gif)](https://photos1.blogger.com/blogger/5311/455/1600/logo_tagline_sm.gif)Ya que últimamente se me han estado acabando las baterías antes de poder pensar si quiera en escribir algo (y de paso ya me quedé sin internet en la casa :S), al menos voy a publicar algo simpático que encontré hace un tiempo.
+Ya que últimamente se me han estado acabando las baterías antes de poder pensar si quiera en escribir algo (y de paso ya me quedé sin internet en la casa :S), al menos voy a publicar algo simpático que encontré hace un tiempo.
 
 Todo el mundo o casi todos conocen la famosa página de videos [YouTube](https://www.youtube.com), encuentras de todo, desde videos viejos de Mazinger hasta las cosas más locas grabadas por cualquier persona.
 

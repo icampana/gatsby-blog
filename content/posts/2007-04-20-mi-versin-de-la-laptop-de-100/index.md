@@ -32,7 +32,7 @@ El logotipo de los Autobots lo mandé a hacer en vinil en una isla dentro de un 
 
 Así es como lucía la laptop originalmente:
 
-[![](./TP570.gif)](https://2.bp.blogspot.com/_T2UWuNJg3dQ/RigjpjGRX6I/AAAAAAAAACE/2zOWVIvoSfk/s1600-h/TP570.gif)Las especificaciones finales con las que quedó son:
+[![](./TP570.png)](https://2.bp.blogspot.com/_T2UWuNJg3dQ/RigjpjGRX6I/AAAAAAAAACE/2zOWVIvoSfk/s1600-h/TP570.gif)Las especificaciones finales con las que quedó son:
 
 - Procesador Pentium II de 366 Mhz
 - 192MB de memoria RAM

@@ -4,7 +4,7 @@ categories:
 - Sin categoría
 comments: true
 date: 2006-07-10 21:52:00+00:00
-featuredImage: ./125e067ac32841a86fc20e71015e584b.gif
+featuredImage: ./125e067ac32841a86fc20e71015e584b.png
 layout: post
 path: /2006/07/round-one-fig
 slug: round-one-fig
