@@ -32,8 +32,6 @@ class BlogIndex extends React.Component {
     const prevPage = currentPage - 1 === 1 ? '/' : (currentPage - 1).toString()
     const nextPage = (currentPage + 1).toString()
 
-    const articleLink = (node.frontmatter.path) ? node.frontmatter.path : `/${node.fields.slug}`;
-
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
@@ -47,6 +45,8 @@ class BlogIndex extends React.Component {
         <div className="">
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
+          const articleLink = (node.frontmatter.path) ? node.frontmatter.path : `/${node.fields.slug}`;
+
           return (
             <div key={node.fields.slug} className="blog-post-box">
               <h3 className="text-title">
