@@ -125,6 +125,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
+      filter: {fileAbsolutePath: { regex: "/content/posts/" }}
       limit: $limit
       skip: $skip
     ) {
@@ -140,7 +141,7 @@ export const pageQuery = graphql`
             path
             featuredImage {
               childImageSharp{
-                fluid (maxWidth:700, maxHeight: 320){
+                fluid (maxWidth:900, maxHeight: 320){
                   ...GatsbyImageSharpFluid_tracedSVG
                 }
               }
