@@ -4,7 +4,7 @@ categories:
 - Sin categoría
 comments: true
 date: 2005-09-28 22:46:00+00:00
-featuredImage: ./sMECf1759091_2884.gif
+featuredImage: ./sMECf1759091_2884.png
 layout: post
 path: /2005/09/palm-m515
 slug: palm-m515

@@ -4,7 +4,7 @@ categories:
 - Sin categoría
 comments: true
 date: 2006-02-14 00:20:00+00:00
-featuredImage: ./nestor.gif
+featuredImage: ./nestor.png
 layout: post
 path: /2006/02/el-verdadero-final-de-doraemon
 slug: el-verdadero-final-de-doraemon
@@ -14,8 +14,7 @@ wordpress_id: 950
 
 Desde hace un tiempo me comentaron algunos finales para Doraemon, uno más trágico o crónico que el otro, pero este me parecería el más acertado XD.
 
-[![](https://www.ojodepez-fanzine.net/comics/17/nestor.gif)
-Hacer clic para agrandar](https://www.ojodepez-fanzine.net/comics/17/nestor.gif)
+[Hacer clic para agrandar](https://www.ojodepez-fanzine.net/comics/17/nestor.gif)
 
 Para los que quieran ver la página original, acá está el [link](https://www.ojodepez-fanzine.net/17nestor.php).
 
