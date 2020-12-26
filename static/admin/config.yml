@@ -28,12 +28,28 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
      preview: false
+    summary: "{{title}} - {{commit_date}}"
+    sort: 'date:desc'
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Featured Image", name: "featuredImage", widget: "image" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+    view_filters:
+      - label: 'Posts published in 2020'
+        field: date
+        pattern: '2020'
+      - label: Drafts
+        field: draft
+        pattern: true
+    view_groups:
+      - label: Year
+        field: date
+        # groups items based on the value matched by the pattern
+        pattern: \d{4}
+      - label: Drafts
+        field: draft
 
   - name: "page"
     label: "Pages"
