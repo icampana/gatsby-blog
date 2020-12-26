@@ -45,7 +45,7 @@ class BlogIndex extends React.Component {
         <div className="">
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
-          const articleLink = (node.frontmatter.path) ? node.frontmatter.path : `/${node.fields.slug}`;
+          const articleLink = (node.frontmatter.path) ? node.frontmatter.path : node.fields.slug;
 
           return (
             <div key={node.fields.slug} className="blog-post-box">
