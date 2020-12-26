@@ -32,12 +32,14 @@ class BlogIndex extends React.Component {
     const prevPage = currentPage - 1 === 1 ? '/' : (currentPage - 1).toString()
     const nextPage = (currentPage + 1).toString()
 
+    const articleLink = (node.frontmatter.path) ? node.frontmatter.path : `/${node.fields.slug}`;
+
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
           title={siteTitle}
           description={siteDescription}
-          keywords={[`blog`, 'Ecuador', 'informatica', 'pensamientos',`gatsby`, `javascript`, `react`]}
+          keywords={[`blog`, 'Ecuador', 'informatica', 'pensamientos',`gatsby`, `javascript`, `react`, 'vuejs', 'web engineer', 'development']}
           image={data.site.siteMetadata.image}
         />
         <Bio />
@@ -48,13 +50,13 @@ class BlogIndex extends React.Component {
           return (
             <div key={node.fields.slug} className="blog-post-box">
               <h3 className="text-title">
-                <Link style={{ boxShadow: 'none' }} to={node.frontmatter.path}>
+                <Link style={{ boxShadow: 'none' }} to={articleLink}>
                   {title}
                 </Link>
               </h3>
               <small className='text-date'>{node.frontmatter.date}</small>
 
-              <Link style={{ boxShadow: 'none' }} to={node.frontmatter.path}>
+              <Link style={{ boxShadow: 'none' }} to={articleLink}>
                 { this.renderImage(node.frontmatter.featuredImage) }
               </Link>
 
