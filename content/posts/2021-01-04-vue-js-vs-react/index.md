@@ -4,6 +4,10 @@ date: 2021-01-04T02:07:57.709Z
 featuredImage: vue-vs-react.jpg
 description: Comparación entre dos de las tecnologías más utilizadas para
   frontend en los últimos años
+tags:
+  - Programación
+  - Desarrollo
+  - Tecnología
 ---
 Si trabajas en desarrollo web es más que seguro que has escuchado acerca de React, VueJS y Angular, en este artículo daré algo de contexto y comparación entre las 2 opciones con las que he tenido que trabajar y cuales son las ventajas y desventajas.
 
