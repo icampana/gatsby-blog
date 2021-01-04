@@ -14,7 +14,12 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-catch-links",
-    `gatsby-plugin-netlify-cms`,
+    {
+      resolve: 'gatsby-plugin-netlify-cms',
+      options: {
+        modulePath: `${__dirname}/src/cms/netlify.js`,
+      },
+    },
     `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-source-filesystem`,
