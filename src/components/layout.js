@@ -36,7 +36,7 @@ const Layout = (Props) => {
 
       // Skip the current page.
       if (location.pathname === info.path || location.pathname === `${info.path}/`) {
-        return;
+        return '';
       }
       return (
         <li key={index}>
@@ -45,7 +45,7 @@ const Layout = (Props) => {
       );
     }
 
-    return;
+    return '';
   });
 
     if (location.pathname === rootPath) {

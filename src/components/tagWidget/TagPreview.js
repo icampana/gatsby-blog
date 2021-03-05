@@ -1,6 +1,6 @@
 // src/components/tagWidget/TagPreview.js
-import React from "react"
-import TagStyles from "./style.module.css"
+import React from "react";
+import TagStyles from "./style.module.css";
 export class TagPreview extends React.Component {
   render() {
     return React.createElement(
@@ -16,9 +16,9 @@ export class TagPreview extends React.Component {
             key: index,
           },
           value
-        )
+        );
       })
-    )
+    );
   }
 }
-export default TagPreview
+export default TagPreview;
