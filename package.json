@@ -36,8 +36,8 @@
     "gatsby-transformer-sharp": "^3.0.0",
     "netlify-cms-app": "^2.14.26",
     "prismjs": "^1.20.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
     "react-helmet": "^6.1.0",
     "react-typography": "^0.16.19",
     "typeface-merriweather": "1.1.13",
@@ -50,7 +50,8 @@
     "autoprefixer": "^9",
     "postcss": "^7",
     "prettier": "^2.2.1",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "typescript": "^4.2.3"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
