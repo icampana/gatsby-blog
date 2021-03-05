@@ -75,7 +75,12 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    `gatsby-plugin-postcss`,
+    {
+      resolve: `gatsby-plugin-postcss`,
+      options: {
+        postCssPlugins: [require(`tailwindcss`)({ stage: 0 })],
+      },
+    },
     {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
