@@ -9,7 +9,7 @@ Durante todo el tiempo que hemos estado en confinamiento muchos comenzaron a ent
 
 > Enter The Kettlebell.
 
-![Enter The Kettlebell](enter-kb-small.jpg "Enter The Kettlebell by Pavel Tsatsouline")
+![Enter The Kettlebell](./enter-kb-small.jpg "Enter The Kettlebell by Pavel Tsatsouline")
 
 Utilizo esa frase en inglés porque literalmente es el nombre del [libro](https://www.amazon.com/dp/B004XIZK5K/) + videos que me animaron a probar esta forma de entrenamiento, aunque yo ya tenía buen tiempo entrenando en casa quería cambiar por algo distinto, algunas veces había escuchado hablar al respecto y fue buen momento para probarlo, el autor del libro es [Pavel Tsatsouline](https://en.wikipedia.org/wiki/Pavel_Tsatsouline), un ex-entrenador de los Spetsnaz (fuerzas especiales rusas) a quien se lo conoce como el que popularizó el uso moderno en Estados Unidos (y occidente en general) de los Kettlebells (KB en adelante).
 
@@ -35,13 +35,13 @@ Una nota especial es que no deben tenerle miedo a las pesas, no van a convertirs
 
 ## ¿Con qué peso comenzar?
 
-La primera pregunta que va a aparecer es: ¿Qué me compro? ¿Con cuánto peso debo comenzar? 
+La primera pregunta que va a aparecer es: ¿Qué me compro? ¿Con cuánto peso debo comenzar?
 
 El punto de partida es saber cuál es tu nivel de actividad física actual.  Para esto no voy a "inventarme  el agua tibia" y voy a pasar directamente la referencia del libro Enter the Kettlebell, para comenzar:
 
-![Tabla de pesos KettleBells](screen-shot-2020-12-26-at-01.11.20.png "Tabla de pesos KettleBells")
+![Tabla de pesos KettleBells](./screen-shot-2020-12-26-at-01.11.20.png "Tabla de pesos KettleBells")
 
-Para hombres si no han estado acostumbrados a hacer ejercicios y son principiantes, se recomienda que no sea menos de 8kg, si pueden realizar la inversión les diría que compren de una vez 8 y 16kg.   La progresión pasará de forma natural y bastante rápido, ya cuando logren llegar a un buen nivel el siguiente brinco son los 24kg.  En cambio si ya comienzas desde una buena base, estás acostumbrado a entrenar frecuentemente, los mínimos serían 16kg y 24kg. 
+Para hombres si no han estado acostumbrados a hacer ejercicios y son principiantes, se recomienda que no sea menos de 8kg, si pueden realizar la inversión les diría que compren de una vez 8 y 16kg.   La progresión pasará de forma natural y bastante rápido, ya cuando logren llegar a un buen nivel el siguiente brinco son los 24kg.  En cambio si ya comienzas desde una buena base, estás acostumbrado a entrenar frecuentemente, los mínimos serían 16kg y 24kg.
 
 Para las mujeres sin entrenamiento previo recomiendan arrancar en 6kg, para luego pasar a 8 y 12kg, pero es una referencia y siempre podrá evaluarlo mejor un profesional que pueda indicar cuál es tu punto de partida.
 
@@ -59,13 +59,13 @@ Y los más avanzados:
 * [KB Snatchs](https://www.youtube.com/watch?v=xQqCyl-2ixQ) (Arranques con KB)
 * [Turquish Get Ups](https://www.youtube.com/watch?v=2YollP91Wro) (Levantamiento turco)
 
-Cada uno tiene un link con una demostración del movimiento, recomendaría fijarse mucho en cómo se realiza cada uno, porque definen cuál es el centro de cada movimiento, el movimiento fundamental es el Swing, el cual en un gran porcentaje movimiento de cadera más soporte de espalda, brazos, glúteos y abdomen, si lo haces mal al revés lo que van a sufrir son los brazos y la espalda (créanme lo sentí al querer hacerlo a lo loco la 1era vez).  Y en cambio bien realizado el movimiento se siente fluido. 
+Cada uno tiene un link con una demostración del movimiento, recomendaría fijarse mucho en cómo se realiza cada uno, porque definen cuál es el centro de cada movimiento, el movimiento fundamental es el Swing, el cual en un gran porcentaje movimiento de cadera más soporte de espalda, brazos, glúteos y abdomen, si lo haces mal al revés lo que van a sufrir son los brazos y la espalda (créanme lo sentí al querer hacerlo a lo loco la 1era vez).  Y en cambio bien realizado el movimiento se siente fluido.
 
 Una de las cosas que dice Pavel en su libro y coincido al 100% es que es preferible dedicar un tiempo a trabajar en el balance y en la forma, inclusive sin peso si es necesario para evitar lesionarse y para que realmente funcionen.
 
 Entrenamientos basados en KB hay montones por internet, especialmente en Youtube, lo que destacaría es primero aprender a hacer los movimientos base y luego ir haciendo las progresiones poco a poco.  Mientras he ido aprendiendo (un poco), lo que más he visto es gente haciendo mal los movimientos y poniéndose en riesgo de lesionarse, acá un [buen ejemplo y una explicación](https://youtu.be/cPYfiwpUeSE) muy buena sobre cómo hacer un Clean correctamente.
 
-Les dejo uno de los primeros con los que probé y que me dejó claro que en 15 minutos se puede lograr bastante: 
+Les dejo uno de los primeros con los que probé y que me dejó claro que en 15 minutos se puede lograr bastante:
 
 [15 Min FULL BODY KETTLEBELL WORKOUT at Home | Caroline Girvan](https://www.youtube.com/watch?v=VCcar3MA07w)
 
