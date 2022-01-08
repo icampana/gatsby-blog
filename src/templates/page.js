@@ -3,7 +3,7 @@ import { graphql } from "gatsby";
 
 import Bio from "../components/bio";
 import Layout from "../components/layout";
-import SEO from "../components/seo";
+import SeoComponent from "../components/seo";
 import { rhythm, scale } from "../utils/typography";
 
 class PageTemplate extends React.Component {
@@ -18,7 +18,7 @@ class PageTemplate extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO
+        <SeoComponent
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
           image={ metaImage }
