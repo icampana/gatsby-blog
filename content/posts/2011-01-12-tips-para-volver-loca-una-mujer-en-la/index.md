@@ -28,16 +28,14 @@ Como nota curiosa, sabían que de hecho el Kamasutra no es un libro que fue pens
 Estos objetivos representan:
 
 1. Justicia
-
-2) Riqueza
-
+2. Riqueza
 3. Deseo y
-
-4) Salvación o Liberación
+4. Salvación o Liberación
 
 La parte relacionada con el sexo apenas es la del Khama, simplemente para vender más quisieron enfocarse únicamente en esa sección del Kamasutra, siendo una idea mucho más compleja y elaborada.
 
-¿Qué es lo primordial?  Olvidarse de que tiene que ver con algo netamente físico, si bien los hombres nos vemos atraídos por lo que vemos, cuerpos esbeltos o voluminosos, rostros atractivos, llamativos de alguna forma, en las mujeres no siempre aplica la misma fórmula, si bien también surte efecto el que vean un cuerpo bien formado, a nivel físico las cosas que primero le suelen llamar la atención a las mujeres son: brazos grandes, piernas y traseros bien formados, espaldas anchas y una cara atractiva son  los puntos principales que les podrían atraer, pero nada de eso puede tomarse como un punto único o ley para motivar o lograr algo más.
+## ¿Qué es lo primordial? 
+Olvidarse de que tiene que ver con algo netamente físico, si bien los hombres nos vemos atraídos por lo que vemos, cuerpos esbeltos o voluminosos, rostros atractivos, llamativos de alguna forma, en las mujeres no siempre aplica la misma fórmula, si bien también surte efecto el que vean un cuerpo bien formado, a nivel físico las cosas que primero le suelen llamar la atención a las mujeres son: brazos grandes, piernas y traseros bien formados, espaldas anchas y una cara atractiva son  los puntos principales que les podrían atraer, pero nada de eso puede tomarse como un punto único o ley para motivar o lograr algo más.
 
 Si lo físico no es lo primordial, entonces puedo ser un cerdo o un flaco raquítico? Tampoco es así, aún cuando las mujeres puedan darle más importancia a otros aspectos, por salud y por un mejor rendimiento en el día a día e inclusive en el plano sexual, es recomendable que nos mantengamos en forma o al menos realicemos alguna actividad física de forma regular.  No es necesario tener el cuerpo de un millón de dólares, pero basta con tener un poco de cuidado con nuestro cuerpo.
 
@@ -51,7 +49,8 @@ Ya sé qué le gusta, con eso soy un campeón y voy a triunfar con todas las muj
 
 Ojo, no estoy promoviendo la promiscuidad, simplemente aclarando algunas ideas.  Personalmente creo que una relación se vuelve mucho mejor y se disfruta mucho más cuando tienes una pareja estable con la cual te puedas comunicar y aprender.  Pero cada uno es libre de escoger lo que hace en su vida al final, no?
 
-Ok, ya entendí que debo escuchar y aprender, siguiente paso?  Aquí algo que puede hacerse primero y que no necesita de una mujer, aprender a controlar nuestro cuerpo, la respiración, las contracciones, la velocidad y la fuerza.  Somos dueños de nuestro cuerpo y nuestro cerebro es el que se encarga de manejar las reacciones, si queremos poder experimentar como dije antes, es importante tener control de nuestro cuerpo, no desesperarse, para esto hay miles de ejercicios de todo tipo, desde ejercicios de relajación, de respiración, de control muscular, etc... Siendo los más famosos los ejercicios para controlar el músculo PC (pubocoxígeo) que entre otras cosas en el caso de los hombres ayuda a evitar la eyaculación precoz y permite que ese momento especial con nuestra pareja sea más duradero.  Basta con una búsqueda rápida en google y encontrarán miles de artículos al respecto, con eso ya algunos tiene tarea por delante para investigar y practicar.  Mucho cuidado eso sí con creer directamente lo que dice el primer artículo, si pueden buscar una fuente más confiable es mejor.
+## Ok, ya entendí que debo escuchar y aprender, siguiente paso? 
+Aquí algo que puede hacerse primero y que no necesita de una mujer, aprender a controlar nuestro cuerpo, la respiración, las contracciones, la velocidad y la fuerza.  Somos dueños de nuestro cuerpo y nuestro cerebro es el que se encarga de manejar las reacciones, si queremos poder experimentar como dije antes, es importante tener control de nuestro cuerpo, no desesperarse, para esto hay miles de ejercicios de todo tipo, desde ejercicios de relajación, de respiración, de control muscular, etc... Siendo los más famosos los ejercicios para controlar el músculo PC (pubocoxígeo) que entre otras cosas en el caso de los hombres ayuda a evitar la eyaculación precoz y permite que ese momento especial con nuestra pareja sea más duradero.  Basta con una búsqueda rápida en google y encontrarán miles de artículos al respecto, con eso ya algunos tiene tarea por delante para investigar y practicar.  Mucho cuidado eso sí con creer directamente lo que dice el primer artículo, si pueden buscar una fuente más confiable es mejor.
 
 Otro tip importante y que para muchos pasa desapercibido... Hay que **aprender a besar**! Alguna vez le han preguntado a su pareja como se siente respecto a sus besos? Y qué tal si no le gustan, pero no se los dice por no herirlos?  Es diferente si nosotros se lo preguntamos y es algo básico, es lo que forma parte del preámbulo y se suele dar por sentado que está bien.
 
@@ -65,7 +64,8 @@ Lo de durar horas y horas, no quiere decir que debamos tener la resistencia de s
 
 Un mito más: si ella no llega a tener un orgasmo, no sirve.  Esto es falso, si bien sería ideal poder llevarla al climax todas las veces, no siempre es posible, pueden ser muchos factores, en este caso lo importante es no frustrarse e igual que ambos disfruten del momento, **puede ser una relación satisfactoria sin necesidad de llegar al orgasmo** y aún así dejarlos a ambos con una sonrisa de oreja a oreja y con ganas de quedarse acurrucados en la cama.  Ojo, tampoco digo que no lo sigas intentando, hay que variar, el cambio ayuda.
 
-Un mito que alguna vez escuché entre amigos:  Tienes que ser una máquina, seguir y seguir sin parar.  Si eres superman, flash o algún super héroe quizá pueda creerte.  Esto va ligado al estado físico y al ritmo que lleven, por momentos mantener cierta velocidad y fuerza puede ser satisfactorio, pero no quiere decir que sea igual para todas las mujeres, ni en todos los momentos.  Habrá ratos que al revés, sea mucho mejor ir lento, variando con movimientos circulares.  Y cómo voy a saber cuando hacer una cosa u otra?? Escucha, siente y observa.. Mira las reacciones que tiene, lo que te dice, no sólo con palabras, sino con gestos, con miradas, con sonidos, cada fragmento de información te permite saber cuál debe ser el siguiente paso... A la primera le vas a fallar? Quizá, pero a medida que vas aprendiendo un poco más, será cada vez mejor.
+## Un mito que alguna vez escuché entre amigos: 
+Tienes que ser una máquina, seguir y seguir sin parar. Si eres superman, flash o algún super héroe quizá pueda creerte.  Esto va ligado al estado físico y al ritmo que lleven, por momentos mantener cierta velocidad y fuerza puede ser satisfactorio, pero no quiere decir que sea igual para todas las mujeres, ni en todos los momentos.  Habrá ratos que al revés, sea mucho mejor ir lento, variando con movimientos circulares.  Y cómo voy a saber cuando hacer una cosa u otra?? Escucha, siente y observa.. Mira las reacciones que tiene, lo que te dice, no sólo con palabras, sino con gestos, con miradas, con sonidos, cada fragmento de información te permite saber cuál debe ser el siguiente paso... A la primera le vas a fallar? Quizá, pero a medida que vas aprendiendo un poco más, será cada vez mejor.
 
 No te limites a los puntos visibles, los hombres podemos tener la tendencia a fijarnos específicamente siempre en las mismas zonas del cuerpo y hay mucho más que explorar, hay miles de terminaciones nerviosas y en ocasiones **podemos encontrar un punto "débil" en el lugar menos esperado**.
 
