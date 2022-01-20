@@ -37,7 +37,6 @@ const NavMenu = styled.div`
   z-index: 2000;
 
   @media (max-width: 768px) {
-    display: block;
     position: fixed;
     background: white;
     right: 10px;
@@ -111,8 +110,8 @@ const Layout = (Props) => {
               </TitleComponent>
             </div>
             <div>
-              <div class="flex justify-end lg:hidden" onClick={toggleMenu} role={'button'} tabIndex={0} aria-hidden="true">
-                <div class="space-y-2">
+              <div class="flex justify-end lg:hidden">
+                <div class="space-y-2" onClick={toggleMenu} role={'button'} tabIndex={0} aria-hidden="true" style={{width: 32, height: 32}}>
                   <span class="block w-8 h-0.5 bg-gray-600 animate-pulse"></span>
                   <span class="block w-8 h-0.5 bg-gray-600 animate-pulse"></span>
                   <span class="block w-8 h-0.5 bg-gray-600 animate-pulse"></span>
