@@ -10,6 +10,8 @@ body {
 
 ul {
   list-style: square;
+  margin: auto;
+  padding: 2rem;
 }
 
 ol {
@@ -59,16 +61,4 @@ a.link {
 section h2 {
   @apply font-bold text-red-400;
   margin-top: 35px;
-}
-
-ul.pageLinks {
-  list-style: none;
-  float: right;
-  font-weight: bold;
-}
-
-.pageLinks li {
-  float: left;
-  display: block;
-  padding: 10px;
 }
