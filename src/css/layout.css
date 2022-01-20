@@ -31,7 +31,7 @@ ol li {
 }
 
 .text-date {
-  color: #CCCBC6;
+  color: #838383;
   font-size: 70%;
   border-bottom: 1px dotted #CCCBC6;
   display: block;
@@ -50,7 +50,7 @@ span + em {
 }
 
 .blog-post-box {
-  @apply inline-block align-top max-w-sm rounded-sm mx-5;
+  @apply align-top rounded-sm;
 }
 
 a.link {

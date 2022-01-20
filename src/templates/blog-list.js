@@ -44,7 +44,7 @@ class BlogIndex extends React.Component {
         />
         <Bio />
 
-        <div className="">
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           const articleLink = (node.frontmatter.path) ? node.frontmatter.path : node.fields.slug;
