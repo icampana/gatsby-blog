@@ -111,7 +111,7 @@ const Layout = (Props) => {
               </TitleComponent>
             </div>
             <div>
-              <div class="flex justify-end lg:hidden" onClick={toggleMenu}>
+              <div class="flex justify-end lg:hidden" onClick={toggleMenu} role={'button'} tabIndex={0} aria-hidden="true">
                 <div class="space-y-2">
                   <span class="block w-8 h-0.5 bg-gray-600 animate-pulse"></span>
                   <span class="block w-8 h-0.5 bg-gray-600 animate-pulse"></span>

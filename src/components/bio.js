@@ -37,8 +37,8 @@ const Bio = () => {
 
   const { author, social } = data.site.siteMetadata
   return (
-    <div className="md:flex mb-3 mx-5">
-      <div className="md:flex-shrink-0">
+    <div className="grid sm:grid-cols-1 lg:grid-cols-2 my-5">
+      <div className="flex justfy-start my-4">
         <GatsbyImage
           image={data.avatar.childImageSharp.gatsbyImageData}
           alt={author}
@@ -55,7 +55,7 @@ const Bio = () => {
           Escrito por <strong>{author}</strong> <br />Informático, Emprendedor, Desarrollador y Curioso a tiempo completo.
         </div>
       </div>
-      <div style={{ textAlign: 'right', width: '50%' }}>
+      <div className='flex justify-around md:justify-end my-4'>
         <a href={`https://twitter.com/${social.twitter}`} style={{ boxShadow: 'none' }}>
           <FontAwesomeIcon icon={ faTwitter }  size='2x' />
         </a>
