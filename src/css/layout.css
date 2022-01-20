@@ -8,10 +8,13 @@ body {
   background-color: white;
 }
 
-ul {
-  list-style: square;
+ul, ol {
   margin: auto;
   padding: 2rem;
+}
+
+ul {
+  list-style: square;
 }
 
 ol {
