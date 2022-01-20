@@ -1,12 +1,56 @@
 import React from "react";
 import { Link, useStaticQuery, graphql } from "gatsby";
 import { rhythm, scale } from "../utils/typography";
+import styled from 'styled-components';
 import '../css/layout.css';
 
+const H1 = styled.h1`
+  margin-bottom: ${rhythm(1.5)};
+  margin-top: 0;
+`;
+
+const H2 = styled.h2`
+  margin-bottom: ${rhythm(1.5)};
+  margin-top: 0;
+`;
+
+const HeaderLink = styled(Link)`
+  box-shadow: none;
+  text-decoration: none;
+  color: inherit;
+`;
+
+const LinksContainer = styled.ul`
+  list-style: none;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+
+  li {
+    display: inline-block;
+    padding: 10px;
+  }
+`;
+
+const NavMenu = styled.div`
+  z-index: 2000;
+
+  @media (max-width: 768px) {
+    display: block;
+    position: fixed;
+    background: white;
+    right: 10px;
+    left: 0;
+    padding: 10px;
+    box-shadow: 5px 5px 5px grey;
+  }
+`;
+
 const Layout = (Props) => {
+  const [menuVisible, setMenuVisible] = React.useState(false);
   const { location, title, children } = Props;
   const rootPath = `${__PATH_PREFIX__}/`;
-  let header;
 
   const pageQuery = useStaticQuery(
     graphql`
@@ -47,53 +91,39 @@ const Layout = (Props) => {
 
     return '';
   });
+  const isHomepage = location.pathname === rootPath;
+  const TitleComponent = (isHomepage) ? H1 : H2;
+  const extraStyles = (isHomepage) ? scale(1.1) : scale(0.8);
+  const toggleMenu = (event) => {
+    event.preventDefault();
+    setMenuVisible(!menuVisible);
+  }
 
-    if (location.pathname === rootPath) {
-      header = (
-        <div>
-          <ul className="pageLinks">{menuLinks}</ul>
-          <h1
-          style={{
-            ...scale(1.5),
-            marginBottom: rhythm(1.5),
-            marginTop: 0,
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={`/`}
-          >
-            {title}
-          </Link>
-        </h1>
-      </div>
-      )
-    } else {
-      header = (
-        <div>
-          <ul className="pageLinks">{menuLinks}</ul>
-          <h2 className="font-mono mt-1">
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={`/`}
-          >
-            {title}
-          </Link>
-          </h2>
-        </div>
-      );
-    }
     return (
       <div className="container mx-auto px-4 lg:px-0 py-8">
-        <header>{header}</header>
+        <header>
+          <div className='grid grid-cols-3 gap-4'>
+            <div className='col-span-2'>
+              <TitleComponent className="font-mono mt-1" style={{...extraStyles}}>
+                <HeaderLink to={`/`}>
+                  {title}
+                </HeaderLink>
+              </TitleComponent>
+            </div>
+            <div>
+              <div class="flex justify-end lg:hidden" onClick={toggleMenu}>
+                <div class="space-y-2">
+                  <span class="block w-8 h-0.5 bg-gray-600 animate-pulse"></span>
+                  <span class="block w-8 h-0.5 bg-gray-600 animate-pulse"></span>
+                  <span class="block w-8 h-0.5 bg-gray-600 animate-pulse"></span>
+                </div>
+              </div>
+              <NavMenu className={`${ (!menuVisible) ? 'hidden' : ''} space-x-8 justify-end lg:flex`}>
+                <LinksContainer>{menuLinks}</LinksContainer>
+              </NavMenu>
+            </div>
+          </div>
+        </header>
         <main>{children}</main>
         <footer className='bg-gray-800 mt-8 p-4 text-white'>
           © {new Date().getFullYear()}, Hecho con <a href="https://www.gatsbyjs.com">Gatsby</a>
