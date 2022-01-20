@@ -29,6 +29,10 @@ class BlogPostTemplate extends React.Component {
     return '';
   }
 
+  getLink(post) {
+    return post.frontmatter.path || post.fields.slug;
+  }
+
   render() {
     const post = this.props.data.markdownRemark;
     const siteTitle = this.props.data.site.siteMetadata.title;
@@ -87,14 +91,14 @@ class BlogPostTemplate extends React.Component {
           >
             <li>
               {previous && (
-                <Link to={previous.frontmatter.path} rel="prev">
+                <Link to={this.getLink(previous)} rel="prev">
                   ← {previous.frontmatter.title}
                 </Link>
               )}
             </li>
             <li>
               {next && (
-                <Link to={next.frontmatter.path} rel="next">
+                <Link to={this.getLink(next)} rel="next">
                   {next.frontmatter.title} →
                 </Link>
               )}
