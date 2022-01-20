@@ -147,7 +147,7 @@ export const pageQuery = graphql`query blogPageQuery($skip: Int!, $limit: Int!) 
               gatsbyImageData(
                 width: 900
                 height: 320
-                placeholder: TRACED_SVG
+                placeholder: BLURRED
                 layout: CONSTRAINED
               )
             }
