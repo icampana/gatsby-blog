@@ -17,9 +17,8 @@ class BlogPostTemplate extends React.Component {
       return (
         <div className='w-24 min-w-full grid place-content-center'>
           <GatsbyImage
-            className='my-10'
+
             aspectRatio={16/9}
-            transformOptions={{fit: "cover", cropFocus: "attention"}}
             image={featuredImage.childImageSharp.gatsbyImageData}
             key={featuredImage.publicURL} />
         </div>
@@ -133,7 +132,7 @@ export const pageQuery = graphql`query BlogPostBySlug($slug: String!) {
         childImageSharp {
           gatsbyImageData(
             width: 900
-            placeholder: TRACED_SVG
+            placeholder: BLURRED
             layout: CONSTRAINED
           )
         }
