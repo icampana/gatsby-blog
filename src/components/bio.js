@@ -7,7 +7,7 @@
 
 import React from "react";
 import { useStaticQuery, graphql } from "gatsby";
-import Image from "gatsby-image";
+import { GatsbyImage } from "gatsby-plugin-image";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTwitter, faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
@@ -15,35 +15,32 @@ import { faPodcast } from '@fortawesome/free-solid-svg-icons';
 import { rhythm } from "../utils/typography";
 
 const Bio = () => {
-  const data = useStaticQuery(graphql`
-    query BioQuery {
-      avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
-        childImageSharp {
-          fixed(width: 50, height: 50) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-      }
-      site {
-        siteMetadata {
-          author
-          social {
-            twitter
-            github
- 	    linkedin
-	    anchor
-          }
-        }
+  const data = useStaticQuery(graphql`query BioQuery {
+  avatar: file(absolutePath: {regex: "/profile-pic.jpg/"}) {
+    childImageSharp {
+      gatsbyImageData(width: 50, height: 50, layout: FIXED)
+    }
+  }
+  site {
+    siteMetadata {
+      author
+      social {
+        twitter
+        github
+        linkedin
+        anchor
       }
     }
-  `)
+  }
+}
+`)
 
   const { author, social } = data.site.siteMetadata
   return (
     <div className="md:flex mb-3 mx-5">
       <div className="md:flex-shrink-0">
-        <Image
-          fixed={data.avatar.childImageSharp.fixed}
+        <GatsbyImage
+          image={data.avatar.childImageSharp.gatsbyImageData}
           alt={author}
           style={{
             marginRight: rhythm(1 / 2),
@@ -53,8 +50,7 @@ const Bio = () => {
           }}
           imgStyle={{
             borderRadius: `50%`,
-          }}
-        />
+          }} />
         <div style={{ float: 'right' }}>
           Escrito por <strong>{author}</strong> <br />Informático, Emprendedor, Desarrollador y Curioso a tiempo completo.
         </div>
@@ -77,7 +73,7 @@ const Bio = () => {
         </a>
       </div>
     </div>
-  )
+  );
 }
 
 export default Bio

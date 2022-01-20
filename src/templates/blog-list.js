@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, graphql } from 'gatsby';
-import Img from 'gatsby-image';
+import { GatsbyImage } from "gatsby-plugin-image";
 
 import SeoComponent from '../components/seo';
 import Bio from '../components/bio';
@@ -15,7 +15,9 @@ class BlogIndex extends React.Component {
         typeof featuredImage.childImageSharp !== 'undefined') {
       return (
         <div className='shadow-md'>
-          <Img key={featuredImage.childImageSharp.fluid.src} fluid={featuredImage.childImageSharp.fluid} />
+          <GatsbyImage
+            image={featuredImage.childImageSharp.gatsbyImageData}
+            key={featuredImage.childImageSharp.gatsbyImageData.src} />
         </div>
       );
     }
@@ -116,41 +118,43 @@ class BlogIndex extends React.Component {
 
 export default BlogIndex
 
-export const pageQuery = graphql`
-  query blogPageQuery($skip: Int!, $limit: Int!) {
-    site {
-      siteMetadata {
-        title
-        description
-        image
-      }
+export const pageQuery = graphql`query blogPageQuery($skip: Int!, $limit: Int!) {
+  site {
+    siteMetadata {
+      title
+      description
+      image
     }
-    allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
-      filter: {fileAbsolutePath: { regex: "/content/posts/" }}
-      limit: $limit
-      skip: $skip
-    ) {
-      edges {
-        node {
-          excerpt
-          fields {
-            slug
-          }
-          frontmatter {
-            date(formatString: "DD MMMM, YYYY")
-            title
-            path
-            featuredImage {
-              childImageSharp{
-                fluid (maxWidth:900, maxHeight: 320){
-                  ...GatsbyImageSharpFluid_tracedSVG
-                }
-              }
+  }
+  allMarkdownRemark(
+    sort: {fields: [frontmatter___date], order: DESC}
+    filter: {fileAbsolutePath: {regex: "/content/posts/"}}
+    limit: $limit
+    skip: $skip
+  ) {
+    edges {
+      node {
+        excerpt
+        fields {
+          slug
+        }
+        frontmatter {
+          date(formatString: "DD MMMM, YYYY")
+          title
+          path
+          featuredImage {
+            childImageSharp {
+              gatsbyImageData(
+                width: 900
+                height: 320
+                placeholder: TRACED_SVG
+                layout: CONSTRAINED
+              )
             }
           }
         }
       }
     }
   }
+}
 `

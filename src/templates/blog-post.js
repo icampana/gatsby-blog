@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, graphql } from "gatsby";
-import Img from 'gatsby-image';
+import { GatsbyImage } from "gatsby-plugin-image";
 
 import Bio from "../components/bio";
 import Layout from "../components/layout";
@@ -15,8 +15,13 @@ class BlogPostTemplate extends React.Component {
         featuredImage.childImageSharp !== null &&
         typeof featuredImage.childImageSharp !== 'undefined') {
       return (
-        <div className='w-24 min-w-full'>
-          <Img key={featuredImage.childImageSharp.fluid.src} fluid={featuredImage.childImageSharp.fluid} />
+        <div className='w-24 min-w-full grid place-content-center'>
+          <GatsbyImage
+            className='my-10'
+            aspectRatio={16/9}
+            transformOptions={{fit: "cover", cropFocus: "attention"}}
+            image={featuredImage.childImageSharp.gatsbyImageData}
+            key={featuredImage.publicURL} />
         </div>
       );
     }
@@ -103,32 +108,33 @@ class BlogPostTemplate extends React.Component {
 
 export default BlogPostTemplate
 
-export const pageQuery = graphql`
-  query BlogPostBySlug($slug: String!) {
-    site {
-      siteMetadata {
-        title
-        author
-        siteUrl
-        image
-      }
+export const pageQuery = graphql`query BlogPostBySlug($slug: String!) {
+  site {
+    siteMetadata {
+      title
+      author
+      siteUrl
+      image
     }
-    markdownRemark(fields: { slug: { eq: $slug } }) {
-      id
-      excerpt(pruneLength: 160)
-      html
-      frontmatter {
-        title
-        date(formatString: "MMMM DD, YYYY")
-        featuredImage {
-          publicURL
-          childImageSharp{
-            fluid (maxWidth:900, maxHeight: 320){
-              ...GatsbyImageSharpFluid_tracedSVG
-            }
-          }
+  }
+  markdownRemark(fields: {slug: {eq: $slug}}) {
+    id
+    excerpt(pruneLength: 160)
+    html
+    frontmatter {
+      title
+      date(formatString: "MMMM DD, YYYY")
+      featuredImage {
+        publicURL
+        childImageSharp {
+          gatsbyImageData(
+            width: 900
+            placeholder: TRACED_SVG
+            layout: CONSTRAINED
+          )
         }
       }
     }
   }
+}
 `

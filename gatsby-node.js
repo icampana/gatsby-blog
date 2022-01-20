@@ -24,13 +24,13 @@ exports.createPages = async ({ graphql, actions }) => {
             title
             path
             featuredImage {
-              childImageSharp{
-                fluid{
-                  srcSetWebp
-                  src
-                  sizes
-                  tracedSVG
-                }
+              childImageSharp {
+                gatsbyImageData(
+                  width: 900
+                  height: 320
+                  placeholder: TRACED_SVG
+                  layout: CONSTRAINED
+                )
               }
             }
           }
