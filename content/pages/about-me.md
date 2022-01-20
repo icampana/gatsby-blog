@@ -6,7 +6,7 @@ author: ivan
 slug: sobre-el-autor
 date: 2020-12-18T06:48:54.874Z
 comments: false
-title: Sobre el autor
+title: Sobre Mi
 ---
 Iván Gabriel Campaña Naranjo, nacido en 1981 en Guayaquil, Ecuador.
 
