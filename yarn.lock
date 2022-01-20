@@ -5798,7 +5798,7 @@ gatsby-plugin-manifest@^4.4.0:
     semver "^7.3.5"
     sharp "^0.29.3"
 
-gatsby-plugin-netlify-cms@^6.4.0:
+gatsby-plugin-netlify-cms@^6.5.0:
   version "6.5.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify-cms/-/gatsby-plugin-netlify-cms-6.5.0.tgz#f96c1ea259ab163e4396ad2a58257ca06a92701d"
   integrity sha512-K7cmRnzS74mXoPMQMVjD5M01kvVOX2ycNDZ9bBV6vvIWB9BOGZ7+VXAgCNMgmJghEPf8tgCm262wE8WMYusjNw==
@@ -13516,7 +13516,7 @@ webpack-virtual-modules@^0.3.2:
   dependencies:
     debug "^3.0.0"
 
-webpack@^5.61.0, webpack@^5.66.0:
+webpack@^5.61.0:
   version "5.66.0"
   resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.66.0.tgz#789bf36287f407fc92b3e2d6f978ddff1bfc2dbb"
   integrity sha512-NJNtGT7IKpGzdW7Iwpn/09OXz9inIkeIQ/ibY6B+MdV1x6+uReqz/5z1L89ezWnpPDWpXF0TY5PCYKQdWVn8Vg==
