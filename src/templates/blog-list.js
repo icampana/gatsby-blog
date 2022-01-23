@@ -37,7 +37,7 @@ class BlogIndex extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SeoComponent
-          title={siteTitle}
+          title={`${ (!isFirst) ? `Page ${currentPage}` : 'Home'}`}
           description={siteDescription}
           keywords={[`blog`, 'Ecuador', 'informatica', 'pensamientos',`gatsby`, `javascript`, `react`, 'vuejs', 'web engineer', 'development']}
           image={data.site.siteMetadata.image}

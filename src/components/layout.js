@@ -9,7 +9,8 @@ const H1 = styled.h1`
   margin-top: 0;
 `;
 
-const H2 = styled.h2`
+const H2 = styled.div`
+  font-weight: bold;
   margin-bottom: ${rhythm(1.5)};
   margin-top: 0;
 `;
@@ -103,7 +104,7 @@ const Layout = (Props) => {
         <header>
           <div className='grid grid-cols-3 gap-4'>
             <div className='col-span-2'>
-              <TitleComponent className="font-mono mt-1" style={{...extraStyles}}>
+              <TitleComponent className="mt-1" style={{...extraStyles}}>
                 <HeaderLink to={`/`}>
                   {title}
                 </HeaderLink>
