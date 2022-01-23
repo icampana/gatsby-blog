@@ -1,6 +1,6 @@
 ---
 title: Vue.JS vs React
-date: 2021-01-04T02:07:57.709Z
+date: 2022-01-23T07:01:10.093Z
 featuredImage: vue-vs-react.jpg
 description: Comparación entre dos de las tecnologías más utilizadas para
   frontend en los últimos años
@@ -13,11 +13,11 @@ Si trabajas en desarrollo web es más que seguro que has escuchado acerca de Rea
 
 ## Antecedentes
 
-Hace algunos años decidí comenzar a modernizar la forma en la que había estado acostumbrado a construir aplicaciones, especialmente en la parte del frontend, me había quedado demasiado tiempo en mi zona de comfort con [Drupal](https://www.drupal.org/) que si bien sigue siendo una herramienta sumamente útil, al mismo tiempo escuchaba que aparecían más alternativas para crear interfaces y mucho del mercado tanto norteamericano como europeo en cambio se estaba yendo hacia las SPAs (Single Page Applications) y JAM Stack (Javascript APIs y Markup), así que comencé a ver qué es lo que estaba disponible.
+Hace algunos años decidí comenzar a modernizar la forma en la que había estado acostumbrado a construir aplicaciones, especialmente en la parte del frontend, me había quedado demasiado tiempo en mi zona de comfort con [Drupal](https://www.drupal.org/) que si bien sigue siendo una herramienta sumamente útil, al mismo tiempo escuchaba que aparecían más alternativas para crear interfaces y mucho del mercado estaban experimentando con las SPAs (Single Page Applications) y JAM Stack (Javascript APIs y Markup), así que comencé a ver qué es lo que estaba disponible.
 
-Originalmente arranqué con AngularJS que luego pasó a ser simplemente [Angular 2](https://angular.io/) (al momento de escribir este artículo van por la versión 11), desarrollado y auspiciado por Google se trata de un framework para aplicaciones web que se aprende bastante fácil porque trabaja extendiendo el HTML que ya conocemos con directivas para simplificar el trabajo, uno de los grandes peros que muchos le encontraron fue que forzaba el uso de Typescript en lugar de Javascript y aunque esto en el fondo representa ventajas quitaba la opción de elegir, además que alteraba directamente el DOM (a partir de la versión 2 ya no es así) lo cual hacía que su rendimiento fuera lento.  El equipo de desarrollo de Angular llegó al punto de "aceptar su derrota" y decir que el equipo de [React](https://reactjs.org/) (la biblioteca hecha por Facebook) había sido mejor pensado.
+Originalmente arranqué con AngularJS que luego pasó a ser simplemente [Angular 2](https://angular.io/) (al momento de escribir este artículo van por la versión 13 y la versión inicial ha sido descontinuada completamente), desarrollado y auspiciado por Google se trata de un framework para aplicaciones web que se aprende bastante fácil porque trabaja extendiendo el HTML que ya conocemos con directivas para simplificar el trabajo, uno de los grandes peros que muchos le encontraron fue que forzaba el uso de Typescript en lugar de Javascript y aunque esto en el fondo representa ventajas quitaba la opción de elegir, además que alteraba directamente el DOM (a partir de la versión 2 ya no es así) lo cual hacía que su rendimiento fuera lento.  El equipo de desarrollo de Angular llegó al punto de "aceptar su derrota" y decir que el equipo de [React](https://reactjs.org/) (la biblioteca hecha por Facebook) había sido mejor pensado.
 
-Por esto (además de haber encontrado mil y un problemas de rendimiento al usar Angular en móviles cuando las aplicaciones comenzaban a crecer, decidí dar el brinco y aprender React. 
+Por esto (además de haber encontrado mil y un problemas de rendimiento al usar Angular en móviles cuando las aplicaciones comenzaban a crecer, decidí dar el salto y aprender React. 
 
 ## React
 
@@ -27,11 +27,7 @@ Permite crear interfaces y experiencias complejas al crear piezas aisladas de c�
 
 ## VueJS
 
-
-
 Diferencias
-
-
 
 ## Syntax
 
@@ -45,13 +41,16 @@ React’s JavaScript Expressions (JSX) combine HTML and CSS together into JavaSc
 
 The way professionals see React and Vue might help others decide which of the two is more suited to their current expectations and capabilities.
 
-What devs [love about Vue.js](https://2018.stateofjs.com/front-end-frameworks/vuejs/):
+|Vue|React|
+| x | x |
+
+What devs [love about Vue.js](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/vuejs):
 
 * Easy learning curve
 * Elegant programming style and patterns
 * Good documentation
 
-What devs [love about React](https://2018.stateofjs.com/front-end-frameworks/react/):
+What devs [love about React](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/react):
 
 * Elegant programming style and patterns
 * Rich package ecosystem
@@ -59,13 +58,9 @@ What devs [love about React](https://2018.stateofjs.com/front-end-frameworks/re
 
 After taking the top spot in the most-used web framework list in the [2020 Stack Overflow Survey,](https://insights.stackoverflow.com/survey/2020#most-popular-technologies) with 35.9% respondents choosing React, it continues to be the second most popular framework. 
 
-
-
 ## Vue.js
 
 Being a progressive framework, Vue can be integrated into an existing project incrementally, per project requirements. For example, as a lightweight library to add some interactivity to a Web application.
-
-
 
 ## React.js
 
@@ -73,7 +68,7 @@ Since React was created for large-scale Web projects, choosing it for small and 
 
 [JSX](https://reactjs.org/docs/introducing-jsx.html) leaves developers the full power of JavaScript at their disposal—flow controls and advanced IDE features such as autocompletion or listing are included in the component view templates.
 
-## The Right Tool Depends on Your Needs
+## La herramienta correcta dependerá de tus necesidades
 
 Vue.js and React are both great tools for building interactive user interfaces. To choose which one is better for your next project, you have to take a number of factors into account, including your specific use case, your business needs, environment, developer availability, budget, and the timeframe you’re working with.
 
@@ -84,7 +79,5 @@ Performance-wise, Vue.js is on a par with React. However, final results essentia
 Vue has official packages for state management, routing, or server-side rendering, which come with up-to-date support and ensure synchronization throughout your system. With Vue CLI 3 and Vue UI, setting up a project and preparing it for deployment is lightning fast. This, in turn, helps build MVPs in a quick and efficient manner.
 
 React, on the other hand, is a veteran of the JS field. With corporate support, a large community, and an even bigger ecosystem, React is great for [building complex enterprise-grade applications.](https://www.monterail.com/blog/react-native-reactxp) Also, the job market is booming with experienced React developers, so you won’t find yourself in short supply of specialists. Because its maturity and community, reaching out for help and getting a prompt and detailed answer is more or less guaranteed. 
-
-
 
 Oportunidades laborales
