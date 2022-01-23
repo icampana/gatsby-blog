@@ -132,7 +132,7 @@ export const pageQuery = graphql`query BlogPostBySlug($slug: String!) {
         childImageSharp {
           gatsbyImageData(
             width: 900
-            placeholder: BLURRED
+            placeholder: DOMINANT_COLOR
             layout: CONSTRAINED
           )
         }
