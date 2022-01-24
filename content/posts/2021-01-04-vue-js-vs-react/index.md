@@ -30,11 +30,17 @@ React es una biblioteca de Javascript sumamente flexible que está enfocada espe
 
 Permite crear interfaces y experiencias complejas al crear piezas aisladas de código llamadas "componentes", una buena práctica recomendada es integrar esto con una herramienta como [Storybook](https://storybook.js.org/) y puedes ver cómo lucen y se comportan los componentes sin siquiera tener que conectarte con una fuente de datos, lo cual permite trabajar la lógica completamente aislada del estilo.
 
+Para crear la representación de sus componentes utiliza una sintaxis específica, llamada JSX que se asemeja visualmente a HTML (ya hablare en detalle) pero permite traducirlo luego al elemento será mostrado en la pantalla, que en el caso de la web, sí es una etiqueta HTML finalmente.
+
+Este concepto permite la separación entre la lógica de visualización y la implementación, y es por esta razón que también se facilitó el nacimiento a React Native, que mantiene los mismo conceptos de React, pero permite "traducir" los componentes a otros dispositivos, como puede ser la Web, el escritorio o un teléfono móvil. 
+
 ## VueJS
 
-\----
+Vue a diferencia de React fue pensado para tener una definición más completa y acercarse más al modelo MVC, no sólo manejando una capa de presentación sencilla, sino también incluir más herramientas, como inclusive el manejo de estados.   Una de las ventajas es que permite ser utilizado de forma progresiva, es decir, no hace falta migrar completamente una aplicación para poder aprovecharlo y se enfoca en ser sencillo, entregando el mínimo o lo que diríamos lo "justo y necesario" para poder hacer una aplicación funcional. 
 
-## Diferencias entre VueJS y React
+Maneja el mismo concepto de componentes de React (trata de aprovechar lo mejor de sus antecesores) y lo integra con el uso de directivas, lo que permite que podamos integrar un componente con el HTML que ya conocemos y podemos usar.  Otra de las características de Vue es que permite trabajar tanto con CSS que sólo existe dentro de un scope o también de forma global (para los que vienen de React, ya tiene integrado su propio Styled Components como parte de su diseño).
+
+
 
 ### Sintáxis
 
