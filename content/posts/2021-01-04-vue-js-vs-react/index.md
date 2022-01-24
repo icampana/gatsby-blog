@@ -13,56 +13,59 @@ Si trabajas en desarrollo web es más que seguro que has escuchado acerca de Rea
 
 ## Antecedentes
 
-Hace algunos años decidí comenzar a modernizar la forma en la que había estado acostumbrado a construir aplicaciones, especialmente en la parte del frontend, me había quedado demasiado tiempo en mi zona de comfort con [Drupal](https://www.drupal.org/) que si bien sigue siendo una herramienta sumamente útil, al mismo tiempo escuchaba que aparecían más alternativas para crear interfaces y mucho del mercado estaban experimentando con las SPAs (Single Page Applications) y JAM Stack (Javascript APIs y Markup), así que comencé a ver qué es lo que estaba disponible.
+Hace algunos años decidí comenzar a modernizar la forma en la que había estado acostumbrado a construir aplicaciones, especialmente en la parte del frontend, me había quedado demasiado tiempo en mi zona de comfort con [Drupal](https://www.drupal.org/) que si bien sigue siendo una herramienta sumamente útil, al mismo tiempo había proyectos en los que sólo la configuración inicial tomaba mucho más tiempo de lo que probablemente me tomaría crear una aplicación sencilla.
 
-Originalmente arranqué con AngularJS que luego pasó a ser simplemente [Angular 2](https://angular.io/) (al momento de escribir este artículo van por la versión 13 y la versión inicial ha sido descontinuada completamente), desarrollado y auspiciado por Google se trata de un framework para aplicaciones web que se aprende bastante fácil porque trabaja extendiendo el HTML que ya conocemos con directivas para simplificar el trabajo, uno de los grandes peros que muchos le encontraron fue que forzaba el uso de Typescript en lugar de Javascript y aunque esto en el fondo representa ventajas quitaba la opción de elegir, además que alteraba directamente el DOM (a partir de la versión 2 ya no es así) lo cual hacía que su rendimiento fuera lento.  El equipo de desarrollo de Angular llegó al punto de "aceptar su derrota" y decir que el equipo de [React](https://reactjs.org/) (la biblioteca hecha por Facebook) había sido mejor pensado.
+Escuchaba que aparecían más alternativas para crear interfaces y mucho del mercado estaban experimentando con las SPAs (Single Page Applications) y JAM Stack (Javascript APIs y Markup), así que comencé a ver qué es lo que estaba disponible.
+
+Originalmente arranqué con AngularJS que luego pasó a ser simplemente [Angular 2](https://angular.io/) (al momento de escribir este artículo van por la versión 13 y la versión inicial ha sido descontinuada completamente), desarrollado y auspiciado por Google se trata de un framework para aplicaciones web que se aprende bastante fácil porque trabaja extendiendo el HTML que ya conocemos con directivas para simplificar el trabajo, uno de los grandes peros que muchos le encontraron fue que forzaba el uso de Typescript en lugar de Javascript y aunque esto en el fondo representa ventajas quitaba la opción de elegir, además que alteraba directamente el DOM (a partir de la versión 2 ya no es así) lo cual hacía que su rendimiento fuera lento.
+
+El equipo de desarrollo de Angular llegó al punto de "aceptar su derrota" y decir que el equipo de [React](https://reactjs.org/) (la biblioteca hecha por Facebook) había sido mejor pensado.
 
 Por esto (además de haber encontrado mil y un problemas de rendimiento al usar Angular en móviles cuando las aplicaciones comenzaban a crecer, decidí dar el salto y aprender React. 
 
 ## React
 
-React es una biblioteca de Javascript eficiente y flexible que está enfocada específicamente en construir interfaces de usuario, no es "opinionada" es decir, nos da la libertad de utilizar los componentes que nosotros querramos para el manejo de datos, estado, ruteo, etc.  Aunque a veces esa libertad también puede irse en nuestra contra si es que dedicamos mucho tiempo a escoger cual será el esquema a usar, al principio la lista de opciones es demasiado larga, pero con la experiencia eso va siendo más sencillo y llegas a tener tu lista de preferidos bastante bien definida.
+React es una biblioteca de Javascript sumamente flexible que está enfocada específicamente en construir interfaces de usuario, no es "opinionada" es decir, nos da la libertad de utilizar los componentes que nosotros querramos para el manejo de datos, estado, ruteo, etc.  Aunque a veces esa libertad también puede irse en nuestra contra si es que dedicamos mucho tiempo a escoger cual será el esquema a usar, al principio la lista de opciones es demasiado larga, pero con la experiencia eso va siendo más sencillo y llegas a tener tu lista de preferidos bastante bien definida.
 
 Permite crear interfaces y experiencias complejas al crear piezas aisladas de código llamadas "componentes", una buena práctica recomendada es integrar esto con una herramienta como [Storybook](https://storybook.js.org/) y puedes ver cómo lucen y se comportan los componentes sin siquiera tener que conectarte con una fuente de datos, lo cual permite trabajar la lógica completamente aislada del estilo.
 
 ## VueJS
 
-Diferencias
+\----
 
-## Syntax
+## Diferencias entre VueJS y React
 
-One of the biggest differences between Vue and React is the way the view layer is built.
+### Sintáxis
 
-By default, Vue uses HTML templates, but there’s an option to write in JSX.
+Una de las grandes diferencias entre Vue y React es la forma en que la capa de visualización se construye.  Por defecto, Vue utiliza plantillas HTML, pero también existe la opción de escribirlo en JSX.  Con React, por el otro lado sólo se puede utilizar JSX, lo cual hace que primero tengamos que acostumbrarnos a esa sintáxis.
 
-In React, on the other hand, there’s solely JSX. Vue’s traditional separation of concerns into HTML, CSS, and JS makes it easier even for beginner frontend developers to learn how to create Web applications. HTML templates are also familiar to most Web designers, and thus improve collaboration between developers and designers.
+Vue por su lado maneja una "separación de áreas"(separation of concerns) utilizando HTML, CSS y JS lo cual hace que inclusive un desarrollador frontend principiante pueda aprender a crear una aplicación Web con muy poco conocimiento, inclusive se puede crear una aplicación con Vue sin necesitar instalar ninguna herramienta, tan sólo incluyendo Vue desde una CDN.
 
-React’s JavaScript Expressions (JSX) combine HTML and CSS together into JavaScript. This [XML-like syntax](https://vuejs.org/v2/guide/comparison.html#HTML-amp-CSS) lets developers build self-contained UI components with view-rendering instructions included. 
+Otra ventaja es que las plantillas HTML hacen que sea muy sencillo para los Diseñadores Web entender cómo está estructurada la aplicación y facilita la colaboración entre desarrolladores y diseñadores.
 
-The way professionals see React and Vue might help others decide which of the two is more suited to their current expectations and capabilities.
+React con sus "JavaScript Expressions" (JSX) combina HTML y CSS dentro de JavaScript.  Lo cual muchas veces confunde a los neófitos de React, pues tiene apariencia de XML pero se traduce a objetos una vez que esto es transformado por el "motor" de React.  En el fondo esto es algo de lo más poderoso del framework, porque permite crear componentes de UI que están "auto contenidos" y se pueden compartir y reutilizar en diferentes aplicaciones.
 
-|Vue|React|
-| x | x |
+La forma en la que los desarrolladores que trabajan con ambas herramientas puede ayudar a decidir cuál está más ajustada a sus expectativas y capacidades.
 
-What devs [love about Vue.js](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/vuejs):
+Qué es lo que le gusta a los desarrolladores que usan Vue.js:
 
-* Easy learning curve
-* Elegant programming style and patterns
-* Good documentation
+* Curva de aprendizaje muy fácil
+* Estilo de programación elegante que permite el uso de patrones.
+* Buena Documentación
 
-What devs [love about React](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/react):
+Los desarrolladores que usan React por su lado disfrutan:
 
-* Elegant programming style and patterns
-* Rich package ecosystem
-* Widespread usage
+* Un estilo de programación elegante y buenos patrones de diseño
+* Un ecosistema de paquetes/componentes extenso
+* Uso generalizado (más oportunidades laborales y de soporte)
 
-After taking the top spot in the most-used web framework list in the [2020 Stack Overflow Survey,](https://insights.stackoverflow.com/survey/2020#most-popular-technologies) with 35.9% respondents choosing React, it continues to be the second most popular framework. 
+Mientras en la encuesta de [2020 de Stack Overflow,](https://insights.stackoverflow.com/survey/2020#most-popular-technologies) sobre los frameworks más utilizados React estaba en 2do lugar con un 35.9% en 2021 pasó al primer lugar con un 40.14% (superando a jQuery que antes era el primero).
 
-## Vue.js
+### Facilidad de Integración 
 
-Being a progressive framework, Vue can be integrated into an existing project incrementally, per project requirements. For example, as a lightweight library to add some interactivity to a Web application.
+**Vue.js** se considera un framework progresivo, es decir se puede integrar de manera incremental en un proyecto ya existente sin necesidad de migrar toda la aplicación, un ejemplo sencillo sería crear un widget de interacción específico a una aplicación web que ya contara con código legado.  Se puede mantener la aplicación sin cambios y sólo agregar la nueva funcionalidad con VueJS.
 
-## React.js
+**React.js** en cambio fue concebido originalmente para proyectos de gran escala, por lo cual si sólo quisiera agregar una pequena funcnnnsdf
 
 Since React was created for large-scale Web projects, choosing it for small and simple apps might be overkill. Although it requires a lot of boilerplate code just to set up a working project, React’s architecture ultimately pays off in the long run.
 
