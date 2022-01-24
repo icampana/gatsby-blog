@@ -8,6 +8,7 @@ tags:
   - Programación
   - Desarrollo
   - Tecnología
+  - Javascript
 ---
 Si trabajas en desarrollo web es más que seguro que has escuchado acerca de React, VueJS y Angular, en este artículo daré algo de contexto y comparación entre las 2 opciones con las que he tenido que trabajar y cuales son las ventajas y desventajas.
 
@@ -59,28 +60,30 @@ Los desarrolladores que usan React por su lado disfrutan:
 * Un ecosistema de paquetes/componentes extenso
 * Uso generalizado (más oportunidades laborales y de soporte)
 
-Mientras en la encuesta de [2020 de Stack Overflow,](https://insights.stackoverflow.com/survey/2020#most-popular-technologies) sobre los frameworks más utilizados React estaba en 2do lugar con un 35.9% en 2021 pasó al primer lugar con un 40.14% (superando a jQuery que antes era el primero).
+Mientras en la encuesta de [2020 de Stack Overflow,](https://insights.stackoverflow.com/survey/2020#most-popular-technologies) sobre los frameworks más utilizados React estaba en 2do lugar con un 35.9% en [2021](https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-web-frameworks) pasó al primer lugar con un 40.14% (superando a jQuery que antes era el primero).
+
+![Most used Web Frameworks in 2021](screen-shot-2022-01-24-at-01.44.51.png "Most used Web Frameworks in 2021")
 
 ### Facilidad de Integración 
 
 **Vue.js** se considera un framework progresivo, es decir se puede integrar de manera incremental en un proyecto ya existente sin necesidad de migrar toda la aplicación, un ejemplo sencillo sería crear un widget de interacción específico a una aplicación web que ya contara con código legado.  Se puede mantener la aplicación sin cambios y sólo agregar la nueva funcionalidad con VueJS.
 
-**React.js** en cambio fue concebido originalmente para proyectos de gran escala, por lo cual si sólo quisiera agregar una pequena funcnnnsdf
-
-Since React was created for large-scale Web projects, choosing it for small and simple apps might be overkill. Although it requires a lot of boilerplate code just to set up a working project, React’s architecture ultimately pays off in the long run.
-
-[JSX](https://reactjs.org/docs/introducing-jsx.html) leaves developers the full power of JavaScript at their disposal—flow controls and advanced IDE features such as autocompletion or listing are included in the component view templates.
+**React.js** en cambio fue concebido originalmente para proyectos de gran escala, por lo cual si sólo quisiera agregar una pequeña funcionalidad, sería más un dolor de cabeza que una ventaja.  La configuración inicial y la selección de componentes probablemente tomaría más tiempo de lo que se necesita para hacer una funcionalidad rápida, pero permite tener una mejor arquitectura para proyectos grandes, así que los beneficios se ven al largo plazo.
 
 ## La herramienta correcta dependerá de tus necesidades
 
-Vue.js and React are both great tools for building interactive user interfaces. To choose which one is better for your next project, you have to take a number of factors into account, including your specific use case, your business needs, environment, developer availability, budget, and the timeframe you’re working with.
+Vue.js y React son ambas muy buenas herramientas para construir interfaces de usuario e interacción.  Para escoger cual es la mejor para tu próximo proyecto, hay que analizar múltiples factores, partiendo con el caso de uso específico, las necesidades del negocio, el ambiente, la disponibilidad de desarrolladores que tienes a la mano, presupuesto y el tiempo que tienes disponible.
 
-Vue is [lightweight, easy to learn, and pleasant to write in](https://www.monterail.com/blog/why-we-use-vuejs). Because of its familiar templating syntax and use of components, integrating or migrating existing projects to Vue is faster and smoother. For that reason, Vue.js is great for startups but can be just as well used in large-scale applications.
+Vue is muy ligero, fácil de aprender y divertido de usar.  Al tener una sintaxis simple, si recién comienzas a aprender el uso de componentes o vienes del mundo jQuery, utilizarlo será muy sencillo y la transición no será dolorosa.  Funciona bien para proyectos pequeños, pero también puede funcionar para aplicaciones de gran tamaño.
 
-Performance-wise, Vue.js is on a par with React. However, final results essentially depend on optimization efforts and application size. The documentation is excellent, explaining everything in minute detail.
+En términos de rendimiento, Vue.js está a la par con React, sin embargo depende más de las optimizaciones y el tamaño de la aplicación; tiene muy buena documentación, explicando cada elemento y dando el paso a paso a detalle.
 
-Vue has official packages for state management, routing, or server-side rendering, which come with up-to-date support and ensure synchronization throughout your system. With Vue CLI 3 and Vue UI, setting up a project and preparing it for deployment is lightning fast. This, in turn, helps build MVPs in a quick and efficient manner.
+Vue viene con las "baterías incluídas" al tener paquetes oficiales para manejo de estados, enrutamiento, renderizado del lado del servidor (SSR) y se mantiene sumamente activo. Todo eso sumado, permite crear MVPs de una forma rápida y eficiente.
 
-React, on the other hand, is a veteran of the JS field. With corporate support, a large community, and an even bigger ecosystem, React is great for [building complex enterprise-grade applications.](https://www.monterail.com/blog/react-native-reactxp) Also, the job market is booming with experienced React developers, so you won’t find yourself in short supply of specialists. Because its maturity and community, reaching out for help and getting a prompt and detailed answer is more or less guaranteed. 
+React, por su parte es un "veterano" entre las herramientas de Javascript.  Con soporte corporativo, una tremenda comunidad y un ecosistema extremadamente grande, React se convierte en una muy buena herramienta para construir aplicaciones de nivel empresarial.  Otro punto importante, es que justamente por el uso que tiene y la adopción generalizada, el mercado laboral tiene muchísimas ofertas disponibles para quienes manejan esta herramienta. De la misma forma, buscar información o tratar de conseguir ayuda no será para nada un problema.
 
-Oportunidades laborales
+Sin duda hay más y nuevos competidores cada vez en el área de herramientas de front-end, [Angular](https://angular.io/) sigue con el soporte de Google, [Svelte](https://svelte.dev/) ha ganado mucha tracción, [Alpine.js](https://alpinejs.dev/) se presenta como el futuro reemplazo de jQuery, [Stimulus](https://stimulus.hotwired.dev/) también se presenta como otro competidor, la lista podría continuar sin parar. 
+
+Al final del día lo más importante será poder resolver un problema de la mejor forma posible y con el menor impacto en el uso de recursos, por lo cual recomendaría siempre mantener un enfoque pragmático y escoger la herramienta que más se ajuste al proyecto y al equipo, y si tienes la oportunidad de experimentar y probar, hazlo.  
+
+Una recomendación profesional para proyectos medianos a grandes, fíjate en las tendencias del mercado, no querrás quedarte con una herramienta que pierde su "furor" y no tiene soporte o su desarrollo se congela y complique tu propio proyecto.
