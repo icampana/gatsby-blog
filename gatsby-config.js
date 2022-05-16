@@ -69,7 +69,14 @@ module.exports = {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
-          'gatsby-remark-autolink-headers',
+          {
+            resolve: 'gatsby-remark-autolink-headers',
+            options: {
+              icon: false,
+              removeAccents: true,
+              maintainCase: true
+            }
+          },
           'gatsby-remark-external-links',
           'gatsby-remark-social-cards',
           'gatsby-remark-embedder',
@@ -144,7 +151,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Your Site's RSS Feed",
+            title: "Ivan Gabriel's RSS Feed",
           },
         ],
       },
