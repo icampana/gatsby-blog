@@ -51,7 +51,7 @@ class BlogPostTemplate extends React.Component {
         />
         <article>
           <header>
-            <h1 className="font-sans mt-1 mb-5 text-blue-600">
+            <h1 className="font-sans mt-1 mb-5 text-xl text-blue-600">
               {post.frontmatter.title}
             </h1>
             <p
