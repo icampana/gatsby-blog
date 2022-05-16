@@ -47,6 +47,7 @@ span + em {
 
 .container p {
   margin-bottom: 15px;
+  line-height: 1.86rem;
 }
 
 .blog-post-box {
@@ -64,4 +65,5 @@ a.link {
 section h2 {
   @apply font-bold text-red-400;
   margin-top: 35px;
+  margin-bottom: 20px;
 }
